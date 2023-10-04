@@ -4,3 +4,15 @@ When it comes to accessibility in my work, I’d admit it isn’t something I co
 When I'm not doing anything brain tasking, I'm asleep or consuming fiction like mangas, comics, animes 😅.
 Also, I’ve contributed in other project rounds (not Wagtail) in the Outreachy cycle and hope that experience will be useful to everyone.
 Happy to be here 😄.
+
+
+## My links are :
+
+|Media    | Links|
+| ------------- | ------------- |
+| GitHub Profile Link | [MyGitHubLink](https://github.com/waju-ire)  |
+| Personal blog link | [MediumBlog](https://medium.com/@waju-o)  |
+|Social media link | [LinkedIn](https://www.linkedin.com/in/ahmed-olaitan-7519161b2/) |
+
+
+
