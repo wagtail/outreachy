@@ -7,3 +7,10 @@ I mostly use Python especially in the areas of data science and machine learning
 
 I am obsessed with productivity tools and systems and I'm deeply committed to the principles of the Second Brain methodology. In my idle times I mostly like to read and listen to audiobooks alongside and yah I like to sleep as well. 😂
 I'm also looking forward to making new connections 🥳
+
+| Platform                 | Link                                         |
+|--------------------------|----------------------------------------------|
+| GitHub Profile           | [Profile](https://github.com/Fatima-Bint) 🚀 |
+| Personal Blog            | [Blog](https://fatimabint.hashnode.dev/)  📝 |
+| Social Profile           | [✖](https://twitter.com/FateemahZahrah4)  💃 |
+
