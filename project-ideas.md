@@ -4,13 +4,13 @@
 
 - [Accessibility features documentation](#accessibility-features-documentation)
 - [Adopt generic class based views across the Wagtail admin](#adopt-generic-class-based-views-across-the-wagtail-admin)
-- [Wagtail.org website accessibility](#wagtail-org-website-accessibility)
+- [Wagtail.org website accessibility](#wagtailorg-website-accessibility)
 
 ## Accessibility features documentation
 
 Quick links:
 
-- [Questions? Discussions thread: Accessibility features documentation](https://github.com/wagtail/outreachy/discussions/)
+- [Questions? Discussions thread: Accessibility features documentation](https://github.com/wagtail/outreachy/discussions/2)
 - [Record your contributions: Accessibility features documentation](https://www.outreachy.org/outreachy-december-2023-internship-round/communities/wagtail/accessibility-features-documentation/contributions/)
 
 [Wagtail](https://wagtail.org/) is a Content Management System (CMS) built upon the [Django](https://www.djangoproject.com/) web framework. Our CMS features a very polished administration interface with lots of content management features, which we’re very proud of. Unfortunately our "editor guide" documentation for users hasn’t kept up with our more recent overhauls of the CMS, and in particular is missing a lot of information about the _accessibility features_ in the CMS, which is in direct contradiction with our goal to follow the [ATAG 2.0](https://www.w3.org/TR/ATAG20/) standard.
@@ -100,7 +100,7 @@ Once the desired outline is complete, we can consider some of our secondary goal
 
 Quick links:
 
-- [Questions? Discussions thread: Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/discussions/)
+- [Questions? Discussions thread: Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/discussions/4)
 - [Record your contributions: Adopt generic class based views across the Wagtail admin](https://www.outreachy.org/outreachy-december-2023-internship-round/communities/wagtail/adopt-generic-class-based-views-across-the-wagtail-admin/contributions/)
 
 The Wagtail admin consists of a mix of Django's function-based views and class-based views. In recent releases, we have been adding generic class-based views within Wagtail, which lets us reuse similar code for various views in the admin. For consistency and maintainability purposes, we have been migrating some of the function-based views into class-based views that extend the generic views. There are still plenty of views in the Wagtail admin that are yet to migrated to use the generic views. This project aims to refactor those views so that we can reduce code duplication and enforce consistency across the admin.
@@ -153,7 +153,7 @@ Look at this issue for more details: [☂️ Adopt generic class based views acr
 
 Quick links:
 
-- [Questions? Discussions thread: Wagtail.org website accessibility](https://github.com/wagtail/outreachy/discussions/)
+- [Questions? Discussions thread: Wagtail.org website accessibility](https://github.com/wagtail/outreachy/discussions/2)
 - [Record your contributions: Wagtail.org website accessibility](https://www.outreachy.org/outreachy-december-2023-internship-round/communities/wagtail/wagtailorg-accessibility/contributions/)
 
 [Wagtail](https://wagtail.org/) is a Content Management System (CMS) built upon the [Django](https://www.djangoproject.com/) web framework. We want sites built with Wagtail to be as accessible as possible (see our [accessibility statement](https://wagtail.org/accessibility/)). As part of this internship, we want to improve our [wagtail.org](https://wagtail.org/) website to become a reference implementation of accessibility best practices in the Wagtail ecosystem.
