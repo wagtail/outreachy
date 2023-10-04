@@ -5,3 +5,9 @@
 When I'm not coding, I like to clatter away my thoughts on a keypad or read a nice book 📖. I also love to exercise 🏋️, and do anything that helps me mentally unwind, and takes me away from a screen 💻.
 
 For Outreachy, this will be my first time participating, but I've read and followed up with all their sessions to get a good enough understanding. I also realize that at the heart of all open-source communities is communication 📞. I really look forward to the upcoming weeks (and possibly years).
+
+| Reach me @      
+|---------------
+| My [github](https://github.com/chiemezuo/)
+| My [blog](https://dev.to/chiemezuo)
+| My [twitter](https://twitter.com/CNA_tion)
