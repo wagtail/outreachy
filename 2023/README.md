@@ -2,4 +2,5 @@
 
 Welcome! Add your name to this list, keeping the list in alphabetical order:
 
+- Cynthia Osarumwense Udoh
 - Thibaud Colas
