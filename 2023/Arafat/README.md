@@ -1,0 +1,1 @@
+Hello, I am Arafat Abdussale, a software engineer with interest in building web applications using Frontend technologies. I am excited to be contributing to the Wagtail Accessibility project as an Outreachy applicant.
