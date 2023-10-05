@@ -1,3 +1,4 @@
+# Introduction
 Hello everyone, my name is Cynthia, an Outreachy Applicant. 
 I'm based in Nigeria. My next birthday is May 3rd 2024. 
 I love to eat and read novels. 
@@ -11,16 +12,11 @@ What's even more interesting is that I never really paid attention to these thin
 
 I'm excited to collaborate with others who share my passion for making technology more inclusive, and I believe this project is a great starting point to make a real impact.
 
+## Reach me here
 
-# Reach me here
+| Platform          | Link                                    |
+|-------------------|-----------------------------------------|
+| GitHub            | [Profile](https://github.com/Amalearner) |
+| Blog | [Link](https://elysium.hashnode.dev/)                |
+| Twitter    | [Profile](https://twitter.com/Abbaslover_)      |
 
-## My GitHub profile
- https://github.com/Amalearner 
-
-## My personal blog
-**Hasnode**:https://elysium.hashnode.dev/
-Medium: https://medium.com/@udohosarumwensecynthia 
-
-## My social profiles
-**Twitter**: https://twitter.com/Abbaslover_
-**Instagram**: https://www.instagram.com/cindyflamez/ 
