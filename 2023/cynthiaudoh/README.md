@@ -12,15 +12,15 @@ What's even more interesting is that I never really paid attention to these thin
 I'm excited to collaborate with others who share my passion for making technology more inclusive, and I believe this project is a great starting point to make a real impact.
 
 
-#Reach me here
+# Reach me here
 
-##My GitHub profile
+## My GitHub profile
  https://github.com/Amalearner 
 
-##My personal blog
+## My personal blog
 **Hasnode**:https://elysium.hashnode.dev/
 Medium: https://medium.com/@udohosarumwensecynthia 
 
-##My social profiles
+## My social profiles
 **Twitter**: https://twitter.com/Abbaslover_
 **Instagram**: https://www.instagram.com/cindyflamez/ 
