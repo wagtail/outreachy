@@ -9,3 +9,11 @@ As this is my first time in Open Source contributions, I have a keen interest in
 When I am not coding or doing anything that relates to tech, you can always find me on the football pitch. I am a big fan of football and I am a passionate supporter of Liverpool FC. I also have interests in other sports, such as Formula 1, Basketball, Tennis, and Boxing.
 
 Looking forward to explore potential collaborations and to discuss exciting opportunities with you all.
+
+### Contact Details
+
+|Socials| Links |
+|:--|:---|
+|Github | [Chinex-Boroja](https://github.com/Chinex-Boroja)|
+|Blog/Website| [Hashnode](https://chinexboroja24.hashnode.dev/)
+|Linkedin| [Chinedu Ihedioha](https://www.linkedin.com/in/chinedu-inno-ihedioha24/)|
