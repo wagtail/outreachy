@@ -6,7 +6,11 @@
 
 - When I am not coding, I write technical articles about Postgres. I also spend my day reading paranormal and thriller novels from renowned authors such as Laurie Forest and John Grisham. I look forward to collaborating and learning from you all.
 
-| [GitHub](github.com/chidera6) | [dev.to](dev.to/chidera)| [LinkedIn](https://www.linkedin.com/in/chidera-stella-onumajuru/) |
+| Contact Me|
+|------|
+| [GitHub](github.com/chidera6) |
+|[dev.to](dev.to/chidera)|
+|[LinkedIn](https://www.linkedin.com/in/chidera-stella-onumajuru/) |
 
 ## Tasks
 [Checklist:Getting started with Outreachy](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-getting-started-with-outreachy)
@@ -20,6 +24,7 @@ This is the first checklist for candidates to go through.
 - [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
 [Checklist:open source contributions](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-open-source-contributions)
+> For participants already experienced with GitHub and Markdown, feel free to go through all the suggested tasks in a single pull request.
 
 This checklist helps you demonstrate your understanding of how people use GitHub to collaborate.
 
