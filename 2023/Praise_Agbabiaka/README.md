@@ -7,3 +7,11 @@ I adopt the Shift-Left approach to digital accessibility and so believe that acc
 My first open-source project was contributing descriptions of the flags of the 194 sovereign countries in the REST Countries API so that web developers who consume the API for their web projects can use the descriptions as alt text of the flag images.
 I am excited to be one of those contributing to Wagtail project 3 i.e. Wagtail.org Accessibility.
 I look forward to learning and collaborating with you all!
+
+## Where You Can Find Me
+
+| Username      | Platform |
+| ----------- | ----------- |
+| praiztech     | [GitHub](https://github.com/praiztech)       |
+| praiztech   | [Blog](https://dev.to/praiztech)        |
+| Praise Agbabiaka   | [LinkedIn](https://www.linkedin.com/in/praise-agbabiaka)        |
