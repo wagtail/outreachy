@@ -4,6 +4,7 @@ Here is a quick-start guide on how to contribute to the wagtail/outreachy reposi
 
 Either this is your first time using git or you need to quickly recap your previous knowledge on git, you will find this helpful.
 
+
 ## Steps
 
 Take the following steps to make your contribution:
@@ -65,7 +66,9 @@ The branch with the mark `*` is the current branch you are working on
 
 10. Push from your branch to the remote branch using `git push`
 
-11. Once your contribution is ready for review, create a pull request **in the branch** on your **fork** on the GitHub UI. The PR is automatically sent to the upstream repo - the repo you forked from (wagtail/outreachy)
+11. Once your contribution is ready for review, create a pull request **in the branch** on your **fork** on the GitHub UI. The PR is automatically sent to the upstream repo - the repo you forked from (wagtail/outreachy).
+
+If your pull request is still open, any new changes made in the exact branch will be saved in the PR.
 
 12. If you will like to update your branch with the` main` branch on the `wagtail/outreachy` repo:
 
