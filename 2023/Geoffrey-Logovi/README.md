@@ -56,5 +56,5 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 To stand out as an applicant,
 
-- [] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
-- [] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
