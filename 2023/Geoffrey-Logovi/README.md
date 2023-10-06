@@ -1,12 +1,10 @@
 # Introduction
 
 Hello everyone, my name is Geoffrey, an Outreachy Applicant.
-I'm based in Lomé, Togo, West Africa. I'm Frenchnspeaker, but I speak English and three local languages.
-As a tech enthusiast and been Microsoft Student Ambassador,
- I'm passionate about advocacy, community outreach, I'm familiar with Git/GitHub and open source.
+I'm based in Lomé, Togo, West Africa. I'm a French speaker, but I speak English and three local languages.
+As a tech enthusiast and Microsoft Student Ambassador, I'm passionate about advocacy, and community outreach, I'm familiar with Git/GitHub and open source.
 
-> [!NOTE_ _ _]  
-Really happy to join you all fellows, and can't wait to bring awerness of Wagtail projects and open source culture at Wagtail.
+> Really happy to join you all fellows, and can't wait to bring awareness of Wagtail projects and open source culture at Wagtail.
 
 ## Reach me here
 
