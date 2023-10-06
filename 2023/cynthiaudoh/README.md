@@ -1,12 +1,18 @@
-Hello everyone, my name is Cynthia, an Outreachy Applicant. 
-I'm based in Nigeria. My next birthday is May 3rd 2024. 
-I love to eat and read novels. 
-I'm also passionate about community management.
+**Checklist: interest in learning**
 
-I'm really excited to dive into Wagtail's Accessibility features documentation project as my first step into the open-source world and even in Outreachy. 
-I've always had a knack for taking complex concepts i learn about and breaking them down into their simplest form (yeah you caught me. I love technical writing) :). 
-It's something I genuinely enjoy doing. 
-Now, as I'm starting to learn about accessibility through Wagtail, I've realized just how impactful it can be when it comes to navigating digital platforms. 
-What's even more interesting is that I never really paid attention to these things before, but now they're standing out to me.
+With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
 
-I'm excited to collaborate with others who share my passion for making technology more inclusive, and I believe this project is a great starting point to make a real impact.
+- [] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
+- [] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on https://hemingwayapp.com/. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+
+**Checklist: Accessibility features documentation**
+
+🚧 This checklist is for candidates interested in working on the Accessibility features documentation project.
+
+- [] Write a short blog post which demonstrates your understanding of accessibility. In English, with at least one image, less than 500 words. Demonstrate your understanding based on past experiences. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [] Write a short blog post which demonstrates your expertise in technical writing. In English, with at least one image, less than 500 words. Demonstrate your expertise based on past experiences. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [] Ask @thibaudcolas via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
+- [] With your access to the demo site and by reviewing our user guide, identify a feature of Wagtail which isn’t documented, and report it back on the guide project issue tracker. Make sure to explain what the feature is, why and how you think it should be documented.
+- [] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
+- [] Ask @thibaudcolas via email or on Slack to give you editor access to guide.wagtail.org. Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
+- [] TBC – Additional tasks specific to the Outreachy application process.
