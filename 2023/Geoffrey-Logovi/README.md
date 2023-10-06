@@ -5,7 +5,7 @@ I'm based in Lomé, Togo, West Africa. I'm Frenchnspeaker, but I speak English a
 As a tech enthusiast and been Microsoft Student Ambassador,
  I'm passionate about advocacy, community outreach, I'm familiar with Git/GitHub and open source.
 
-> [__!NOTE__]  
+> [!NOTE_ _ _]  
 Really happy to join you all fellows, and can't wait to bring awerness of Wagtail projects and open source culture at Wagtail.
 
 ## Reach me here
