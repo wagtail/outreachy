@@ -5,3 +5,9 @@ Hi everyone. My name is Ryker—a front-end developer and technical based in Nig
 This is my first Open Source contribution. Participating in Outreachy will further widen my scope and understanding of key elements and standard practices needed to succeed in Open Source contribution including what it takes to succeed when working for a tech company. Also, this internship will help me harness my knowledge of Git and GitHub in making Open Source contributions and collaboration. I also wish to learn and help others where necessary.
 
 When I'm not working, I love to take a walk to increase my daily step count 😊😊, I also do anaerobic exercise most times to brush off the stress of a sedentary lifestyle. I hope for a thrilling experience that will positively transform my tech career.
+
+| 🤙Socials    | 🖇️Link                          |
+| ------------ | ------------------------------- |
+| My [GitHub]  | (https://github.com/0x-Ryker)   |
+| My [Blog]    | (https://0xryker.hashnode.dev/) |
+| My [Twitter] | (https://twitter.com/0x_Ryker)  |
