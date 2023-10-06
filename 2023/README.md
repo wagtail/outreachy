@@ -7,8 +7,9 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Akujobi Chiemezuo
 - Chider Stella Onumajuru
 - Cynthia Osarumwense Udoh
+- Geoffrey Logovi
 - Edgar Nwajei
-- Fortune Obadiah 
+- Fortune Obadiah
 - Ihedioha Chinedu Innocent
 - Olumide Micheal
 - Praise Agbabiaka
