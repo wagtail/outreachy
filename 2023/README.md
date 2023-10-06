@@ -10,6 +10,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Edgar Nwajei
 - Fortune Obadiah 
 - Ihedioha Chinedu Innocent
+- Kudakwashe Chris Chipangura
 - Olumide Micheal
 - Praise Agbabiaka
 - Thibaud Colas
