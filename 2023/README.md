@@ -6,9 +6,10 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Ahmed Olaitan
 - Akujobi Chiemezuo
 - Chider Stella Onumajuru
+- Cole Kofoworola
 - Cynthia Osarumwense Udoh
 - Edgar Nwajei
-- Fortune Obadiah 
+- Fortune Obadiah
 - Ihedioha Chinedu Innocent
 - Olumide Micheal
 - Praise Agbabiaka
