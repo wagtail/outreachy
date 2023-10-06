@@ -4,10 +4,10 @@ I have done my B.Tech from Harcourt Butler Technical University,India major in C
 
 I have contributed in various open source projets of AnitaB, creative commons. I have been a project mentor in FOSS community known as Girscript summer of code, in which i got almost 100 contributor who worked with me for 3 months and also in Google developer student club. I have also been mentor in open source hack (challenge) in AnitaB as well as google cloud facilitator of my campus, in which upto 200 students participated and worked under my guidance.
 
-
 ## Links
 
 | Platform       | Links                                                            |
 |----------------|------------------------------------------------------------------|
 | Github         | [Github profile](https://github.com/khushishikhu)                |
 | Social Profile | [Linkedin](https://www.linkedin.com/in/khushi-gautam-7708b4191/) |
+
