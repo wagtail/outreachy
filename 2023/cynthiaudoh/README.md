@@ -63,7 +63,6 @@ To stand out as an applicant,
 - [] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
-<!--
 **Checklist: interest in learning**
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
@@ -82,4 +81,3 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [] Ask @thibaudcolas via email or on Slack to give you editor access to guide.wagtail.org. Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [] TBC – Additional tasks specific to the Outreachy application process.
--->
