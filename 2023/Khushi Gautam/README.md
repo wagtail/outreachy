@@ -7,5 +7,7 @@ I have contributed in various open source projets of AnitaB, creative commons. I
 
 ## Links
 
-| Github         | [Github profile](https://github.com/khushishikhu) |
+| Platform       | Links                                                            |
+|----------------|------------------------------------------------------------------|
+| Github         | [Github profile](https://github.com/khushishikhu)                |
 | Social Profile | [Linkedin](https://www.linkedin.com/in/khushi-gautam-7708b4191/) |
