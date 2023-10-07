@@ -52,16 +52,29 @@ To stand out as an applicant,
 [Checklist: interest in learning](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-interest-in-learning)
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
 
-- [ ] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on https://hemingwayapp.com/. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on https://hemingwayapp.com/. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 [Checklist: Adopt generic class-based views across all areas of admin](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-adopt-generic-class-based-views-across-the-wagtail-admin)
 
 🚧 This checklist is for candidates interested in working on the Adopt generic class based views across the Wagtail admin project.
 
-- [ ] Write a short blog post which demonstrates your understanding of Django, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
+- [x] Write a short blog post which demonstrates your understanding of Django, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
 Go through Wagtail’s guide: Your first contribution.
 - [ ] Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
 Contribute a solution to the issue you selected based on guidance in section "6. Contributing a solution".
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+1. https://docs.wagtail.org/en/latest/getting_started/tutorial.html
+2. https://www.youtube.com/watch?v=1_yA25ZmNkA&list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub
+3. https://www.youtube.com/watch?v=mbUFWkZAm8w&t=308s&pp=ygUHd2FndGFpbA%3D%3D
+
+## Blog
+
+- What I have learned.
+1. [wagtail set up guide](https://dev.to/chidera/setting-up-wagtail-for-development-on-windows-a-step-by-step-guide-j7p).
+
+- Blog post to demonstrate my knowledge of django.
+1. [Django crispy forms](https://dev.to/chidera/a-developers-journey-with-django-crispy-forms-2gcc)
