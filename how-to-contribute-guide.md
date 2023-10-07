@@ -21,8 +21,8 @@ Take the following steps to make your contribution:
 
 For example, 
 ```
-mkdir waggy-tail
-cd waggy-tail/
+mkdir outreachy
+cd outreachy/
 git clone https://github.com/<your-username>/wagtail-outreachy
 cd wagtail-outreachy
 ```
