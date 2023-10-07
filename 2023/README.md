@@ -12,4 +12,5 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Ihedioha Chinedu Innocent
 - Olumide Micheal
 - Praise Agbabiaka
+- Sylvia Boyani
 - Thibaud Colas
