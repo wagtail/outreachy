@@ -12,7 +12,7 @@ I'm eagerly anticipating the opportunity to learn, grow, and contribute to this 
 
 | Github Profile               | Personal Website             | Preferred social profile     |
 | ---------------------------- | ---------------------------- | ---------------------------- |
-| https://github.com/Afola-Ode | https://afolaode.netlify.app | https://github.com/Afola-Ode |
+| https://github.com/Afola-Ode | https://afolaode.netlify.app | https://twitter.com/HuntaFola |
 
 ## Tasks
 
