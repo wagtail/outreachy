@@ -10,7 +10,7 @@ I understand that Outreachy and open source communities thrive on collaboration 
 
 Cheers!
 
-## Where You Can Find Me
+## Let's Connect 
 
 | Username      | Platform |
 | ----------- | ----------- |
