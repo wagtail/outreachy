@@ -8,6 +8,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chider Stella Onumajuru
 - Cynthia Osarumwense Udoh
 - Edgar Nwajei
+- Fatima-Bint Ibrahim
 - Fortune Obadiah 
 - Ihedioha Chinedu Innocent
 - Olumide Micheal
