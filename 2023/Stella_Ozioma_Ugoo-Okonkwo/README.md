@@ -15,3 +15,9 @@ I am drawn to Wagtail because of its reputation for fostering a collaborative an
 I look forward to learning, growing, and contributing to Wagtail. Please feel free to reach out if you require any additional information or if there are specific tasks I can complete as part of the application process.
 
 Thank You.
+
+| Socials      |
+| :----------- | :----------------------------------------------------------------------------- |
+| Github       | [Ozyugoo](https://github.com/Ozyugoo)                                          |
+| Blog/Website | [ugoo-okonkwostellaozioma.hashnode.dev](https://hashnode.com/@Ozyugoo)         |
+| Linkedin     | [Stella (Ozioma) Ugoo-Okonkwo](https://www.linkedin.com/in/stellaozioma______) |
