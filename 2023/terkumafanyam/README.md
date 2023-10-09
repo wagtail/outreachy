@@ -75,3 +75,32 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
+## Research
+
+I found some of these resources valuable in my effort to understand  Wagtail as a project and Web accessibility. I am interested in contributing to the Wagtail's web accessibility feature documentation:
+
+- [About Wagtail]( https://wagtail.org/about-wagtail/): I used this to get the general idea of Wagtail.
+- [web.dev](https://web.dev/accessibility/): This helped me to get familiar with accessibility.
+- [WebAIM](https://webaim.org/standards/wcag/checklist): Provided summaries of the [WCAG](https://www.w3.org/TR/WCAG22/) standards
+- [Silktide](https://www.youtube.com/playlist?list=PLWSYD-KxdDxsgf16rlLlotPHo2LLo0EGr): This playlist was immensely helpful. It has short and concise videos.
+
+
+## Recent Learnings (Blog post)
+
+### [Accessibility and Inclusivity in Web Development](https://terkumafanyam.hashnode.dev/accessibility-and-inclusivity-in-web-development)
+
+Accessibility, inclusivity and web development, Hmm, how did these words get mixed? I asked myself. Whenever I visit a website, the first thing that catches my attention is the user interface. Is it a site I would like to visit again or not? I used to think that websites were more about having a nice or fancy User Interface (UI). So what is web accessibility, what does web inclusivity mean?
+
+Web Accessibility is the practice of designing websites and technologies for everyone. It is an inclusive practice, which means people with disabilities can use them. Now that we know what accessibility means, I would like to share an experience.
+
+My experience is with a senior developer that I worked with. During a code review, he told me that I used too many div elements in my reactJS code and that my alt texts were vague. Who is going to need the image descriptions anyway? what I thought to myself for quite a while but I was dead wrong. I have gotten a proper insight after learning about accessibility. As a front-end developer, once my web pages looked good and worked as expected, I felt good. I didn't take care, I could make a div to function like a button and images on my site did not have descriptive alt texts.
+
+Now, let's explore why accessibility is important. Let's look at a typical tool we use often, PDF readers. These are apps we use to read electronic documents. PDF readers like Foxit Reader have a feature called "read aloud". This feature reads out the content of your document when activated. People with visual disabilities rely on assistive features like this. Let's do a quick exercise to show how this particular 'read aloud' feature aids this category of people.
+
+The first step is to open any document on your device (PC or mobile) using a PDF reader. Try reading it with your eyes shut. It was impossible, right? Now, open your eyes and find the 'read aloud' button and click it. Now close your eyes again. what is different this time? yes, that's correct. you can hear what is in the document. For a moment we couldn't use our eyes but we were able to get the information we needed from our document. yay! Some people can not see, they have to rely on assistive technologies like screen readers to read.
+
+Screen readers navigate websites as well. Non-accessible websites make it almost impossible to help disabled people. A screen reader can not know when a website uses a div instead of a button. The screen reader would miss it so would the user.
+
+So far I have only talked about visual impairments but there are other forms of impairments. They can be physical, speech, cognitive, auditory or neurological impairments. As developers, we should aim to build websites or technologies that are accessible.
+
+Thanks for reading to the end. I hope you enjoyed your journey with me. :) <https://terkumafanyam.hashnode.dev/accessibility-and-inclusivity-in-web-development>
