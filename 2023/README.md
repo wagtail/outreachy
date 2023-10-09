@@ -11,6 +11,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Cynthia Osarumwense Udoh
 - Geoffrey Logovi
 - Edgar Nwajei
+- Folashade Ode
 - Fortune Obadiah
 - Ihedioha Chinedu Innocent
 - Olumide Micheal
