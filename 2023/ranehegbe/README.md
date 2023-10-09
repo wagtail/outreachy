@@ -71,4 +71,5 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ## Research
 - [Wagtail Documentation - Getting Started](https://docs.wagtail.org/en/latest/getting_started/index.html)
 - [Wagtail Documentation - The Zen of Wagtail](https://docs.wagtail.org/en/latest/getting_started/the_zen_of_wagtail.html)
+- [Wagtail Accessibility Team's Github Page](https://github.com/wagtail/wagtail/wiki/Accessibility-team)
 
