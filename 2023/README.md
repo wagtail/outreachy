@@ -18,4 +18,5 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kudakwashe Chris Chipangura
 - Olumide Micheal
 - Praise Agbabiaka
+- Sylvia Boyani
 - Thibaud Colas
