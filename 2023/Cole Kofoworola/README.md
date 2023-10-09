@@ -7,3 +7,11 @@ I started learning front-end development during my career break during childbirt
 I love classical music, I play the clarinet for fun and I love nature.
 
 This is my first time participating in Outreachy. I read about Open Source sometime this year and made 2 contributions to a friend's project and it felt like I made a significant impact. It was amazing. I am happy to work with everyone.
+
+##Social Links
+
+| **Social Site**     | **Link**                                                        |
+| :------------------ | :-------------------------------------------------------------- |
+| My GitHub profile   | [kofodym](https://github.com/kofodym)                           |
+| My personal blog    | [kofocole](https://www.kofocole.hashnode.dev)                   |
+| My Linkedin Profile | [kofo-cole](https://www.https://www.linkedin.com/in/kofo-cole/) |
