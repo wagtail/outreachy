@@ -68,3 +68,5 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Ask @thibaudcolas via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
+## Research
+
