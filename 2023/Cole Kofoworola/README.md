@@ -13,5 +13,8 @@ This is my first time participating in Outreachy. I read about Open Source somet
 | **Social Site**     | **Link**                                                        |
 | :------------------ | :-------------------------------------------------------------- |
 | My GitHub profile   | [kofodym](https://github.com/kofodym)                           |
-| My personal blog    | [kofocole](https://www.kofocole.hashnode.dev)                   |
-| My Linkedin Profile | [kofo-cole](https://www.https://www.linkedin.com/in/kofo-cole/) |
+| My personal blog    | [kofocole](https://kofocole.hashnode.dev)                   |
+| My Linkedin Profile | [kofo-cole](https://www.linkedin.com/in/kofo-cole/) |
+
+
+
