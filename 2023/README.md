@@ -9,6 +9,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Arafat Abdussalam
 - Esther Christopher
 - Chider Stella Onumajuru
+- Cole Kofoworola
 - Cynthia Osarumwense Udoh
 - Geoffrey Logovi
 - Edgar Nwajei
