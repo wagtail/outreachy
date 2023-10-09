@@ -14,6 +14,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Folashade Ode
 - Fortune Obadiah
 - Ihedioha Chinedu Innocent
+- Khushi Gautam
 - Kudakwashe Chris Chipangura
 - Olumide Micheal
 - Praise Agbabiaka
