@@ -5,6 +5,8 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
+- Arafat Abdussalam
+- Esther Christopher
 - Chider Stella Onumajuru
 - Cole Kofoworola
 - Cynthia Osarumwense Udoh
