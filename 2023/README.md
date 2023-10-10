@@ -11,6 +11,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Edgar Nwajei
 - Fortune Obadiah
 - Ihedioha Chinedu Innocent
+- Naomi Ibe
 - Olumide Micheal
 - Praise Agbabiaka
 - Thibaud Colas
