@@ -67,14 +67,14 @@ Contribute a solution to the issue you selected based on guidance in section "6.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 ## Research
-1. https://docs.wagtail.org/en/latest/getting_started/tutorial.html
-2. https://www.youtube.com/watch?v=1_yA25ZmNkA&list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub
-3. https://www.youtube.com/watch?v=mbUFWkZAm8w&t=308s&pp=ygUHd2FndGFpbA%3D%3D
+1. [wagtail documentation](https://docs.wagtail.org/en/latest/getting_started/tutorial.html)
+2. [Learn wagtail tutorial on youtube](https://www.youtube.com/watch?v=1_yA25ZmNkA&)list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub
+3. [Django wagtail CMS tutorial on youtube](https://www.youtube.com/watch?v=mbUFWkZAm8w&t=308s&pp=ygUHd2FndGFpbA%3D%3D)
 
 ## Blog
 
 - What I have learned.
-1. [wagtail set up guide](https://dev.to/chidera/setting-up-wagtail-for-development-on-windows-a-step-by-step-guide-j7p).
+1. [Wagtail set up guide](https://dev.to/chidera/setting-up-wagtail-for-development-on-windows-a-step-by-step-guide-j7p).
 
 - Blog post to demonstrate my knowledge of django.
 1. [Django crispy forms](https://dev.to/chidera/a-developers-journey-with-django-crispy-forms-2gcc)
