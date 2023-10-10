@@ -8,7 +8,3 @@ This is my first time participating in the Outreachy contribution program. The r
 I love to go hiking in the beautiful mountains of Islamabad, Pakistan. The daily jogging and gym workout is one of the important tasks that I do. On weekends, I love to spend some time with my family for outdoor activities.
 Thank you
 
-## Professional and Social Media Links
-[GitHub Profile](https://github.com/nouman17610)
-[Blogs Website](http://myblogzweb.com/)
-[Facebook Profile](https://www.facebook.com/nouman.wali.5)
