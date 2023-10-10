@@ -14,6 +14,12 @@ During my spare time, I enjoy playing chess, listening to podcasts, and reading 
 | Hashnode   | [KennyB](https://hashnode.com/@KennyB)        |
 | LinkedIn   | [Kehinde Bobade](https://www.linkedin.com/in/kehinde-bobade-6a6623178)        |
 
+
+## Research
+[Wagtail developer documentation](https://docs.wagtail.org/en/stable/getting_started/index.html)
+[Django docs on class-based views](https://docs.djangoproject.com/en/4.2/topics/class-based-views/generic-display/)
+[TemplateView](https://docs.djangoproject.com/en/4.2/ref/class-based-views/base/#django.views.generic.base.TemplateView)
+
 ## Tasks
 
 #### Checklist: Getting started with Outreachy
@@ -58,7 +64,7 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Adopt generic class based views across the Wagtail admin
