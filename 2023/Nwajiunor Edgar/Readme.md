@@ -13,4 +13,4 @@ If you would like to connect with me on LinkedIn, kindly do so here; https://www
 | ------------- | ------------- |
 | GitHub  | [GitHub Profile](https://github.com/temiwaji)  |
 | Personal Blog  | [Medium](https://medium.com/@temiwaji)  |
-| Social Media  | [LinkedIn]([https://medium.com/@temiwaji](https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)  |
+| Social Media  | [LinkedIn](https://medium.com/@temiwaji](https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)  |
