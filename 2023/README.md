@@ -19,6 +19,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Ihedioha Chinedu Innocent
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Nwajiunor Edgar
 - Olumide Micheal
 - Praise Agbabiaka
 - Raneh Egbe
