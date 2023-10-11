@@ -71,7 +71,7 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 
 And now, we will want you to start using GitHub so we can review your progress over time, your research ahead of the application, and provide feedback.
 
-- [ ] Make a fork this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
+- [ ] Make a fork of [this repository](https://github.com/wagtail/outreachy/tree/main), then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
 - [ ] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [ ] Now make another pull request to your own README file, adding a Markdown table with links to:
   - [ ] Your GitHub profile
