@@ -99,29 +99,28 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 This is a list of links to the resources I’ve found most useful in my quest to understand Wagtail as a project and the ([Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-accessibility-features-documentation)) project:
 
-### About Wagtail
+### Links useful when learning about Wagtail
 
-- ([Official Wagtail website](https://wagtail.org/))
-- ([Wagtail user guide](https://guide.wagtail.org/en-latest/))
-- ([Wagtail Getting Started Manual](https://docs.wagtail.org/en/stable/getting_started/index.html))
-- ([Wagtail Outreachy Project on Github](https://github.com/wagtail/outreachy))
-- ([What makes Wagtail a great CMS](https://www.linkedin.com/pulse/what-makes-wagtail-great-cms-its-powered-django-python-raoul-capello#))
-- ([Wagtail vs Wordpress](https://wagtail.org/wagtail-vs-wordpress/))
+- [Official Wagtail website](https://wagtail.org/)
+- [Wagtail user guide](https://guide.wagtail.org/en-latest/)
+- [Wagtail Getting Started Manual](https://docs.wagtail.org/en/stable/getting_started/index.html)
+- [Wagtail Outreachy Project on Github](https://github.com/wagtail/outreachy)
+- [What makes Wagtail a great CMS](https://www.linkedin.com/pulse/what-makes-wagtail-great-cms-its-powered-django-python-raoul-capello#)
+- [Wagtail vs Wordpress](https://wagtail.org/wagtail-vs-wordpress/)
 
-### ([Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-accessibility-features-documentation))
+### [Links useful when learning about the Accessibility Features Documentation](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-accessibility-features-documentation)
 
-- ([Accessibility features documentation Project on Github](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-accessibility-features-documentation))
-- ([Accessibility Features Documentation on Outreachy ](https://www.outreachy.org/outreachy-december-2023-internship-round/communities/wagtail/#accessibility-features-documentation))
-- ([Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/))
-- ([What Are the Four Major Categories of Accessibility?](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility))
-- ([Why 96.3% of the Web Fails at Accessibility - GAAD 2023](https://thib.me/why-96-3-percent-of-the-web-fails-at-accessibility-gaad-2023))
-- ([Everything you need to know about WCAG 2.2 Accessibility Standards](https://reciteme.com/news/wcag-2-2-accessibility-standards/))
-- ([What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility))
-- ([Why Web Accessibility Is Important and How You Can Accomplish It](https://medium.com/fbdevclagos/why-web-accessibility-is-important-and-how-you-can-accomplish-it-4f59fda7859c))
-- ([How To Do Website Accessibility The Right Way](https://medium.com/@adasitecompliance/how-to-do-website-accessibility-the-right-way-9ee8b395e9a))
-- ([Checking a website for accessibility](https://www.washington.edu/accesstech/websites/))
-
+- [Accessibility features documentation Project on Github](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-accessibility-features-documentation)
+- [Accessibility Features Documentation on Outreachy ](https://www.outreachy.org/outreachy-december-2023-internship-round/communities/wagtail/#accessibility-features-documentation)
+- [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+- [What Are the Four Major Categories of Accessibility?](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
+- [Why 96.3% of the Web Fails at Accessibility - GAAD 2023](https://thib.me/why-96-3-percent-of-the-web-fails-at-accessibility-gaad-2023)
+- [Everything you need to know about WCAG 2.2 Accessibility Standards](https://reciteme.com/news/wcag-2-2-accessibility-standards/)
+- [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+- [Why Web Accessibility Is Important and How You Can Accomplish It](https://medium.com/fbdevclagos/why-web-accessibility-is-important-and-how-you-can-accomplish-it-4f59fda7859c)
+- [How To Do Website Accessibility The Right Way](https://medium.com/@adasitecompliance/how-to-do-website-accessibility-the-right-way-9ee8b395e9a)
+- [Checking a website for accessibility](https://www.washington.edu/accesstech/websites/)
 
 ## Blog post describing things I’ve learned recently
 
-- ([What I have learned recently](https://kofocole.hashnode.dev/things-i-have-leaned-recently-about-contributing-to-opensource))
+- [What I have learned recently](https://kofocole.hashnode.dev/things-i-have-leaned-recently-about-contributing-to-opensource)
