@@ -122,3 +122,6 @@ This is a list of links to the resources I’ve found most useful in my quest to
 - ([Checking a website for accessibility](https://www.washington.edu/accesstech/websites/))
 
 
+## Blog post describing things I’ve learned recently
+
+- ([What I have learned recently](https://kofocole.hashnode.dev/things-i-have-leaned-recently-about-contributing-to-opensource))
