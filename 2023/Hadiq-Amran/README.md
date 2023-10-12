@@ -93,3 +93,20 @@ With this checklist, we expect you to demonstrate an ability to do research and 
     Fork the wagtail.org repository and set up your own copy for development, either in Gitpod or on your own computer.
     Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
     TBC – Additional tasks specific to the Outreachy application process.
+
+
+##Research
+
+Here are some resources I found useful while understanding Wagtail as a project and the specific project idea(s) I'm interested in:
+
+| Link Description       | Link                                                                             |
+|------------------------|-----------------------------------------------------------------------------------|
+| Contributor Guide      | [Contributor-guide.md](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md) |
+| Mark down formating    | [Mark down formating Documentaion](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)                 |
+| My Project of interest | [ Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#adopt-generic-class-based-views-across-the-wagtail-admin)                         |
+| Wagtail Userguide      | [Wagtail interfaces](https://guide.wagtail.org/en-latest/concepts/wagtail-interfaces/)                 |
+| Official Documentation | [Wagtail official Documentation](https://docs.wagtail.org/en/stable/)                 |
+
+Note : These useful resources I found i believe are of importance to any one who wants to understand Wagtail as project, especially some who has that same tests as me in Django 
+In summary, these links collectively provide a roadmap for both beginners and experienced developers interested in understanding, contributing to, or working with Wagtail. They cover essential aspects such as contributing guidelines, formatting conventions, specific project opportunities, user interface guidance, and comprehensive official documentation, making them indispensable resources for anyone involved with Wagtail.
+I hope they are helpful to some one !
