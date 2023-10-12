@@ -9,3 +9,12 @@ With my expertise in Python and JavaScript, I'm eager to dive in, learn, and col
 I look forward to contributing to Wagtail's success and growing together.
 Warm regards,
 Amran Hadiq
+
+#Social-Links
+
+
+| | Link Description      | Link                                      |
+|-----------------------|--------------------------------------------|
+| Your GitHub Profile   | https://github.com/Hadiqamrana            |
+| Personal Website/Blog | https://medium.com/@amranahadeeq               |
+| Twitter               | https://twitter.com/djunior256z            |
