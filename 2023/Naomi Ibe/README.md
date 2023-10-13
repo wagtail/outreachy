@@ -1,0 +1,3 @@
+Hello I'm Naomi Ibe , from Lagos Nigeria. I'm a software engineer and a backend dev too(entry-level please) Its my first time being accepted as an outreachy applicant (not my first time applying tho). I love to read, listen to music,eat and I also love silence too.
+I started experimenting with Django last year and I'd like to work on the Wagtail project because it would give me a chance to hone my skills, while working on a real world project and still contributing to open source too
+I'm excited to be here!!😊
