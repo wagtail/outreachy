@@ -38,23 +38,23 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 - [x] Make a fork of this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
 - [x] Read through [GitHub’s Markdown formatting documentation](link_to_markdown_formatting).
-- [ ] Now make another pull request to your own README file, adding a Markdown table with links to:
-  - [ ] Your [GitHub profile](link_to_your_github_profile)
-  - [ ] Your personal [website/blog](link_to_your_personal_website)
-  - [ ] Your preferred social profiles if any
-- [ ] Update your pull request to add a new `## Tasks` section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
+- [x] Now make another pull request to your own README file, adding a Markdown table with links to:
+  - [x] Your [GitHub profile](link_to_your_github_profile)
+  - [x] Your personal [website/blog](link_to_your_personal_website)
+  - [x] Your preferred social profiles if any
+- [x] Update your pull request to add a new `## Tasks` section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
 ### Checklist: To Stand Out as an Applicant
 
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
-- [ ] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Checklist: Interest in Learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on [Hemingway Editor](https://hemingwayapp.com/). You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform ([Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/), your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on [Hemingway Editor](https://hemingwayapp.com/). You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform ([Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/), your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Accessibility Features Documentation
 
@@ -69,7 +69,25 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 ## Research
+### Understanding Wagtail
+- [Wagtail Website](https://wagtail.org/)
 - [Wagtail Documentation - Getting Started](https://docs.wagtail.org/en/latest/getting_started/index.html)
 - [Wagtail Documentation - The Zen of Wagtail](https://docs.wagtail.org/en/latest/getting_started/the_zen_of_wagtail.html)
+- [Wagtail's Youtube Channel](https://www.youtube.com/@wagtail4333)
+
+### Understanding Accessibility
+- [World Wide Web Consortium(W3C) Accessibility Section](https://www.w3.org/mission/accessibility/)
+- [Silktide's Youtube videos on Accessibilty](https://youtu.be/5H1JGdqLrWo?si=al2bQUmmohGD2XvH)
+- [Wagtail.org's accessibility page](https://wagtail.org/accessibility/)
+- [Sa11y](https://sa11y.netlify.app/accessibility/)
+- [ATAG Guidelines](https://www.w3.org/TR/ATAG20/)
+- [WCAG Guidelines](https://www.w3.org/TR/WCAG22/)
 - [Wagtail Accessibility Team's Github Page](https://github.com/wagtail/wagtail/wiki/Accessibility-team)
+
+### Things to know about technical documentation
+- [How to create technical documentation](https://slite.com/learn/technical-documentation)
+- [5 steps to create technical documentation that's (actually) helpful](https://plan.io/blog/technical-documentation/)
+
+## Blog post showing my interest in learning
+Click [Here](https://medium.com/@ranehobasi/preserving-heritage-embracing-esan-a-nigerian-language-in-the-digital-era-d5b8a4ce5217)
 
