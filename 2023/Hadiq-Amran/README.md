@@ -44,7 +44,7 @@ Amran Hadiq
 - [x] Update your pull request to add a new ## Tasks section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
 #Checklist: Interest in Learning
-- [ ] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
+- [x] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us.
 
 
@@ -55,7 +55,7 @@ Amran Hadiq
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
 
-    Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
+-[x] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
     Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on https://hemingwayapp.com/. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 #Checklist: Accessibility features documentation
@@ -110,3 +110,7 @@ Here are some resources I found useful while understanding Wagtail as a project 
 Note : These useful resources I found i believe are of importance to any one who wants to understand Wagtail as project, especially some who has that same tests as me in Django 
 In summary, these links collectively provide a roadmap for both beginners and experienced developers interested in understanding, contributing to, or working with Wagtail. They cover essential aspects such as contributing guidelines, formatting conventions, specific project opportunities, user interface guidance, and comprehensive official documentation, making them indispensable resources for anyone involved with Wagtail.
 I hope they are helpful to some one !
+
+
+#Added Recent Learning Adventures Blog Post 
+Hello, Everyone i made a blog where i talk about my new learning adventures and the cool things I'm learning.I'm really excited to share this journey with all of you. you can checkout my blog at https://medium.com/@amranahadeeq/learning-with-wagtail-a-fun-adventure-faef340b4ecd
