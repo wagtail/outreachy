@@ -105,29 +105,32 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ## [First Blog](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
 ![writingstyleguidebanner](https://github.com/nouman17610/outreachy/assets/112282629/42f4ca29-95a4-4d47-8155-77b23b77d44c)
 
-Lessons learned from Microsoft Style Guide
+### Lessons learned from Microsoft Style Guide
 
 Technical communication is an important skill. Each industry has a separate style guide. I learned interesting lessons from the Microsoft Style Guide. This post will discuss the lessons learned from the guide.
-Lessons that I learned
 
-Importance of style guide
+#### Lessons that I learned
+
+##### Importance of style guide
 The aim is to make content easy and readable. The style guide is a standard. It contains a universal writing style. It provides the same guidelines to every person. Different writers can work on documentation. There are fewer chances of ambiguity. The documentation readers can be diverse. Non-natives can also understand the content.
-Audience analysis
+
+##### Audience analysis
 Technical writing aims to identify the audience first. It determines the content structure. Identify the education, culture, and social values. It helps in the creation of the persona of the audience. Tailor the content according to the persona. For example, a product tutorial contains simple information about the product. Tutorials can also contain visual aids and graphical presentations to support the text.
 
-Use of Jargons
-JJargons are industry-specific terms that are not understandable to the general public. The user guide prohibits the use of jargon. The simple language is always the best. The aim of the technical writing is to make complex things easier. Jargon can make the content difficult to understand. For example, the application user does not understand the programming terms. The simple terms can serve the purpose of a user guide.
+##### Use of Jargon
+Jargons are industry-specific terms that are not understandable to the general public. The user guide prohibits the use of jargon. The simple language is always the best. The aim of the technical writing is to make complex things easier. Jargon can make the content difficult to understand. For example, the application user does not understand the programming terms. The simple terms can serve the purpose of a user guide.
 
-Format 
+##### Format 
 The user guide provides various types of documentation formats. The choice of format is tricky. Physical products may need a PDF version along with an online version. Software users love to watch guides to understand the document. Machine producers release virtual reality tours to provide tutorials. The choice of format depends on the audience and budget. 
 
-Consistency
+##### Consistency
 Consistent writing is a mandatory rule. It includes the same grammar and sentence structure. The inconsistent content creates readability issues.
 Use imperative sentences in the whole content.
 Avoid using different terms for the same thing.
 Use the same spellings for company.
 Use second person.
-Politeness
+
+##### Politeness
 A technical writer should be polite in communication. Polite behavior needs experience. Experience comes from professional skills. The message should be in the form of a request. 
 Example of a polite message:
 Once you log in, you will receive information.
