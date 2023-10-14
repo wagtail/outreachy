@@ -103,6 +103,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [A blog on wagtail CMS](https://blog.nonstopio.com/wagtail-an-open-source-cms-cec6b93706da)
 
 ## [First Blog](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
+![writingstyleguidebanner](https://github.com/nouman17610/outreachy/assets/112282629/42f4ca29-95a4-4d47-8155-77b23b77d44c)
+
 Lessons learned from Microsoft Style Guide
 
 Technical communication is an important skill. Each industry has a separate style guide. I learned interesting lessons from the Microsoft Style Guide. This post will discuss the lessons learned from the guide.
