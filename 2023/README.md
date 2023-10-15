@@ -22,4 +22,5 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Olumide Micheal
 - Praise Agbabiaka
 - Raneh Egbe
+- Regina Ndze
 - Thibaud Colas
