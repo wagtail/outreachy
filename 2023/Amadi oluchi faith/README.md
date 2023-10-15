@@ -45,8 +45,7 @@ you’re on the right track.
 ### Checklist: Getting started with Outreachy
 
 This is the first checklist for candidates to go through.
-
--[x] Read the official Outreachy Applicant Guide. All of it.
+- [ ] Task 1 Read the official Outreachy Applicant Guide. All of it.
 -[x] Read the official Outreachy Internship Guide.
 -[x] If you haven’t already, create a GitHub account.
 -[x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
