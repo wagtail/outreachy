@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 Hello everyone, I'm Nishant Nayan, a first time Outreachy intern from India. Although I had given my brief intro on Slack but I felt like I should tell about me in detail. Hope I'm not too late!
 
@@ -12,3 +12,12 @@ Speaking about my side interests, I like to take long strolls listening to upbea
 
 Hope you all made it this far and got to know me a little. Thanks for reading!
 Open to your ideas and suggestions on how to improve my writing skills :)
+
+
+## Links
+
+| Platform | Links |
+|----------|-------|
+| Github | https://github.com/nishantn31 |
+| Blog | https://medium.com/@nishantn31 |
+| LinkedIn | https://www.linkedin.com/in/nishant-nayan/ |
