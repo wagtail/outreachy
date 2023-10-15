@@ -30,7 +30,7 @@ Amadi Oluchi faith
 
 
 
-#Connect with me
+# Connect with me
 | Username | Links to Profile | 
 | -------- | -------- | 
 | oly-baby| [Github](https://github.com/oly-baby)  | 
