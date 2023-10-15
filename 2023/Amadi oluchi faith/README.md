@@ -40,11 +40,11 @@ Amadi Oluchi faith
 # Tasks
 ### Contributor tasks
 
-    We use checklists so all candidates demonstrate their interest and skills with the same process.They will help you get started and make sure 
-    you’re on the right track.
+We use checklists so all candidates demonstrate their interest and skills with the same process.They will help you get started and make sure 
+you’re on the right track.
 ### Checklist: Getting started with Outreachy
 
-    This is the first checklist for candidates to go through.
+This is the first checklist for candidates to go through.
 
     -[x] Read the official Outreachy Applicant Guide. All of it.
     -[x] Read the official Outreachy Internship Guide.
@@ -56,7 +56,7 @@ Amadi Oluchi faith
 
 ### Checklist: open source contributions
 
-     For participants already experienced with GitHub and Markdown, feel free to go through all the suggested tasks in a single pull request.
+For participants already experienced with GitHub and Markdown, feel free to go through all the suggested tasks in a single pull request.
 
    This checklist helps you demonstrate your understanding of how people use GitHub to collaborate.
 
