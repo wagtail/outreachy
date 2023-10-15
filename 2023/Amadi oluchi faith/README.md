@@ -33,7 +33,7 @@ Amadi Oluchi faith
 #Connect with me
 | Username | Links to Profile | 
 | -------- | -------- | 
-| oly-baby| Github]https://github.com/oly-baby()  | 
+| oly-baby| [Github](https://github.com/oly-baby)  | 
 | Amadi oluchi faith | [Blog](https://medium.com/@aoluchi61)| 
 | Amadi Oluchi | [Linkedln](https://www.linkedin.com/in/amadi-oluchi-76526722b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
 
