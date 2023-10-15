@@ -4,7 +4,7 @@ My name is Amadi Oluchi faith, and I am thrilled to introduce myself as a prospe
 
 A little bit about me:
 
-Technical Background: I have been Learning Programming  for 1 year now, which has equipped me with a deep understanding of web development, Python programming, and the Django framework. I have had the opportunity to work on a range of web projects, from small-scale applications to larger, more complex systems. Through these experiences, I have honed my problem-solving abilities and a strong commitment to creating accessible and inclusive web applications.
+Technical Background: I have been Learning Programming  for 1 year now, which has equipped me with a deep understanding of web development, Python programming, and the Django framework. I have had the opportunity to work on a range of web projects, from small-scale applications to larger. Through these experiences, I have honed my problem-solving abilities and a strong commitment to creating accessible and inclusive web applications.
 
 Accessibility Advocate: Accessibility is a cause close to my heart. I believe that the web should be an inclusive space where everyone, regardless of their abilities, can access and use digital content without barriers. I have actively incorporated accessibility best practices into my development work and am dedicated to creating digital experiences that cater to a diverse audience. I look forward to furthering this cause within this wagtail Outreach Internship program.
 
