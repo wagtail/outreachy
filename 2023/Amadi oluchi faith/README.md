@@ -114,13 +114,13 @@ For participants already experienced with GitHub and Markdown, feel free to go t
          Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can 
          provide feedback on the contents).
    - [x] Go through Wagtail’s tutorial: Your first Wagtail site. If you get stuck, ask for help on Slack or GitHub Discussions.
-   -  [] Set up wagtail.org in Gitpod, via the "Open in Gitpod" link in the README.
-   -   [] Find an accessibility issue on the live wagtail.org website, and report it on the project’s issue tracker, with appropriate details (title, 
+   -  [ ] Set up wagtail.org in Gitpod, via the "Open in Gitpod" link in the README.
+   -   [ ] Find an accessibility issue on the live wagtail.org website, and report it on the project’s issue tracker, with appropriate details (title, 
          description, screenshot if applicable, why you think this is an accessibility issue).
-   - [] Fork the wagtail.org repository and set up your own copy for development, either in Gitpod or on your own computer.
-   - [] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main 
+   - [ ] Fork the wagtail.org repository and set up your own copy for development, either in Gitpod or on your own computer.
+   - [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main 
          project.
-   - [] TBC – Additional tasks specific to the Outreachy application process.
+   - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 
 
