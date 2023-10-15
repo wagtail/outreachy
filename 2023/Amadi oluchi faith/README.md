@@ -45,12 +45,12 @@ you’re on the right track.
 ### Checklist: Getting started with Outreachy
 
 This is the first checklist for candidates to go through.
-- [ ] Task 1 Read the official Outreachy Applicant Guide. All of it.
--[x] Read the official Outreachy Internship Guide.
--[x] If you haven’t already, create a GitHub account.
--[x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
--[x] And-or introduce yourself on the Wagtail Slack in #new-contributors.
--[x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
+- [x] Task 1 Read the official Outreachy Applicant Guide. All of it.
+- [x] Read the official Outreachy Internship Guide.
+- [x] If you haven’t already, create a GitHub account.
+- [x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
+- [x] And-or introduce yourself on the Wagtail Slack in #new-contributors.
+- [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
      personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
 ### Checklist: open source contributions
