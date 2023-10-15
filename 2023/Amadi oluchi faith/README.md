@@ -13,12 +13,12 @@ Curiosity and Collaboration: I am naturally inquisitive and have a genuine passi
 
 As an Outreach Internship contributor, I hope to:
 
-    Collaborate with like-minded individuals who share a commitment to promoting accessibility and inclusive design in web development.
+Collaborate with like-minded individuals who share a commitment to promoting accessibility and inclusive design in web development.
 
-    Contribute to projects, discussions, and initiatives that align with my expertise in Django, while also learning and expanding my skill set in new areas.
+Contribute to projects, discussions, and initiatives that align with my expertise in Django, while also learning and expanding my skill set in new areas.
 
     
-    Offer my assistance in answering questions and providing guidance to fellow community members, ensuring that meaningful and constructive discussions thrive.
+Offer my assistance in answering questions and providing guidance to fellow community members, ensuring that meaningful and constructive discussions thrive.
 
 I am genuinely excited about the opportunity to be a part of this community and contribute to its mission. I look forward to connecting with all of you, sharing experiences, and working together to make the web a more accessible and inclusive place for everyone.
 
@@ -27,3 +27,13 @@ Thank you for considering my application, and I am eager to join the Wagtail  Ou
 Warm regards,
 
 Amadi Oluchi faith
+
+
+
+#Connect with me
+| Username | Links to Profile | 
+| -------- | -------- | 
+| oly-baby| Github]https://github.com/oly-baby()  | 
+| Amadi oluchi faith | [Blog](https://medium.com/@aoluchi61)| 
+| Amadi Oluchi | [Linkedln](https://www.linkedin.com/in/amadi-oluchi-76526722b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
+
