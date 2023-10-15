@@ -1,4 +1,4 @@
-Hello I'm Naomi Ibe , from Lagos Nigeria. I'm a software engineer and a backend dev too(entry-level please) Its my first time being accepted as an outreachy applicant (not my first time applying tho). I love to read, listen to music,eat and I also love silence too.
+Hello I'm Naomi Ibe from Lagos,Nigeria. I'm a software engineer and a backend dev too(entry-level please) Its my first time being accepted as an outreachy applicant (not my first time applying tho). I love to read, listen to music,eat and I also love silence too.
 I started experimenting with Django last year and I'd like to work on the Wagtail project because it would give me a chance to hone my skills, while working on a real world project and still contributing to open source too
 I'm excited to be here!!😊
 
@@ -86,11 +86,11 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
-- [ ] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
-- [ ] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
+- [x] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
+- [x] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
 - [x] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
-- [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
-- [ ] TBC – Additional tasks specific to the Outreachy application process.
+- [x] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
+- [x] TBC – Additional tasks specific to the Outreachy application process.
 
 
 
@@ -127,3 +127,8 @@ Below is a link to things I've recently learned on my journey through tech/life.
 | Platform          | Link                                    |
 |-------------------|-----------------------------------------|
 | Medium | [Django](https://medium.com/@naomi.ibeh69/django-pythons-web-development-powerhouse-e9ff91d02f63)      |
+
+
+## Project Contribution
+
+https://github.com/wagtail/wagtail.org/pull/423
