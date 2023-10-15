@@ -123,3 +123,10 @@ For participants already experienced with GitHub and Markdown, feel free to go t
        project.
     [x]TBC – Additional tasks specific to the Outreachy application process.
 
+
+
+    - [ ] Task 1
+- [x] Task 2 (completed)
+- [ ] Task 3
+
+
