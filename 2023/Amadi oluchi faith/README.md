@@ -48,7 +48,7 @@ This is the first checklist for candidates to go through.
 
 -[x] Read the official Outreachy Applicant Guide. All of it.
 -[x] Read the official Outreachy Internship Guide.
--[x]If you haven’t already, create a GitHub account.
+-[x] If you haven’t already, create a GitHub account.
 -[x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
 -[x] And-or introduce yourself on the Wagtail Slack in #new-contributors.
 -[x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
