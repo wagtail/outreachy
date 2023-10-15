@@ -38,11 +38,11 @@ Amadi Oluchi faith
 | Amadi Oluchi | [Linkedln](https://www.linkedin.com/in/amadi-oluchi-76526722b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
 
 # Tasks
- Contributor tasks
+### Contributor tasks
 
-    We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure 
+    We use checklists so all candidates demonstrate their interest and skills with the same process.They will help you get started and make sure 
     you’re on the right track.
- Checklist: Getting started with Outreachy
+### Checklist: Getting started with Outreachy
 
     This is the first checklist for candidates to go through.
 
@@ -54,7 +54,7 @@ Amadi Oluchi faith
     -[x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
         personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
-## Checklist: open source contributions
+### Checklist: open source contributions
 
      For participants already experienced with GitHub and Markdown, feel free to go through all the suggested tasks in a single pull request.
 
@@ -64,7 +64,7 @@ Amadi Oluchi faith
    [x] Read Open source etiquette
    [x] Make your first pull request with us! Add your name to the list of participants in 2023/README.md.
 
-## Checklist: your contribution period with Wagtail
+### Checklist: your contribution period with Wagtail
 
    And now, we will want you to start using GitHub so we can review your progress over time, your research ahead of the application, and provide 
    feedback.
@@ -85,7 +85,7 @@ Amadi Oluchi faith
   [x]Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and 
   description,even if very concise).
 
-## Checklist: interest in learning
+### Checklist: interest in learning
 
    With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your 
    participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
@@ -100,7 +100,7 @@ Amadi Oluchi faith
       Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can 
       provide feedback on the contents).
 
-## Checklist: Wagtail.org website accessibility
+### Checklist: Wagtail.org website accessibility
 
    🚧 This checklist is for candidates interested in working on the Wagtail.org website accessibility project.
 
