@@ -38,20 +38,20 @@ Amadi Oluchi faith
 | Amadi Oluchi | [Linkedln](https://www.linkedin.com/in/amadi-oluchi-76526722b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
 
 # Tasks
-## Contributor tasks
+### Contributor tasks
 
-   We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure 
-   you’re on the right track.
+    We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure 
+    you’re on the right track.
 ### Checklist: Getting started with Outreachy
 
     This is the first checklist for candidates to go through.
 
-    [x] Read the official Outreachy Applicant Guide. All of it.
-    [x] Read the official Outreachy Internship Guide.
-    [x]If you haven’t already, create a GitHub account.
-    [x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
-    [x] And-or introduce yourself on the Wagtail Slack in #new-contributors.
-    [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
+    -[x] Read the official Outreachy Applicant Guide. All of it.
+    -[x] Read the official Outreachy Internship Guide.
+    -[x]If you haven’t already, create a GitHub account.
+    -[x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
+    -[x] And-or introduce yourself on the Wagtail Slack in #new-contributors.
+    -[x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
         personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
 ## Checklist: open source contributions
