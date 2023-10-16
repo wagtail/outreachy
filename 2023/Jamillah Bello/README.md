@@ -20,7 +20,8 @@ Don't hesitate to get in touch should you have any inquiries or need help within
 | Social Media| Link                                                              |
 |--------------|:-----:|
 | GitHub      | [**StrangeJay**](https://github.com/StrangeJay)                               |
-| LinkedIn    | [**Jamillah Bello**](https://www.linkedin.com/in/jamillah-bello/)                    |                   |
+| LinkedIn    | [**Jamillah Bello**](https://www.linkedin.com/in/jamillah-bello/)  
+| Personal website| [Jay Kaneki](https://jaykaneki.hashnode.dev/)                   |                   |
 | Twitter / X | [**strangehooligan**](https://twitter.com/StrangeHooligan)
 
 ## Tasks
