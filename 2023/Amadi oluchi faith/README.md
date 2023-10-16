@@ -49,7 +49,7 @@ This is the first checklist for candidates to go through.
 - [x] Read the official [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/).
 - [x] If you haven’t already, create a GitHub account.
 - [x] Introduce yourself on our [Welcome to Wagtail! Introduction](https://github.com/wagtail/outreachy/discussions/1)s discussion thread.
-- [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail        /wiki/Slack#new-contributors).
+- [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://wagtail.org/slack/).
 - [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
       personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
@@ -147,8 +147,7 @@ For participants already experienced with GitHub and Markdown, feel free to go t
 [How to creat a pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request):I learnt how to make a pull request with this guide
 
 ### link to a blog post of things i’ve learnt recently.
-[What I Have Learnt Recently As An Outreach Internship Applicant Contributing To Wagtail Project.]
-(https://medium.com/@aoluchi61/what-i-have-learnt-recently-as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
+[What i have learnt](https://medium.com/@aoluchi61/what-i-have-learnt-recently-as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
 
 ### link to a blog post that demonstrates my understanding of accessibility
    [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
