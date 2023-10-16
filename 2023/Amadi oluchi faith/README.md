@@ -1,7 +1,7 @@
 # Introduction
 Hello everyone,
 
-My name is Amadi Oluchi faith, and I am thrilled to introduce myself as a prospective contributor to the Outreach Internship program. As a Django developer with a passion for accessibility and a strong affinity for asking and answering meaningful questions, I am excited to bring my skills and enthusiasm to this community.
+My name is Amadi Oluchi faith, and i am from Nigeria. I'm thrilled to introduce myself as a prospective contributor to the Outreach Internship program. As a Django developer with a passion for accessibility and a strong affinity for asking and answering meaningful questions, I am excited to bring my skills and enthusiasm to this community.
 
 A little bit about me:
 
@@ -37,7 +37,7 @@ Amadi Oluchi faith
 | Amadi oluchi faith | [Blog](https://medium.com/@aoluchi61)| 
 | Amadi Oluchi | [Linkedln](https://www.linkedin.com/in/amadi-oluchi-76526722b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
 
-# Tasks
+## Tasks
 ### Contributor tasks
 
 We use checklists so all candidates demonstrate their interest and skills with the same process.They will help you get started and make sure 
@@ -45,11 +45,11 @@ you’re on the right track.
 ### Checklist: Getting started with Outreachy
 
 This is the first checklist for candidates to go through.
-- [x] Task 1 Read the official Outreachy Applicant Guide. All of it.
-- [x] Read the official Outreachy Internship Guide.
+- [x] Task 1 Read the official [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/).All of it.
+- [x] Read the official [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/).
 - [x] If you haven’t already, create a GitHub account.
-- [x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
-- [x] And-or introduce yourself on the Wagtail Slack in #new-contributors.
+- [x] Introduce yourself on our [Welcome to Wagtail! Introduction](https://github.com/wagtail/outreachy/discussions/1)s discussion thread.
+- [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail   /wiki/Slack#new-contributors).
 - [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
       personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
@@ -59,23 +59,23 @@ For participants already experienced with GitHub and Markdown, feel free to go t
 
    This checklist helps you demonstrate your understanding of how people use GitHub to collaborate.
 
-   - [x] Read through How to contribute to open source
-   - [x] Read Open source etiquette
-   - [x] Make your first pull request with us! Add your name to the list of participants in 2023/README.md.
+   - [x] Read through [How to contribute to open source](https://opensource.guide/how-to-contribute/)
+   - [x] Read [Open source etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
+   - [x] Make your first [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with us! Add your name to the list of participants in 2023/README.md.
 
 ### Checklist: your contribution period with Wagtail
 
    And now, we will want you to start using GitHub so we can review your progress over time, your research ahead of the application, and provide 
    feedback.
 
-   - [x] Make a fork this repository, then add a new folder inside 2023/ with your name as the folder name. Inside that folder, add a README.md file,
+   - [x] Make a fork this repository, then add a new folder inside `2023/`with your name as the folder name. Inside that folder, add a `README.md` file,
          and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
-   - [x] Read through GitHub’s Markdown formatting documentation
+   - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
    - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
        - [x] Your GitHub profile
        - [x] Your personal website / blog
        - [x] Your preferred social profiles if any
-   - [x] Update your pull request to add a new ## Tasks section to your README file, and copy-paste our contributor guide’s checklists into it, 
+   - [x] Update your pull request to add a new `## Tasks` section to your README file, and copy-paste our contributor guide’s checklists into it, 
          marking each item as completed or not according to your progress.
 
   To stand out as an applicant,
@@ -87,13 +87,13 @@ For participants already experienced with GitHub and Markdown, feel free to go t
 ### Checklist: interest in learning
 
    With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your 
-   participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
+   participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-   - [x] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to 
-      understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link 
-      text](link url)), so we can understand your choice of resources.
+   - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to 
+      understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link 
+      text](link url)`), so we can understand your choice of resources.
    - [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one 
-      image, be less than 500 words, and score a Grade 7 or lower on https://hemingwayapp.com/. You can describe any recent learnings – share 
+      image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share 
       a list of the last few articles   you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow 
       subject. It doesn’t have to be about tech. The  post has to be posted on a publicly-available platform (for example Dev.to, 
       Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can 
@@ -113,14 +113,48 @@ For participants already experienced with GitHub and Markdown, feel free to go t
          worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, 
          Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can 
          provide feedback on the contents).
-   - [x] Go through Wagtail’s tutorial: Your first Wagtail site. If you get stuck, ask for help on Slack or GitHub Discussions.
-   -  [ ] Set up wagtail.org in Gitpod, via the "Open in Gitpod" link in the README.
-   -   [ ] Find an accessibility issue on the live wagtail.org website, and report it on the project’s issue tracker, with appropriate details (title, 
-         description, screenshot if applicable, why you think this is an accessibility issue).
-   - [ ] Fork the wagtail.org repository and set up your own copy for development, either in Gitpod or on your own computer.
+   - [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for             help on Slack or GitHub Discussions.
+   -  [ ] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
+   -   [ ] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate               details (title,description, screenshot if applicable, why you think this is an accessibility issue).
+   - [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org)  and set up your own copy for development, either in Gitpod or on your own              computer.
    - [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main 
          project.
    - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+
+##Research
+### list of links to the resources i’ve found most useful so far
+ This is some of the most useful resources I've found to understand Wagtail as a project and specific project ideas, along with resources on open source collaboration:
+
+    [Wagtail's tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html): The official documentation provides a comprehensive guide to     understanding Wagtail, including installation, configuration, and in-depth features.
+     
+    [ChatGPT](https://chat.openai.com/c/e8ca1cb5-cf38-4d58-912b-1023d4bf5c52):Chatgpt providies insights in understanding wagtail and enhances knowledge effectively.
+
+    [Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): A comprehensive guide to Markdown syntax, which is essential for creating and formatting content in Wagtail.
+
+    [Google Search](https://www.google.com/):  Google search helped me find a wide range of articles, tutorials, and community discussions related to Wagtail.
+
+    [Wagtail Contribution Guide](https://github.com/oly-baby/outreachy/blob/main/contributor-guide.md): The official guide on how to contribute to the Wagtail project, including code contributions, documentation, and more.
+
+    [Wagtail GitHub Discussions](https://github.com/wagtail/outreachy/discussions/1): The GitHub Discussions section is a great place to engage with the Wagtail community, ask questions, and share ideas.
+
+    [Wagtail Slack Channel]( https://wagtail.org/slack/): The Wagtail Slack channel is a real-time chat platform where you can connect with other Wagtail enthusiasts and get immediate support.
+
+    [Open Source Guide](https://opensource.guide/how-to-contribute/https://opensource.guide/how-to-contribute/): A comprehensive guide that explains the fundamentals of open source software, including how to contribute, collaborate, and maintain open source projects.
+
+    [Open Source Etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette): An article on open source etiquette, which is essential for working effectively within open source communities.
+    [How to creat a pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request):I learnt how to make a pull request with this guide
+
+    ### link to a blog post of  things i’ve learnt recently.
+    [What I Have Learnt Recently As An Outreach Internship Applicant Contributing To Wagtail Project.](https://medium.com/@aoluchi61/what-i-have-learnt-recently-as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
+
+   ### link to a blog post that demonstrates my understanding of accessibility
+   [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
+
+   ###link to a blog post that demostrates my understanding of Django
+   [Building Dynamic Web Applications with Django](https://medium.com/@aoluchi61/building-dynamic-web-applications-with-django-24d37685eb64)
+
+
 
 
 
