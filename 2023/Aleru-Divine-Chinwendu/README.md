@@ -65,7 +65,7 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Accessibility features documentation
@@ -79,3 +79,9 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+- [Wagtail Documentation](https://docs.wagtail.org/en/stable/getting_started/index.html)
+- [Wagtail Projects](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation)
+- [Wagtail Website](https://wagtail.org/)
+- [Wagtail user guide](https://guide.wagtail.org/en-latest/)
