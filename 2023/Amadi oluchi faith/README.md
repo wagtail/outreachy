@@ -143,15 +143,16 @@ For participants already experienced with GitHub and Markdown, feel free to go t
 [Open Source Guide](https://opensource.guide/how-to-contribute/https://opensource.guide/how-to-contribute/): A comprehensive guide that explains the fundamentals of open source software, including how to contribute, collaborate, and maintain open source projects.
 
 [Open Source Etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette): An article on open source etiquette, which is essential for working effectively within open source communities.
+
 [How to creat a pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request):I learnt how to make a pull request with this guide
 
 ### link to a blog post of  things i’ve learnt recently.
     [What I Have Learnt Recently As An Outreach Internship Applicant Contributing To Wagtail Project.](https://medium.com/@aoluchi61/what-i-have-learnt-recently-     as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
 
-   ### link to a blog post that demonstrates my understanding of accessibility
-   [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
+### link to a blog post that demonstrates my understanding of accessibility
+    [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
 
-   ###link to a blog post that demostrates my understanding of Django
+###link to a blog post that demostrates my understanding of Django
    [Building Dynamic Web Applications with Django](https://medium.com/@aoluchi61/building-dynamic-web-applications-with-django-24d37685eb64)
 
 
