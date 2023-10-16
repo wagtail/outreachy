@@ -49,7 +49,7 @@ This is the first checklist for candidates to go through.
 - [x] Read the official [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/).
 - [x] If you haven’t already, create a GitHub account.
 - [x] Introduce yourself on our [Welcome to Wagtail! Introduction](https://github.com/wagtail/outreachy/discussions/1)s discussion thread.
-- [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail   /wiki/Slack#new-contributors).
+- [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail        /wiki/Slack#new-contributors).
 - [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a 
       personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
@@ -126,27 +126,27 @@ For participants already experienced with GitHub and Markdown, feel free to go t
 ### list of links to the resources i’ve found most useful so far
  This is some of the most useful resources I've found to understand Wagtail as a project and specific project ideas, along with resources on open source collaboration:
 
-    [Wagtail's tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html): The official documentation provides a comprehensive guide to     understanding Wagtail, including installation, configuration, and in-depth features.
+[Wagtail's tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html): The official documentation provides a comprehensive guide to     understanding Wagtail, including installation, configuration, and in-depth features.
      
-    [ChatGPT](https://chat.openai.com/c/e8ca1cb5-cf38-4d58-912b-1023d4bf5c52):Chatgpt providies insights in understanding wagtail and enhances knowledge effectively.
+[ChatGPT](https://chat.openai.com/c/e8ca1cb5-cf38-4d58-912b-1023d4bf5c52):Chatgpt providies insights in understanding wagtail and enhances knowledge effectively.
 
-    [Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): A comprehensive guide to Markdown syntax, which is essential for creating and formatting content in Wagtail.
+[Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): A comprehensive guide to Markdown syntax, which is essential for creating and formatting content in Wagtail.
 
-    [Google Search](https://www.google.com/):  Google search helped me find a wide range of articles, tutorials, and community discussions related to Wagtail.
+[Google Search](https://www.google.com/):  Google search helped me find a wide range of articles, tutorials, and community discussions related to Wagtail.
 
-    [Wagtail Contribution Guide](https://github.com/oly-baby/outreachy/blob/main/contributor-guide.md): The official guide on how to contribute to the Wagtail project, including code contributions, documentation, and more.
+[Wagtail Contribution Guide](https://github.com/oly-baby/outreachy/blob/main/contributor-guide.md): The official guide on how to contribute to the Wagtail project, including code contributions, documentation, and more.
 
-    [Wagtail GitHub Discussions](https://github.com/wagtail/outreachy/discussions/1): The GitHub Discussions section is a great place to engage with the Wagtail community, ask questions, and share ideas.
+[Wagtail GitHub Discussions](https://github.com/wagtail/outreachy/discussions/1): The GitHub Discussions section is a great place to engage with the Wagtail community, ask questions, and share ideas.
 
-    [Wagtail Slack Channel]( https://wagtail.org/slack/): The Wagtail Slack channel is a real-time chat platform where you can connect with other Wagtail enthusiasts and get immediate support.
+[Wagtail Slack Channel]( https://wagtail.org/slack/): The Wagtail Slack channel is a real-time chat platform where you can connect with other Wagtail enthusiasts and get immediate support.
 
-    [Open Source Guide](https://opensource.guide/how-to-contribute/https://opensource.guide/how-to-contribute/): A comprehensive guide that explains the fundamentals of open source software, including how to contribute, collaborate, and maintain open source projects.
+[Open Source Guide](https://opensource.guide/how-to-contribute/https://opensource.guide/how-to-contribute/): A comprehensive guide that explains the fundamentals of open source software, including how to contribute, collaborate, and maintain open source projects.
 
-    [Open Source Etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette): An article on open source etiquette, which is essential for working effectively within open source communities.
-    [How to creat a pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request):I learnt how to make a pull request with this guide
+[Open Source Etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette): An article on open source etiquette, which is essential for working effectively within open source communities.
+[How to creat a pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request):I learnt how to make a pull request with this guide
 
-    ### link to a blog post of  things i’ve learnt recently.
-    [What I Have Learnt Recently As An Outreach Internship Applicant Contributing To Wagtail Project.](https://medium.com/@aoluchi61/what-i-have-learnt-recently-as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
+### link to a blog post of  things i’ve learnt recently.
+    [What I Have Learnt Recently As An Outreach Internship Applicant Contributing To Wagtail Project.](https://medium.com/@aoluchi61/what-i-have-learnt-recently-     as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
 
    ### link to a blog post that demonstrates my understanding of accessibility
    [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
