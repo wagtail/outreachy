@@ -45,7 +45,7 @@ Amran Hadiq
 
 #Checklist: Interest in Learning
 - [x] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us.
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us.
 
 
     Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
@@ -114,3 +114,6 @@ I hope they are helpful to some one !
 
 #Added Recent Learning Adventures Blog Post 
 Hello, Everyone i made a blog where i talk about my new learning adventures and the cool things I'm learning.I'm really excited to share this journey with all of you. you can checkout my blog at https://medium.com/@amranahadeeq/learning-with-wagtail-a-fun-adventure-faef340b4ecd
+
+#Added A Django Blog post 
+You can check out this blog post at https://medium.com/@amranahadeeq/django-streamlining-and-accelerating-web-development-e23c82f9c4c6
