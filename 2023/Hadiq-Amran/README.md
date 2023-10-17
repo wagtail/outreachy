@@ -74,10 +74,10 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the Adopt generic class based views across the Wagtail admin project.
 
-    Write a short blog post which demonstrates your understanding of Django, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-    Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
-    Go through Wagtail’s guide: Your first contribution.
-    Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
+- [x] Write a short blog post which demonstrates your understanding of Django, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
+- [x] Go through Wagtail’s guide: Your first contribution.
+- [x]Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
     Contribute a solution to the issue you selected based on guidance in section "6. Contributing a solution".
     TBC – Additional tasks specific to the Outreachy application process.
 
