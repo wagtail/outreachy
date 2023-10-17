@@ -9,7 +9,7 @@ I decided to contribute to Wagtail because of my genuine interest in all three p
 Thank you.
 
 
-## My links are :
+## Links :
 
 |Media    | Links|
 | ------------- | ------------- |
