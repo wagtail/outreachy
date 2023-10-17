@@ -78,7 +78,9 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ## Research  
 
 | Research Areas | Source |
-| ------------- |
-| [Wagtail]()  |
-| [Accessibility Features Documentation]() |
+| ------------- | ------------- |
+| Wagtail  | [Wagtail CMS](https://wagtail.org/) |
+| Wagtail  | [Wagtail GitHub](https://github.com/wagtail/wagtail) |
+| Accessibility Features Documentation | [Wagtail Accessibilty Policy](https://wagtail.org/accessibility/)  |
+| Accessibility Features Documentation | [Wagtail Accessibilty Considerations Documentation](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html)  |
 
