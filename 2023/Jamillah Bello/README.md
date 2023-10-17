@@ -21,7 +21,7 @@ Don't hesitate to get in touch should you have any inquiries or need help within
 |--------------|:-----:|
 | GitHub      | [**StrangeJay**](https://github.com/StrangeJay)                               |
 | LinkedIn    | [**Jamillah Bello**](https://www.linkedin.com/in/jamillah-bello/)  
-| Personal website| [Jay Kaneki](https://jaykaneki.hashnode.dev/)                   |                   |
+| Personal website| [**Jay Kaneki**](https://jaykaneki.hashnode.dev/)                   |                   |
 | Twitter / X | [**strangehooligan**](https://twitter.com/StrangeHooligan)
 
 ## Tasks
