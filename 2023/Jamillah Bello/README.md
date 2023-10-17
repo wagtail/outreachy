@@ -84,3 +84,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 ## Research
+
+## Terra-Mazed: A Short Blog on what i've learnt recently
+
+So, I've recently been learning all about terraform and so I wrote a short blog about that. I ensured it was under 500 words and it scored a 6 on Hemingway. I've embedded 4 images in relevant sections of the article and also included links to helpful resources, you can find the article on ![**HashNode**](https://jaykaneki.hashnode.dev/terra-mazed)
