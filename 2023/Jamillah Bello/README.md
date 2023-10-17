@@ -55,7 +55,7 @@ And now, we will want you to start using GitHub so we can review your progress o
 - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
   - [x] Your GitHub profile
-  - [] Your personal website / blog
+  - [x] Your personal website / blog
   - [x] Your preferred social profiles if any
 - [x] Update your pull request to add a new `## Tasks` section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
