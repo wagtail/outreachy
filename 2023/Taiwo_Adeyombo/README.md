@@ -85,7 +85,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ### Checklist: Adopt generic class based views across the Wagtail admin
 
 
-This checklist is for candidates interested in working on the Adopt generic class based views across the Wagtail admin project.
+🚧 This checklist is for candidates interested in working on the Adopt generic class based views across the Wagtail admin project.
 
  - [x]   Write a short blog post which demonstrates your understanding of Django, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x]   Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
