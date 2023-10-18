@@ -91,4 +91,4 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 1. [Discipline as a Habit](https://medium.com/@temiwaji/discipline-as-a-habit-b392d91efa18)
 
-2. This is a short blog post on nuturing the habit of discipline, which is something I have been learning for a while now. This writeup scored a Grade of 4 on the Hemingway App. 
+ This is a short blog post on nuturing the habit of discipline, which is something I have been learning for a while now. This writeup scored a Grade of 4 on the Hemingway App. 
