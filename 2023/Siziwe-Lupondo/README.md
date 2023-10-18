@@ -8,14 +8,11 @@ I'm eager to learn and grow alongside the amazing project contributors, and I'm 
 
 Lets make tech accessible for all 🙌!
 
-
-
 | Social Media | |
 |---|---|
-| LinkedIn | [![LinkedIn](https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X)](https://www.linkedin.com/in/yourusername) |
-| GitHub | [![GitHub](https://lh3.googleusercontent.com/42npmBRtuuNP09J3TYkMAwBJS_Hp5ak8hEE0_G1hOVQIr6gJGt_5W2sp9CKQbEUAGUZwVqPAL0Uloy6hf1cB)](https://github.com/yourusername) |
-| Website | [![Website](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACMklEQVR4AWKAgnogfg/E/+mBoXb1wyzvh0vQHzcw0NnnmCEBYgwwBrBXBpCqBUEYlhQSRQmEKipEKIJUkVQghIhCEEUASEkRpSKgEhBJAYCgEgSIAKAqBCgCSv1Pi3XfPWdvtwPgfsCYM7P/2ZmZ/RPwJ4DtVCqVSKVSKJfLqFQqyOVyMJvNb5OKxWLI5XLBAsjB7XYbj8cDfCyXSxiNRt6EkUgE5/MZL/r9PmQyGfWp1WrodLofBZAPttst3nG5XBCLxTix3+l2u9Tf6/Uwn8+ZAsifcw9nc7/f4XQ6afxoNAIfBoOB+NfrNblViUTCL6BareJTNpsNidVoNGBRLBZJKZ7PJ7GtViu/gOPxCCF4vV4EAgEwINeu1+upHQwGOQJIEqHU63UUCgWwOBwOsNvt1E4mk1wB6XQaQplMJmRUWdxuN3g8HmpnMhmugGw2C6FMp1OyJxiQxnO73dR+ncUREA6HIZRms0kajcXpdILNZqN2IpHgClAoFLherxBCKBRCNBoFi9Vq9d+O8Pv9/FPQarXwIWRviEQiskNYNBoNqFQqOoYul4u9iHa7HT4hHo/T+Ne48WGxWF5+mlsqlbJXsclk+rWIUqlE41ijPB6Pqb/T6WCxWLx9jEi9ZrMZWOz3e9K0PLFE1Nfaa7Xar3lJM/76OXY4HMjn8xgMBhgOh6jVavD5fPg3Xl5evFWsrKws2CIWFpYh0SAZdcCoAwa+a9YwgA6YwAAFE+jdPYf1jAGYpV6YmNbPGAAAAABJRU5ErkJggg==)](https://www.yourwebsite.com) |
-
+| LinkedIn | [LinkedIn](https://www.linkedin.com/in/siziwe-lupondo-468114294/) |
+| GitHub | [GitHub](https://github.com/SiziweLupondo) |
+| Website | [Website](https://medium.com/@SiziweL) |
 
 ## Tasks
 ### Checklist: Getting started with Outreachy
