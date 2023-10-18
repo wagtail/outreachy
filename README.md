@@ -83,4 +83,12 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 | Wagtail  | [Wagtail GitHub](https://github.com/wagtail/wagtail) |
 | Accessibility Features Documentation | [Wagtail Accessibilty Policy](https://wagtail.org/accessibility/)  |
 | Accessibility Features Documentation | [Wagtail Accessibilty Considerations Documentation](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html)  |
+| Accessibility Features Documentation | [Google for Developers](https://developers.google.com/style/accessibility)  |
+| Accessibility Features Documentation | [Accessibility Features in PDFs](https://helpx.adobe.com/acrobat/using/accessibility-features-pdfs.html)  |
+| Accessibility Features Documentation | [Create Accessible Documents](https://it.wisc.edu/learn/make-it-accessible/create-accessible-documents/)  |
 
+## Blog Posts
+
+1. [Discipline as a Habit](https://medium.com/@temiwaji/discipline-as-a-habit-b392d91efa18)
+
+2. This is a short blog post on nuturing the habit of discipline, which is something I have been learning for a while now. This writeup scored a Grade of 4 on the Hemingway App. 
