@@ -13,6 +13,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Cynthia Osarumwense Udoh
 - Geoffrey Logovi
 - Edgar Nwajei
+- Eniola Oyebadejo
 - Folashade Ode
 - Fortune Obadiah
 - Greatman Ugorji
