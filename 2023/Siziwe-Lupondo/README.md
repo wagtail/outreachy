@@ -63,13 +63,25 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - Wagtail [Wiki](https://en.wikipedia.org/wiki/Wagtail_(CMS)#:~:text=Wagtail%20is%20a%20free%20and,by%20companies%20around%20the%20world.)
 
 - [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+ 
+## Blog Post : Things i have learned recently
+This is my blog post about [things i have learned Recently](https://medium.com/@SiziweL/things-i-have-learned-recently-5a2eb7165f1e)
 
 ### Checklist: Accessibility features documentation
 
 🚧 This checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
 
 - [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+
+## Blog Post : Accessibility
+This is my blog post about [Accessibility](https://medium.com/@SiziweL/title-advancing-accessibility-a-journey-in-open-source-and-inclusivity-ff367567b144)
+
+
 - [x] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+
+## Blog Post : Technical writing
+This is my blog post about [technical writing](https://medium.com/@SiziweL/navigating-the-technical-landscape-my-journey-in-technical-documentation-94a893d051b9)
+
 - [] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 - [] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
 - [] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
