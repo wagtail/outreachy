@@ -24,11 +24,17 @@ Open to your ideas and suggestions on how to improve my writing skills.
 
 
 ## Research
+
 [Wagtail Setup](https://docs.wagtail.org/en/stable/index.html) - I followed this documentation closely to set up Wagtail CMS in my local developer environment and explore the Admin UI.
 
 [Wagtail website](https://wagtail.org/) - I explored this website and followed all the links within to observe the features Wagtail offers to its clients. It also helped me in resolving the [issue](https://github.com/wagtail/wagtail.org/issues/351) by raising [Pull Request](https://github.com/wagtail/wagtail.org/pull/422) in Wagtail.org [Github](https://github.com/wagtail/wagtail.org).
 
 [Understanding accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) - I have been following this documentation on accessibility to understand better the application of it and how accessibility can be implemented efficiently for Wagtail borne websites.
+
+
+## My Blogs
+
+[Never Stop Learning](https://medium.com/@nishantn31/never-stop-learning-994e94825b91) - This is my first ever blog! It tells about my recent new learnings and how I'm finding it resourceful. Please leave your valuable feedback.
 
 
 ## Tasks
@@ -78,7 +84,7 @@ To stand out as an applicant,
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 
 
