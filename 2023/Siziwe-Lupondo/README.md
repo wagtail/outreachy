@@ -8,8 +8,8 @@ I'm eager to learn and grow alongside the amazing project contributors, and I'm 
 
 Lets make tech accessible for all 🙌!
 
-| Social Media | |
-|---|---|
+| Social Media | Links |
+|--------|---------|
 | LinkedIn | [LinkedIn](https://www.linkedin.com/in/siziwe-lupondo-468114294/) |
 | GitHub | [GitHub](https://github.com/SiziweLupondo) |
 | Website | [Website](https://medium.com/@SiziweL) |
