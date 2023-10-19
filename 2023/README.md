@@ -2,7 +2,7 @@
 
 Welcome! Add your name to this list, keeping the list in alphabetical order:
 
-- Aditya Santosh Kapse
+- Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
 - Chider Stella Onumajuru
