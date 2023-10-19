@@ -81,3 +81,11 @@ This is the first checklist for candidates to go through.
 - [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
 - [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+
+Here are the links I found very helpful in knowing better about wagtail
+
+- [wagtail website](https://wagtail.org/about-wagtail/)
+- [wikipedia](https://en.wikipedia.org/wiki/Wagtail_(CMS))
+- [Github](https://github.com/wagtail/wagtail)
