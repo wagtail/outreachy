@@ -103,6 +103,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [A blog on wagtail CMS](https://blog.nonstopio.com/wagtail-an-open-source-cms-cec6b93706da)
 
 ## First Blog
-
 [Lessons learned from Microsoft Style Guide](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
 
+## Second Blog on Accessibility
+[Empowering Inclusivity: Enhancing Accessibility on a WordPress Website](https://medium.com/@accanouman/empowering-inclusivity-enhancing-accessibility-on-a-wordpress-website-5c3c07e8b96f)
