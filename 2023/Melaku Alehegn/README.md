@@ -5,3 +5,11 @@ My name is Melaku, an Ethiopian Frontend developer. I have been creating web bas
 In addition to my passion for coding, I thoroughly enjoy immersing myself in the fascinating world of history. I find great pleasure in delving into the pages of history books, particularly those that explore Ethiopian history, as well as global historical events and anything else intricately connected to the subject.
 
 I'm looking forward to start my open source journey with Outreachy and wagtail.
+
+## My links
+
+| Item | Links |
+| -------- | -------- |
+| Github   | [Github](https://github.com/MelakuAlehegn)   |
+| Linkedin   | [Linkdin](https://www.linkedin.com/in/melakualehegn/)  |
+| Blog   |  [Dev.to](https://dev.to/melakualehegn)  |
