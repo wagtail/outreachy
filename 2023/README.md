@@ -5,20 +5,21 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
-- Brian Mugo
 - Arafat Abdussalam
-- Esther Christopher
+- Brian Mugo
 - Chider Stella Onumajuru
 - Cole Kofoworola
 - Cynthia Osarumwense Udoh
-- Geoffrey Logovi
 - Edgar Nwajei
+- Esther Christopher
 - Folashade Ode
 - Fortune Obadiah
+- Geoffrey Logovi
 - Greatman Ugorji
 - Ihedioha Chinedu Innocent
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Lanyero Deborah
 - Olumide Micheal
 - Praise Agbabiaka
 - Raneh Egbe
