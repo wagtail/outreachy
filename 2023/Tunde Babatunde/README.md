@@ -8,11 +8,13 @@ I am passionate about health and its improvement with technology an that was one
 
 ## Social media profiles
 
-- <a href="https://github.com/cedarworth"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"> </a>
-- <a href="https://twitter.com/tmcedarworth"><img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-- <a href="https://www.instagram.com/tmcedarworth/"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"></a>
-- <a href="https://www.linkedin.com/in/tunde-babatunde-808439168/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> </a>
-- [medium - Tunde Babatunde](https://medium.com/@motunrayocw)
+|Socials| Links |
+|:--|:---|
+| Github |(<a href="https://github.com/cedarworth"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"> </a>)|
+| X/Twitter |(<a href="https://twitter.com/tmcedarworth"><img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>)|
+| Instagram |(<a href="https://www.instagram.com/tmcedarworth/"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"></a>)|
+| LinkedIn |(<a href="https://www.linkedin.com/in/tunde-babatunde-808439168/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> </a>)|
+| Medium-blog | [medium - Tunde Babatunde](https://medium.com/@motunrayocw)|
 
 ## Skills
 
@@ -89,7 +91,10 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [Wagtail Documentation](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+
+## Blog post link on Recent Learnings
+[Blog Post On Recent Learning](https://medium.com/@motunrayocw/a-quick-guide-into-what-version-control-is-that-i-learnt-recently-33155e3e64a3)
 
 ### Checklist: Accessibility features documentation
 
