@@ -1,15 +1,14 @@
 # Introduction
-Hello Everyone
-Greetings of the day,
-
-I solved 300+ problems on GFG in C++
-100+ On codechef , 5 Star on Hakerrank
+Hello EveryonE
 
 My name is Aditya Santosh Kaspe from the Government College of Engineering. I just completed my Last year in Electronic and Telecommunication.
 
 Coming to my technical skills I know HTML, CSS, JS, C++, C, OPPS, OS, React, Python, and DSA so my skills are a perfect match for the job requirement
 
 Last summer i did my internship with Microsoft Future Ready Talent as a front-end developer & used Azure technologies for development.
+
+I solved 300+ problems on GFG in C++
+100+ On codechef , 5 Star on Hakerrank
 
 
 
