@@ -32,3 +32,16 @@ his checklist is for candidates interested in working on the [Adopt generic clas
 - [x] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
 - [x] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+### Research
+1. Wagtail's Outreachy participation 2023: https://github.com/wagtail/outreachy: This repository contains all resources for Wagtail’s participation to Outreachy in December 2023: for contributors, mentors, and coordinators. It includes a contributor guide, coordinator guide, project ideas, and more.
+2. Wagtail CMS Blog: https://wagtail.org/blog/our-outreachy-projects-in-2023/: This blog post provides an overview of Wagtail's participation in Outreachy 2023 and the projects that are being worked on.
+3. Wagtail CMS Documentation: https://docs.wagtail.io/en/stable/: This documentation provides detailed information about Wagtail CMS, including installation instructions, tutorials, and API reference.
+4. Wagtail CMS GitHub Repository: https://github.com/wagtail/wagtail: This is the official GitHub repository for Wagtail CMS. It includes the source code for the project, as well as issues and pull requests.
+
+Specific project ideas I'm interested in:
+**The accessibility project:
+The Wagtail accessibility project aims to make Wagtail CMS more accessible to people with disabilities. This includes improving the accessibility of the Wagtail user interface, as well as providing guidance and tools for developers to create accessible websites with Wagtail.
+
+I am particularly interested in the accessibility project because I believe that it is important to make websites accessible to everyone, regardless of their ability. I am also interested in learning more about web accessibility and how to best implement it in Wagtail.
+
