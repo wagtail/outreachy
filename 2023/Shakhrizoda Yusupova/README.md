@@ -1,7 +1,7 @@
 ## Introduction
 
 <div>
-  <img align="right" src="https://github.com/wagtail/outreachy/assets/106587342/ac3e7003-0213-411c-8591-593e01c34fd4" alt="photo" width="300" />
+  <img align="right" src="https://github.com/wagtail/outreachy/assets/106587342/ac3e7003-0213-411c-8591-593e01c34fd4" alt="photo of sher-dor madrasah in samarkand" width="300" />
 </div>
 
 **Hi everyone!**
@@ -20,7 +20,7 @@ I’m so glad I made it to the contribution stage, and I’m looking forward to 
 | Links |
 |----------|
 | [GitHub](https://github.com/shyusu4) |
-| [Blog (Medium)](https://medium.com/@shyusupova4) |
+| [Blog (Hashnode)](https://shyusupova.hashnode.dev/) |
 | [Linkedin](https://www.linkedin.com/in/shyusu4/) |
 | [Twitter/X](https://twitter.com/shyusu4) |
 
