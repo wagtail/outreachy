@@ -107,3 +107,6 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ## Second Blog on Accessibility
 [Empowering Inclusivity: Enhancing Accessibility on a WordPress Website](https://medium.com/@accanouman/empowering-inclusivity-enhancing-accessibility-on-a-wordpress-website-5c3c07e8b96f)
+
+## Third Blog on Technical Writing
+[Mistakes to Avoid in Technical Procedure Documentation](https://myblogzweb.com/2023/10/21/mistakes-to-avoid-in-technical-procedure-documentation/)
