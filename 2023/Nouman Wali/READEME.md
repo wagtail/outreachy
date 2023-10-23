@@ -96,3 +96,13 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
 - [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+- [YouTube video for Wagtail tutorial](https://www.youtube.com/watch?v=SEPBP0DuoWg)
+- [Wagtail 2.9 documentation](https://docs.wagtail.io/en/v2.9/editor_manual/intro.html)
+- [A blog on wagtail CMS](https://blog.nonstopio.com/wagtail-an-open-source-cms-cec6b93706da)
+
+## First Blog
+
+[Lessons learned from Microsoft Style Guide](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
+
