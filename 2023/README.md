@@ -13,6 +13,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Cynthia Osarumwense Udoh
 - Geoffrey Logovi
 - Edgar Nwajei
+- Fortune Obadiah
 - Folashade Ode
 - Fortune Obadiah
 - Greatman Ugorji
@@ -24,6 +25,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Mercy Birungi
 - Olumide Micheal
 - Praise Agbabiaka
+- Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
 - Thibaud Colas
   
