@@ -76,3 +76,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 [Wagtail User Guide](https://guide.wagtail.org/en-latest/)
 [Wagtail Documentation](https://docs.wagtail.org/en/stable/)
 [Caktus Group](https://www.caktusgroup.com/blog/2019/03/07/why-we-love-wagtail/)
+
+### Short Blog Post - Recent Learning
+
+[My Recent Learning](https://0xryker.hashnode.dev/beginners-guide-to-cryptocurrency?source=more_articles_bottom_blogs)
