@@ -1,23 +1,22 @@
 ### Introduction
-Hi everyone, I am Khushi Gautam from India. Professionally I am a freelance developer. I am interested in participating with wagtail because i find myself comfotable with their goals and objectives. I have a lot of open source expetience as well and written a lot of documentation in various projects. I fulfil all the skill requirements wagtail requires.
 
-I have done my B.Tech from Harcourt Butler Technical University,India major in Computer Science Engineering. Recently I have done an internship at Samsung SDS. previously I have served as a core team member in the Google Developer Student Club of the college. I have always been interested in web development so I started contributing to open source organizations in their projects from my first year. I used to discuss with mentors about the issues and take help in solving some issues also. I have done an internship of two months with the role of Full-Stack developer at Pankh which is a drone based indian startup. Previously I have made many projects related to web development. In frontend I like to use Next Js/React Js for building up my website, in which Nextjs is more comfortable as it works for multiple pages and also it supports server side rendering whereas React develops single page websites. In Next Js also we get various features by vercel like to deploy our website or adding authentication. I found out about all these more clearly when I worked on making my own projects.There are some other technologies also that I have dealt with are Reactjs,Nodejs,HTML/CSS, Javascript, Gatsby, Tailwind CSS,Mongodb,Python,Django, Firebase, Material UI.
+Hello everyone! 😁 My name is Varun and I am based in India. I am learning to be a developer and wanted to get a good grasp of development culture via internship. Outreachy was my best option. Though I am not a full-fledged developer, I am on my learning pathway, hoping to receive help and love from you all. I decided to do minor and awesome tasks such as reading, reviewing and writing documentations of open source software. Wagtail's "Accessibility features documentation ❤️" opening caught my attention. Hoping to do my best and get selected. Just excited to contribute with so much excitement. 😃
 
-I have contributed in various open source projets of AnitaB, creative commons. I have been a project mentor in FOSS community known as Girscript summer of code, in which i got almost 100 contributor who worked with me for 3 months and also in Google developer student club. I have also been mentor in open source hack (challenge) in AnitaB as well as google cloud facilitator of my campus, in which upto 200 students participated and worked under my guidance.
-
-## Links
+### Links
 
 | Platform       | Links                                                            |
 |----------------|------------------------------------------------------------------|
-| Github         | [Github profile](https://github.com/khushishikhu)                |
-| Social Profile | [Linkedin](https://www.linkedin.com/in/khushi-gautam-7708b4191/) |
+| Github         | [Github profile](https://github.com/varunamm)                |
+| Social Profile | [Linkedin](https://www.linkedin.com/in/varunamm) |
+
+##Tasks
 
 ## Tasks
 
 ### Checklist: Getting started with Outreachy
 
 This is the first checklist for candidates to go through.
-- [x] Read the official Outreachy Applicant Guide. All of it.
+- [x] Read the official [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/). All of it.
 - [x] Read the official Outreachy Internship Guide.
 - [x] If you haven’t already, create a GitHub account.
 - [x] Introduce yourself on our Welcome to Wagtail! Introductions discussion thread.
@@ -44,10 +43,10 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 
 ## Research
-- [Gettingstarted](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
-- [CMS](https://www.javatpoint.com/cms-full-form) -  I read a bit about CMS on which terminology the project is based on.
-- [ATAG 2.0](https://www.w3.org/TR/ATAG20/) - As the accessibility features documentation follows ATAG goals and standard.
-- [Wagtail Guide](https://github.com/wagtail/guide)
+[Gettingstarted](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+[CMS](https://www.javatpoint.com/cms-full-form) -  I read a bit about CMS on which terminology the project is based on.
+[ATAG 2.0](https://www.w3.org/TR/ATAG20/) - As the accessibility features documentation follows ATAG goals and standard.
+[Wagtail Guide](https://github.com/wagtail/guide)
 
 ### Checklist: interest in learning
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
