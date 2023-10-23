@@ -29,6 +29,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Mercy Birungi
 - Naomi Ibe
 - Nsingwire Victor
 - Lanyero Deborah
@@ -36,17 +37,19 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Oghenekevbe Egume
 - Nouman Wali
 - Nishant Nayan
-- Mercy Birungi
 - Olumide Micheal
+- Oghenekevbe Egume
 - Praise Agbabiaka
-- Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
 - Stephanie Wanja Njung'e
 - Terkuma Fanyam
 - Taiwo Adeyombo
 - Regina Ndze
+- Stella Ozioma Ugoo-Okonkwo
+- Shakhrizoda Yusupova
 - Thibaud Colas
 - Tunde Babatunde
 - Siziwe Lupondo
 - Spyke Lionel
+- Thibaud Colas
 - Wepngong Maureen
