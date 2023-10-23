@@ -2,16 +2,48 @@
 
 Welcome! Add your name to this list, keeping the list in alphabetical order:
 
+- Arafat Abdussalam
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
+- Arafat Abdussalam
+- Aleru Divine Chinwendu
+- Amadi oluchi faith
+- Akinyefa Iyanujesu
+- Brian Mugo
 - Chider Stella Onumajuru
+- Cole Kofoworola
 - Cynthia Osarumwense Udoh
-- Geoffrey Logovi
 - Edgar Nwajei
+- Eniola Oyebadejo
+- Esther Christopher
+- Fortune Obadiah
+- Folashade Ode
 - Fortune Obadiah
 - Greatman Ugorji
 - Ihedioha Chinedu Innocent
+- Jude Okoye
+- Jamillah Bello
+- Kehinde Bobade
+- Khushi Gautam
+- Kudakwashe Chris Chipangura
+- Naomi Ibe
+- Nsingwire Victor
+- Lanyero Deborah
+- Nwajiunor Edgar
+- Oghenekevbe Egume
+- Nouman Wali
+- Nishant Nayan
+- Mercy Birungi
 - Olumide Micheal
 - Praise Agbabiaka
+- Stella Ozioma Ugoo-Okonkwo
+- Raneh Egbe
+- Terkuma Fanyam
+- Taiwo Adeyombo
+- Regina Ndze
 - Thibaud Colas
+- Tunde Babatunde
+- Siziwe Lupondo
+- Spyke Lionel
+- Wepngong Maureen
