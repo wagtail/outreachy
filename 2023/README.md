@@ -6,6 +6,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
+- Brian Mugo
 - Arafat Abdussalam
 - Aleru Divine Chinwendu
 - Amadi oluchi faith
