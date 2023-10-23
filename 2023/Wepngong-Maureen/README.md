@@ -8,10 +8,9 @@ I look forward to working with you all. :)
 
 ## Contact Links
 |---------| :--:|
-| GitHub  |https://github.com/maureenblack   |
-| Blog -Medium   |https://medium.com/@maureenwepngong/  |
-|Faxebook|https://www.facebook.com/maureen.wepnyu?mibextid=ZbWKwL|
-
+| GitHub |https://github.com/maureenblack
+| Blog -Medium   |https://medium.com/@maureenwepngong/
+|Facebook|https://www.facebook.com/maureen.wepnyu?mibextid=ZbWKwL
 ## Tasks
 ### Checklist: Adopt generic class based views across the Wagtail admin
 his checklist is for candidates interested in working on the [Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#adopt-generic-class-based-views-across-the-wagtail-admin) project.
