@@ -32,8 +32,8 @@ I understand the collaborative nature of open source communities and the signifi
 
 - [x] Make a fork this repository, then add a new folder inside 2023/ with your name as the folder name. Inside that folder, add a README.md file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
 - [x] Read through GitHub’s Markdown formatting documentation
-- [ ] Now make another pull request to your own README file, adding a Markdown table with links to:
-  - [ ] Your GitHub profile
-  - [ ] Your personal website / blog
+- [x] Now make another pull request to your own README file, adding a Markdown table with links to:
+  - [x] Your GitHub profile
+  - [x] Your personal website / blog
   - [ ] Your preferred social profiles if any
-- [ ] Update your pull request to add a new ## Tasks section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
+- [x] Update your pull request to add a new ## Tasks section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
