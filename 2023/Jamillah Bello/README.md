@@ -1,23 +1,32 @@
-Hi everyone, I’m Ahmed (pronounced Ah-med). I am UX researcher and designer based in Lagos, Nigeria. I gather experience through freelance and community work. My tech community is called RoadTrip.
-We’re about 400 members and mostly online (Discord, currently transitioning to WhatsApp). What we are is a close-knit community sharing resources on growth career, mental health, job opportunities and the likes. In the community, I’m a newsletter writer, a social media team member and a buddy group rep (that’s like a mini community manager👀).
-When it comes to accessibility in my work, I’d admit it isn’t something I consciously focus on but I’ve worked on a few projects where some parts of it were necessary (like content coordination and colour schemes). So, Wagtail’s project is something I’d like to really learn from.
-When I'm not doing anything brain tasking, I'm asleep or consuming fiction like mangas, comics, animes 😅.
-Also, I’ve contributed in other project rounds (not Wagtail) in the Outreachy cycle and hope that experience will be useful to everyone.
-Happy to be here 😄.
+# Introduction
 
+Hi everyone, my name is **Jamillah Bello**. I'm from Nigeria, currently residing in Benin City, Nigeria.
+I hold an AWS certification as a solutions architect and am concurrently pursuing studies to become a DevOps engineer. You can often find me immersed in experimenting with creating and destroying infrastructures with Terraform and exploring Jenkins, Docker, Vagrant, and various other tools.
 
-## My links are :
+My primary occupation revolves around freelance technical writing, specializing in documentation and tutorials. I take pride in breaking down complex processes into simple, step-by-step guides. Additionally, I create video content, either showcasing the essential features of products or demonstrating how to use them. And since some people have mentioned their birthdays, I'll just chip in that mine falls on October 22nd 🙈🙈🙈
 
-|Media    | Links|
-| ------------- | ------------- |
-| GitHub Profile Link | [MyGitHubLink](https://github.com/waju-ire)  |
-|Blog | [Substack](https://substack.com/@waju26)  |
-|Social media link | [LinkedIn](https://www.linkedin.com/in/ahmed-olaitan-7519161b2/) |
+My interest in Wagtail stems from my recent curiosity about website development. I am presently in the process of building a website for my technical writing, utilizing Codeigniter. Although it has been an enjoyable experience, I can't help but wonder if there are better options available. I recently saw an interactive website that blew my mind and sparked my curiosity, it allowed users to control a virtual bike and ride it through various sections of the site lol that was amazing. This sparked my fascination with website creation and content management systems, and that's honestly why I chose Wagtail, curiosity 😅😅😅 ... While my reason for choosing Wagtail might not be as conventional as others', my curiosity usually leads me to amazing places, so I'm just going to follow it to Wagtail...
+My involvement in the Accessibility features documentation project with Wagtail is driven by my aspiration to gain a deep understanding of its inner workings. I also aim to create user-friendly, concise documentation that simplifies the Wagtail experience for others🤓🤓🤓 .
 
+Outside of my writing and studies, I dedicate my time to mentoring newcomers at Edo Innovates, in the realm of cloud computing with AWS. Volunteering with "EDO Innovates" is my way of giving back to the community that kick-started my tech journey, especially coming from a background in health.
+
+For leisure, I watch Anime, cartoons and horror movies, and I spend an unhealthy amount of time reading fan fiction(I always find myself cycling between Harry Potter, Once Upon a Time, and Twilight😅😅😅 ). And for those that don't know, no... Anime and cartoons aren't the same, please... That's a debate I always get roped into 😂😂😂
+Additionally, I'm an avid music lover; you'll frequently find me with my earbuds in, exploring a wide range of musical genres.
+
+Don't hesitate to get in touch should you have any inquiries or need help within my area of expertise. I'm eagerly anticipating the opportunity to learn from everyone and, in return, share any aspects of my knowledge that may be considered valuable.
+
+## Social Media
+
+| Social Media| Link                                                              |
+|--------------|:-----:|
+| GitHub      | [**StrangeJay**](https://github.com/StrangeJay)                               |
+| LinkedIn    | [**Jamillah Bello**](https://www.linkedin.com/in/jamillah-bello/)  
+| Personal website| [**Jay Kaneki**](https://jaykaneki.hashnode.dev/)                   |                   |
+| Twitter / X | [**strangehooligan**](https://twitter.com/StrangeHooligan)
 
 ## Tasks
 
-#### Checklist: Getting started with Outreachy
+### Checklist: Getting started with Outreachy
 
 This is the first checklist for candidates to go through.
 
@@ -27,7 +36,6 @@ This is the first checklist for candidates to go through.
 - [x] Introduce yourself on our [Welcome to Wagtail! Introductions](https://github.com/wagtail/outreachy/discussions/1) discussion thread.
 - [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail/wiki/Slack#new-contributors).
 - [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
-
 
 ### Checklist: open source contributions
 
@@ -60,12 +68,10 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
-
 ### Checklist: Accessibility features documentation
-
 
 🚧 This checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
 
@@ -77,18 +83,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ]  Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
-
 ## Research
 
+## Terra-Mazed: A Short Blog on what i've learnt recently
 
-#### Accessibilty Blog Update
-
-My blogpost on a form of accessibility I've observed in my community
-[Observing accessibilty of information in an online community](https://open.substack.com/pub/olanrewajuolaitan/p/whats-up-discord?r=74wej&utm_campaign=post&utm_medium=web)
-
-#### Short Blog Post- Recent Learnings
-[Accessibility and usability like a five year old](https://open.substack.com/pub/olanrewajuolaitan/p/accessibility-and-usability-like?r=74wej&utm_campaign=post&utm_medium=web)
-
-
-
-
+So, I've recently been learning all about terraform and so I wrote a short blog about that. I ensured it was under 500 words and it scored a 6 on Hemingway. I've embedded 4 images in relevant sections of the article and also included links to helpful resources, you can find the article on ![**HashNode**](https://jaykaneki.hashnode.dev/terra-mazed)
