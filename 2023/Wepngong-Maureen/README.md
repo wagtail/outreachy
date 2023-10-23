@@ -45,3 +45,14 @@ The Wagtail accessibility project aims to make Wagtail CMS more accessible to pe
 
 I am particularly interested in the accessibility project because I believe that it is important to make websites accessible to everyone, regardless of their ability. I am also interested in learning more about web accessibility and how to best implement it in Wagtail.
 
+## Interest in Learning | Links to blog posts on Medium
+ Things I've learned recently
+ -https://medium.com/@maureenwepngong/things-ive-learned-recently-f6b95a957c6e
+
+## Accessibility Features documentation
+ -Understanding of Accessibility 
+ https://medium.com/@maureenwepngong/accessibility-making-the-web-a-better-place-for-everyone-a70a77d2c3de
+ - Technical Writing
+ https://medium.com/@maureenwepngong/technical-writing-tips-from-a-software-engineer-41aa0247d172
+ -Understanding of Django
+ https://medium.com/@maureenwepngong/django-the-high-level-python-framework-for-building-web-applications-3fc0ccb7b018
