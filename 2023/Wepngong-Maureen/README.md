@@ -8,9 +8,9 @@ I look forward to working with you all. :)
 
 ## Contact Links
 |---------| :--:|
-| GitHub  |https://github.com/maureenblack|
-| Blog -Medium |https://medium.com/@maureenwepngong/|
-|Facebook|https://www.facebook.com/maureen.wepnyu?mibextid=ZbWKwL|
+| GitHub  |https://github.com/maureenblack   |
+| Blog -Medium   |https://medium.com/@maureenwepngong/  |
+|Faxebook|https://www.facebook.com/maureen.wepnyu?mibextid=ZbWKwL|
 
 ## Tasks
 ### Checklist: Adopt generic class based views across the Wagtail admin
@@ -49,12 +49,10 @@ I am particularly interested in the accessibility project because I believe that
  Things I've learned recently
  -https://medium.com/@maureenwepngong/things-ive-learned-recently-f6b95a957c6e
 
- ## Accessibility Features documentation
+## Accessibility Features documentation
  -Understanding of Accessibility 
  https://medium.com/@maureenwepngong/accessibility-making-the-web-a-better-place-for-everyone-a70a77d2c3de
  - Technical Writing
  https://medium.com/@maureenwepngong/technical-writing-tips-from-a-software-engineer-41aa0247d172
  -Understanding of Django
  https://medium.com/@maureenwepngong/django-the-high-level-python-framework-for-building-web-applications-3fc0ccb7b018
-
-
