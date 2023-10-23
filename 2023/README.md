@@ -28,6 +28,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Naomi Ibe
 - Nsingwire Victor
 - Lanyero Deborah
 - Nwajiunor Edgar
