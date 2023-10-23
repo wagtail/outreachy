@@ -90,4 +90,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ## Things I’ve learned recently
 
-- [Effective Time Management]()
+- [Effective Time Management](https://ugoo-okonkwostellaozioma.hashnode.dev/the-art-of-effective-documentation-mastering-the-skills-of-good-writing)
+
+## My Understanding of Accessibility
+
+- [Accessibility: A Universal Need](https://ugoo-okonkwostellaozioma.hashnode.dev/accessibility-a-universal-need)
