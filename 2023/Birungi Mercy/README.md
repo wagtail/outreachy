@@ -29,3 +29,28 @@ I find immense joy in volunteering within my community. It not only brings a smi
 - Blog:https://medium.com/@mercyssbirungi
 
 I am excited about the opportunity to contribute to Wagtail and Outreachy's mission of fostering inclusivity and diversity in the tech world. Together, we can make a difference!
+
+## Tasks 
+## Checklist: 
+
+Interest in learning
+
+   
+
+- [x] Create a new **Research** section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link URL)), so we can understand your choice of resources.
+
+- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on [Hemingway Editor](https://hemingwayapp.com/). You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+
+## Research 
+
+
+* [Wagtail accessibility documentation](https://docs.wagtail.org/en/latest/advanced_topics/accessibility_considerations.html) - This documentation provides information on how to use Wagtail's accessibility features to create accessible websites.
+* [ATAG 2.0 standard](https://www.w3.org/TR/ATAG20/) - This standard provides guidelines for the design and development of accessible authoring tools.
+* [Wagtail user guide](https://guide.wagtail.org/en-latest/) - This guide provides information on how to use Wagtail to create and manage websites.
+
+**The interesting project idea that I am interested in is the [Accessibility Features Documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentationl)**
+
+
+
+
+
