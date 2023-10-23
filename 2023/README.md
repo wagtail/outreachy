@@ -12,16 +12,22 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Cynthia Osarumwense Udoh
 - Edgar Nwajei
 - Esther Christopher
+- Fortune Obadiah
 - Folashade Ode
 - Fortune Obadiah
 - Geoffrey Logovi
 - Greatman Ugorji
 - Ihedioha Chinedu Innocent
+- Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
 - Oghenekevbe Egume
+- Nouman Wali
+- Nishant Nayan
+- Mercy Birungi
 - Olumide Micheal
 - Praise Agbabiaka
+- Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
 - Thibaud Colas
-
+- Wepngong Maureen
