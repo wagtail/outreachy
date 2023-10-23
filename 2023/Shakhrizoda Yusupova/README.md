@@ -1,7 +1,7 @@
 ## Introduction
 
 <div>
-  <img align="right" src="https://github.com/wagtail/outreachy/assets/106587342/ac3e7003-0213-411c-8591-593e01c34fd4" alt="photo of sher-dor madrasah in samarkand" width="300" />
+  <img align="right" src="https://github.com/wagtail/outreachy/assets/106587342/ac3e7003-0213-411c-8591-593e01c34fd4" alt="Facade of Sher-Dor Madrasah in Samarkand, Uzbekistan. The Islamic educational building features blue domes and intricate tilework." width="300" />
 </div>
 
 **Hi everyone!**
