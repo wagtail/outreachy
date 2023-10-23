@@ -34,5 +34,6 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Raneh Egbe
 - Regina Ndze
 - Thibaud Colas
+- Siziwe Lupondo
 - Spyke Lionel
 - Wepngong Maureen
