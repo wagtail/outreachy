@@ -21,7 +21,6 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Fortune Obadiah
 - Folashade Ode
 - Fortune Obadiah
-- Geoffrey Logovi
 - Greatman Ugorji
 - Ihedioha Chinedu Innocent
 - Jude Okoye
