@@ -25,17 +25,18 @@ I’m so glad I made it to the contribution stage, and I’m looking forward to 
 | [Twitter/X](https://twitter.com/shyusu4) |
 
 ## Research
-Here are the resources I used to better understand Wagtail and the project that I chose (wagtail.org website accessibility):
+Here are the resources I used to better understand Wagtail and the project that I chose (_Wagtail.org website accessibility_):
 
 - I started with the [Wagtail website](https://wagtail.org/about-wagtail/) to gain an initial understanding of what Wagtail is. It gave me an overview of the platform.
-- I also checked out the [Wagtail documentation](https://docs.wagtail.org/en/stable/index.html). They have a setup guide for getting started with the development environment that really helped me. There’s also a part in the docs called [accessibilty considerations](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html) that I read through to see what accessibility guidelines wagtail follows.
-- I used the [project ideas document](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#wagtailorg-website-accessibility) to understand the specific goals and details of the project I'm interested in. Specifically, the scope and objectives of the Wagtail.org website accessibility project.
-- [Wagtail’s accessibilty statement](https://wagtail.org/accessibility/) gave me some insights into the accessibility standards and practices within Wagtail.
-- This [issue](https://github.com/wagtail/wagtail/issues/10515) gave me an idea of what Wagtail’s plans are for their audit.
+- I frequently checked the [project ideas document](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#wagtailorg-website-accessibility) to understand the specific goals and details of the project I'm interested in.
+- I also checked out the [Wagtail documentation](https://docs.wagtail.org/en/stable/index.html). They have a setup guide for getting started with the development environment that was really useful. There’s also a part in the docs called [accessibilty considerations](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html) that I read through to see what accessibility guidelines wagtail follows.
+- Similarly, [Wagtail’s accessibilty statement](https://wagtail.org/accessibility/) gave me some insights into the accessibility standards and practices within Wagtail.
+- This [issue](https://github.com/wagtail/wagtail/issues/10515) gave me an idea of what Wagtail’s plans are for their accessibility audit.
+- I used the [GitHub thread](https://github.com/wagtail/outreachy/discussions/3) about the _wagtail.org website accessibility_ project or the `#outreachy` channel in [Wagtail's slack](https://wagtailcms.slack.com/ssb/redirect) to see if questions I had regarding the project were already answered or not.
 
 ## Blog Posts
 
-1. My blog post about something I've learned recently: [Learning Adobe Illustrator as a Software Developer](https://medium.com/@shyusupova4/learning-adobe-illustrator-as-a-software-developer-268fbbb6ed1b)
+1. My blog post about something I've learned recently: [Learning Adobe Illustrator as a Software Developer](https://medium.com/@shyusupova4/learning-adobe-illustrator-as-a-software-developer-268fbbb6ed1b). It scored grade 6 on <https://hemingwayapp.com/>.
 
 ## Tasks
 
