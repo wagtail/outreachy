@@ -1,50 +1,20 @@
-# Outreachy contributor guide
+Hello Everyone,
+I am Nouman Wali. I have been connected with the software industry for the last 5 years. The key skills are HTML, CSS, Bootstrap, Javascript, UI Testing, and content writing. I have experience in handling web and mobile-based application projects as a project manager in a small software house. While working in the software industry, I realized that writing documentation and interactive content is something that I want to pursue in my life.
 
-👋 This guide is our main resource for contributors interested in working on Wagtail as part of Outreachy internships. Please read through it all, top to bottom.
+I decided to dig more into technical writing. I have been contributing to open-source projects for the last 6 to 7 months. The open-source contribution is really fun and provides professional and interpersonal skills.
 
-## Communication channels
+This is my first time participating in the Outreachy contribution program. The reason for joining the program is to learn new technologies, collaborate with new people, and get an understanding of the professional environment.
 
-Where possible, we prefer you use Wagtail’s community channels rather than reaching out to mentors or coordinators directly. We use:
+I love to go hiking in the beautiful mountains of Islamabad, Pakistan. The daily jogging and gym workout is one of the important tasks that I do. On weekends, I love to spend some time with my family for outdoor activities.
+Thank you
 
-- The [Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack), in particular [#outreachy](https://github.com/wagtail/wagtail/wiki/Slack#outreachy)
-- [GitHub Discussions](https://github.com/wagtail/outreachy/discussions)
 
-## About Wagtail
+## Professional and Social Media Links
+[GitHub Profile](https://github.com/nouman17610)
+[Blogs Website](http://myblogzweb.com/)
+[Facebook Profile](https://www.facebook.com/nouman.wali.5)
 
-<!-- Note for maintainers: matches the "Description" field on https://www.outreachy.org/communities/cfp/wagtail/edit/. -->
-
-We build Wagtail, a popular content management system. It's built on Python, by an active and engaged open source community, which has grown rapidly since Wagtail's release in 2014. Wagtail is available in over 40 languages, and used by some of the world's best-known organizations, including NASA, Google, Mozilla, MIT, and the UK's National Health Service, as well as museums, universities, non-profits, governments, banks, studios, restaurants, startups and bloggers around the world.
-
-## Eligibility criteria
-
-We use the same [eligibility criteria](https://www.outreachy.org/docs/applicant/#eligibility) as every other participating organization. In particular,
-
-- Contributors / applicants must have been pre-approved by Outreachy in order to be eligible to take part in the contribution period during our project.
-- You can only be accepted as an Outreachy intern once.
-- You must not have a full-time job or contracting position during the Outreachy internship.
-- University students must have 42 consecutive days free from school and exams during the internship period.
-
-## Contributor expectations
-
-We expect participants to go through a set of initial tasks as they start to get involved with Wagtail’s community, ahead of their application. This is for you to get to know Wagtail as a project and community, and get a sense of how we can work together. It also helps mentors assess the skills of candidates, so we can decide which projects we can take on with you.
-
-No matter which specific project idea you’re interested in, we expect all participants to demonstrate:
-
-- **A good understanding of Outreachy**.
-- Awareness of **how open source contributors collaborate**: clear and effective communication, use of english, online etiquette, code of conduct.
-- An **interest in learning and collaboration**: improving in response to feedback, asking questions when appropriate, and helping other contributors.
-- Awareness of **how the Wagtail project works**: communication channels, contribution guidelines.
-- Knowledge of **git and GitHub**: coders or not, those are fundamental tools for how we work as a community.
-
-### Improve your chances of being accepted
-
-The best thing you can do to improve your chances of being accepted as an Outreachy intern with Wagtail is to start being involved now. Make yourself known to the community. Go through our recommended tasks below, recommended learning resources, and help fellow contributors who are going through the same process. Try to contribute to an area related to the project you will be applying for. When the time comes to evaluate applications, you will be a known individual.
-
-We're here to help, but we can't watch you every step of the way. We need to see motivation from you. Your activities before the application process are the best way to demonstrate this. Any application submitted late, from people we haven’t heard from before, will still be considered but might be met with skepticism.
-
-### Contributor tasks
-
-We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure you’re on the right track.
+## Tasks
 
 #### Checklist: Getting started with Outreachy
 
