@@ -81,6 +81,11 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ## Research
 
 
+#### Accessibilty Blog Update
+
+My blogpost on a form of accessibility I've observed in my community
+[Observing accessibilty of information in an online community](https://open.substack.com/pub/olanrewajuolaitan/p/whats-up-discord?r=74wej&utm_campaign=post&utm_medium=web)
+
 #### Short Blog Post- Recent Learnings
 [Accessibility and usability like a five year old](https://open.substack.com/pub/olanrewajuolaitan/p/accessibility-and-usability-like?r=74wej&utm_campaign=post&utm_medium=web)
 
