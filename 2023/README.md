@@ -30,6 +30,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Praise Agbabiaka
 - Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
+- Regina Ndze
 - Thibaud Colas
 - Spyke Lionel
 - Wepngong Maureen
