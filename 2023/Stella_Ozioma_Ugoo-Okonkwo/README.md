@@ -95,3 +95,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ## My Understanding of Accessibility
 
 - [Accessibility: A Universal Need](https://ugoo-okonkwostellaozioma.hashnode.dev/accessibility-a-universal-need)
+
+## Demonstrating my Expertise on Technical Writing
+
+- [How to Customize Google Chrome with Ease: A Step-by-Step Guide](https://ugoo-okonkwostellaozioma.hashnode.dev/how-to-customize-google-chrome-with-ease-a-step-by-step-guide)
