@@ -37,6 +37,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Taiwo Adeyombo
 - Regina Ndze
 - Thibaud Colas
+- Tunde Babatunde
 - Siziwe Lupondo
 - Spyke Lionel
 - Wepngong Maureen
