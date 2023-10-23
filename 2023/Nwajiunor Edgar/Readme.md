@@ -1,24 +1,21 @@
-Hello, World! I'm Fortune Obadiah, hailing from Delta State, Nigeria, and currently residing in Eket, Akwa Ibom. My journey into the world of tech began just three months ago when I embarked on the exciting path of a "Data Enthusiast," fueled by my deep love for all things data.
+Hello There,
 
-Before diving into data science, my tech journey started last year as a digital marketer and content writer. I've been honing my skills at Africinnovate, a fantastic tech hub right here in Akwa Ibom, which has been a tremendous source of support for my burgeoning tech career.
+I'm Nwajiunor, a data scientist from Lagos, Nigeria. I recently transitioned into this exciting field from the field of architecture. I believe my background in architecture when combined with my expertise in data science provides me with a unique set of skills to approach challenges from fresh perspectives.
 
-My motivation to contribute to the Outreachy project with Wagtail stems from a heartfelt belief that accessibility on the internet should be an inclusive experience for everyone, including those with disabilities. It's my firm conviction that no one should face unnecessary obstacles when navigating websites and the online world.
+I am interested in the Accessibility Features Documentation project because I find it interesting that I can use data analysis techniques to prioritize accessibility features and topics that can be addressed in the documentation. I see Outreachy with Wagtail as an opportunity to apply my expertise in a meaningful way while contributing to a project with a strong social impact. Although I have made a first-timer contribution before, this will be my first time contributing extensively over a period of weeks.
 
-This marks my maiden voyage into the world of open source, and I couldn't be more thrilled. Securing an internship with Outreachy would be a dream come true, aligning perfectly with my birthday wishes this year - to give back to the community. 🎂✨
+A fun spoiler about me: I'm a delightful mix of introvert and extrovert tendencies, leaning towards the introverted side (shh, it's our little secret. Don't tell anyone 🙈🙈). For leisure, I like surfing the internet to find out what's happening around the world and around me. I look forward to having an amazing collaborative experience here.
+If you would like to connect with me on LinkedIn, kindly do so here; [LinkedIn](https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)
 
-Outside of my tech pursuits, I have a creative side where I indulge in writing poetry, crafting spoken words, and penning song lyrics. I'm also an avid history buff who relishes diving into documentaries and curling up with a good book 📖🎵. In my free time, I enjoy reading, singing, and experimenting with new recipes. 🍳🎤
+## My Social Links 
 
-I am enthusiastic and fully prepared to roll up my sleeves and immerse myself in the Outreachy community, ready to work hard and learn from the best. Let's make this journey a memorable one! 🚀🌟
+| Socials  | Links |
+| ------------- | ------------- |
+| GitHub  | [GitHub Profile](https://github.com/temiwaji)  |
+| Personal Blog  | [Medium](https://medium.com/@temiwaji)  |
+| Social Media  | [LinkedIn](https://medium.com/@temiwaji](https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)  |
 
-| Description          | Link                                      |
-|----------------------|-------------------------------------------|
-| GitHub Profile       | [triuphant-fortune](https://github.com/triumphant-fortune) |
-| Personal Website/Blog| [Medium](https://medium.com/@fortuneweb3info)          |
-| LinkedIn             | [Smartfortune-obadiah](https://www.linkedin.com/in/smartfortune-obadiah-895932264/) |
-| Twitter              | [Omgitsfortune1](https://twitter.com/OMGitsfortune1)   |
-
-
-## Tasks
+## Tasks 
 
 #### Checklist: Getting started with Outreachy
 
@@ -63,7 +60,7 @@ To stand out as an applicant,
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Accessibility features documentation
 
@@ -77,31 +74,20 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
-##  Research 
+## Research  
 
-### Understanding CMS
+| Research Areas | Source |
+| ------------- | ------------- |
+| Wagtail  | [Wagtail CMS](https://wagtail.org/) |
+| Wagtail  | [Wagtail GitHub](https://github.com/wagtail/wagtail) |
+| Accessibility Features Documentation | [Wagtail Accessibilty Policy](https://wagtail.org/accessibility/)  |
+| Accessibility Features Documentation | [Wagtail Accessibilty Considerations Documentation](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html)  |
+| Accessibility Features Documentation | [Google for Developers](https://developers.google.com/style/accessibility)  |
+| Accessibility Features Documentation | [Accessibility Features in PDFs](https://helpx.adobe.com/acrobat/using/accessibility-features-pdfs.html)  |
+| Accessibility Features Documentation | [Create Accessible Documents](https://it.wisc.edu/learn/make-it-accessible/create-accessible-documents/)  |
 
-[What is Content Management System](https://blog.golayer.io/business/content-management-system-cms)
+## Blog Posts
 
-[Knowing More about CMS](https://sitechecker.pro/cms-functions-and-definition/)
+1. [Discipline as a Habit](https://medium.com/@temiwaji/discipline-as-a-habit-b392d91efa18)
 
-### Wagtail As A Project
-
-[Wagtail Website](https://wagtail.org/about-wagtail/)
-
-[Made With Wagtail](https://madewithwagtail.org/)
-
-[Authorising Tool Accessibility Guideline](https://www.w3.org/TR/ATAG20/)
-
-[Wagtail User Guide](https://guide.wagtail.org/en-latest/)
-
-
-### Accessibility Features Documentation
-
-- [Accessibility features documentation](#accessibility-features-documentation)
-
-## First Blog Post(Research)
-[My First Journey In Open Source And Git: Overcoming Fear And Embracing Growth](https://medium.com/@fortuneweb3info/navigating-my-first-journey-in-open-source-and-git-overcoming-fear-and-embracing-growth-7f1167f5a6d8)
-
-## Second  Blog Post(Acessibility Features Docuentation)
-[Unlocking Digital Inclusion: The Quest for Accessibility](https://fortuneweb3info.medium.com/unlocking-digital-inclusion-the-quest-for-accessibility-a0a36e99e4b6)
+ This is a short blog post on nuturing the habit of discipline, which is something I have been learning for a while now. The word count for the write up was less than 500 and it  scored a Grade of 4 on the Hemingway App. 
