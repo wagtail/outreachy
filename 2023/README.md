@@ -6,6 +6,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
+- Arafat Abdussalam
 - Aleru Divine Chinwendu
 - Amadi oluchi faith
 - Akinyefa Iyanujesu
@@ -27,6 +28,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Lanyero Deborah
 - Nwajiunor Edgar
 - Oghenekevbe Egume
 - Nouman Wali
