@@ -20,9 +20,22 @@ I’m so glad I made it to the contribution stage, and I’m looking forward to 
 | Links |
 |----------|
 | [GitHub](https://github.com/shyusu4) |
-| [Blog (Hashnode)](https://shyusupova.hashnode.dev/) |
+| [Blog (Medium)](https://medium.com/@shyusupova4) |
 | [Linkedin](https://www.linkedin.com/in/shyusu4/) |
 | [Twitter/X](https://twitter.com/shyusu4) |
+
+## Research
+Here are the resources I used to better understand Wagtail and the project that I chose (wagtail.org website accessibility):
+
+- I started with the [Wagtail website](https://wagtail.org/about-wagtail/) to gain an initial understanding of what Wagtail is. It gave me an overview of the platform.
+- I also checked out the [Wagtail documentation](https://docs.wagtail.org/en/stable/index.html). They have a setup guide for getting started with the development environment that really helped me. There’s also a part in the docs called [accessibilty considerations](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html) that I read through to see what accessibility guidelines wagtail follows.
+- I used the [project ideas document](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#wagtailorg-website-accessibility) to understand the specific goals and details of the project I'm interested in. Specifically, the scope and objectives of the Wagtail.org website accessibility project.
+- [Wagtail’s accessibilty statement](https://wagtail.org/accessibility/) gave me some insights into the accessibility standards and practices within Wagtail.
+- This [issue](https://github.com/wagtail/wagtail/issues/10515) gave me an idea of what Wagtail’s plans are for their audit.
+
+## Blog Posts
+
+1. My blog post about something I've learned recently: [Learning Adobe Illustrator as a Software Developer](https://medium.com/@shyusupova4/learning-adobe-illustrator-as-a-software-developer-268fbbb6ed1b)
 
 ## Tasks
 
@@ -68,8 +81,8 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Wagtail.org website accessibility
 
