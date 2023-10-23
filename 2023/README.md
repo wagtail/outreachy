@@ -24,6 +24,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Nwajiunor Edgar
 - Oghenekevbe Egume
 - Nouman Wali
 - Nishant Nayan
