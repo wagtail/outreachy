@@ -20,6 +20,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Nishant Nayan
 - Mercy Birungi
 - Olumide Micheal
 - Praise Agbabiaka
