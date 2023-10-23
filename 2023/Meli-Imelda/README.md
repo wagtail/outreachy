@@ -1,28 +1,30 @@
-Hello, World! I'm Fortune Obadiah, hailing from Delta State, Nigeria, and currently residing in Eket, Akwa Ibom. My journey into the world of tech began just three months ago when I embarked on the exciting path of a "Data Enthusiast," fueled by my deep love for all things data.
+## Introduction
 
-Before diving into data science, my tech journey started last year as a digital marketer and content writer. I've been honing my skills at Africinnovate, a fantastic tech hub right here in Akwa Ibom, which has been a tremendous source of support for my burgeoning tech career.
+Hello everyone, I'm Meli Imelda (me-li i-mel-da) there's no hyphen between the two names but I like being called Meli Imelda :)
 
-My motivation to contribute to the Outreachy project with Wagtail stems from a heartfelt belief that accessibility on the internet should be an inclusive experience for everyone, including those with disabilities. It's my firm conviction that no one should face unnecessary obstacles when navigating websites and the online world.
+I'm from Cameroon, I am a writer at heart and a Network engineer by profession. I have some experience with web development using Django, React, HTML/CSS and up till recently, Next Js.
 
-This marks my maiden voyage into the world of open source, and I couldn't be more thrilled. Securing an internship with Outreachy would be a dream come true, aligning perfectly with my birthday wishes this year - to give back to the community. 🎂✨
+Wagtail and I go a way back from 2019 when some very close friends and I started developing [Traleor](https://traleor.com/), a Content Management System and No-code Website Builder entirely powered by none other than ***wagtail***. Building Traleor was and still is amazing and I can proudly say it's thanks to wagtail, so I am honestly thrilled to be contributing to wagtail this year.
 
-Outside of my tech pursuits, I have a creative side where I indulge in writing poetry, crafting spoken words, and penning song lyrics. I'm also an avid history buff who relishes diving into documentaries and curling up with a good book 📖🎵. In my free time, I enjoy reading, singing, and experimenting with new recipes. 🍳🎤
+I look forward to contributing to projects `Accessibility features documentation` and/or `Adopt generic class based views across the Wagtail admin`.
 
-I am enthusiastic and fully prepared to roll up my sleeves and immerse myself in the Outreachy community, ready to work hard and learn from the best. Let's make this journey a memorable one! 🚀🌟
+When I am not working, I love travelling, visiting new cities in my country (hopefully someday out of the country) and eating good food!
 
-| Description          | Link                                      |
-|----------------------|-------------------------------------------|
-| GitHub Profile       | [triuphant-fortune](https://github.com/triumphant-fortune) |
-| Personal Website/Blog| [Medium](https://medium.com/@fortuneweb3info)          |
-| LinkedIn             | [Smartfortune-obadiah](https://www.linkedin.com/in/smartfortune-obadiah-895932264/) |
-| Twitter              | [Omgitsfortune1](https://twitter.com/OMGitsfortune1)   |
+I am exited about what lies ahead and I look forward to journeying with you all!
+
+## Where You Can Find Me
+
+| Username      | Platform |
+| ----------- | ----------- |
+| meli-imelda     | [GitHub](https://github.com/meli-imelda)       |
+| Meli   | [Blog](https://meli.traleor.com/)        |
+| Meli Tchouala Imelda   | [LinkedIn](https://www.linkedin.com/in/meli-tchouala-imelda)        |
+| Meli_Tchouala | [Twitter](https://twitter.com/Meli_Tchouala) |
 
 
 ## Tasks
 
-#### Checklist: Getting started with Outreachy
-
-This is the first checklist for candidates to go through.
+### Getting started with Outreachy
 
 - [x] Read the official [Outreachy Applicant Guide](https://www.outreachy.org/docs/applicant/). All of it.
 - [x] Read the official [Outreachy Internship Guide](https://www.outreachy.org/docs/internship/).
@@ -31,19 +33,13 @@ This is the first checklist for candidates to go through.
 - [x] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail/wiki/Slack#new-contributors).
 - [x] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and generally a good way to solidify learnings. You can use a personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
 
-### Checklist: open source contributions
-
-> For participants already experienced with GitHub and Markdown, feel free to go through all the suggested tasks in a single pull request.
-
-This checklist helps you demonstrate your understanding of how people use GitHub to collaborate.
+### Open Source Contributions
 
 - [x] Read through [How to contribute to open source](https://opensource.guide/how-to-contribute/)
 - [x] Read [Open source etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 - [x] Make your first [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with us! Add your name to the list of participants in [2023/README.md](2023/README.md).
 
-### Checklist: your contribution period with Wagtail
-
-And now, we will want you to start using GitHub so we can review your progress over time, your research ahead of the application, and provide feedback.
+### Your contribution period with Wagtail
 
 - [x] Make a fork this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
 - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -56,14 +52,14 @@ And now, we will want you to start using GitHub so we can review your progress o
 To stand out as an applicant,
 
 - [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
-- [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+- [ ] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
-### Checklist: interest in learning
+### Interest in learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Accessibility features documentation
 
@@ -77,31 +73,17 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
-##  Research 
+### Checklist: Adopt generic class based views across the Wagtail admin
 
-### Understanding CMS
+🚧 This checklist is for candidates interested in working on the [Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#adopt-generic-class-based-views-across-the-wagtail-admin) project.
 
-[What is Content Management System](https://blog.golayer.io/business/content-management-system-cms)
-
-[Knowing More about CMS](https://sitechecker.pro/cms-functions-and-definition/)
-
-### Wagtail As A Project
-
-[Wagtail Website](https://wagtail.org/about-wagtail/)
-
-[Made With Wagtail](https://madewithwagtail.org/)
-
-[Authorising Tool Accessibility Guideline](https://www.w3.org/TR/ATAG20/)
-
-[Wagtail User Guide](https://guide.wagtail.org/en-latest/)
+- [ ] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
+- [x] Go through Wagtail’s guide: [Your first contribution](https://docs.wagtail.org/en/stable/contributing/first_contribution_guide.html).
+- [ ] Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
+- [ ] Contribute a solution to the issue you selected based on guidance in section "6. Contributing a solution".
+- [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 
-### Accessibility Features Documentation
-
-- [Accessibility features documentation](#accessibility-features-documentation)
-
-## First Blog Post(Research)
-[My First Journey In Open Source And Git: Overcoming Fear And Embracing Growth](https://medium.com/@fortuneweb3info/navigating-my-first-journey-in-open-source-and-git-overcoming-fear-and-embracing-growth-7f1167f5a6d8)
-
-## Second  Blog Post(Acessibility Features Docuentation)
-[Unlocking Digital Inclusion: The Quest for Accessibility](https://fortuneweb3info.medium.com/unlocking-digital-inclusion-the-quest-for-accessibility-a0a36e99e4b6)
+## Research
+<!-- TODO -->
