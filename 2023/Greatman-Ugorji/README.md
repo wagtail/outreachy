@@ -84,3 +84,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 ### Accessibility Post
 
 [Accessibility Post](https://0xryker.hashnode.dev/a-basic-introduction-to-web-accessibility)
+
+### Technical Writing Post
+
+[My Technical Writing Post](https://0xryker.hashnode.dev/introduction-to-technical-writing-a-beginners-guide)
