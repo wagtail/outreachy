@@ -28,4 +28,4 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
 - Thibaud Colas
-  
+- Wepngong Maureen
