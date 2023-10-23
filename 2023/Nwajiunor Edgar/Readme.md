@@ -1,17 +1,21 @@
-I’m Edgar, a frontend dev, and also a Technical writer. I started my journey not quite long ago, and I heard about Opensource during personal research on how to expand my knowledge and connect with others. That's when I found Outreachy and applied. Now at the contribution stage, I saw the Wagtail project #1 where I could contribute using my Technical documentation skills, and learn from amazing people.
+Hello There,
 
+I'm Nwajiunor, a data scientist from Lagos, Nigeria. I recently transitioned into this exciting field from the field of architecture. I believe my background in architecture when combined with my expertise in data science provides me with a unique set of skills to approach challenges from fresh perspectives.
 
-## Links
+I am interested in the Accessibility Features Documentation project because I find it interesting that I can use data analysis techniques to prioritize accessibility features and topics that can be addressed in the documentation. I see Outreachy with Wagtail as an opportunity to apply my expertise in a meaningful way while contributing to a project with a strong social impact. Although I have made a first-timer contribution before, this will be my first time contributing extensively over a period of weeks.
 
-| Platform         | Link                                         |
-|------------------|----------------------------------------------|
-| GitHub Profile   | [https://github.com/Otakuwind](https://github.com/Otakuwind)       |
-| Personal Website | [https://0xwind.hashnode.dev](https://0xwind.hashnode.dev)     |
-| Twitter          | [https://twitter.com/0x_wind](https://twitter.com/0x_wind)       |
-| LinkedIn         | [https://www.linkedin.com/in/edgar-nwajei-5822631b7](https://www.linkedin.com/in/edgar-nwajei-5822631b7) |
+A fun spoiler about me: I'm a delightful mix of introvert and extrovert tendencies, leaning towards the introverted side (shh, it's our little secret. Don't tell anyone 🙈🙈). For leisure, I like surfing the internet to find out what's happening around the world and around me. I look forward to having an amazing collaborative experience here.
+If you would like to connect with me on LinkedIn, kindly do so here; [LinkedIn](https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)
 
+## My Social Links 
 
-## Tasks
+| Socials  | Links |
+| ------------- | ------------- |
+| GitHub  | [GitHub Profile](https://github.com/temiwaji)  |
+| Personal Blog  | [Medium](https://medium.com/@temiwaji)  |
+| Social Media  | [LinkedIn](https://medium.com/@temiwaji](https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)https://www.linkedin.com/in/nwajiunor-edgar-38274a1b6/)  |
+
+## Tasks 
 
 #### Checklist: Getting started with Outreachy
 
@@ -62,31 +66,28 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
 
-- [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [x] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
+- [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [ ] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 - [ ] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
+## Research  
 
+| Research Areas | Source |
+| ------------- | ------------- |
+| Wagtail  | [Wagtail CMS](https://wagtail.org/) |
+| Wagtail  | [Wagtail GitHub](https://github.com/wagtail/wagtail) |
+| Accessibility Features Documentation | [Wagtail Accessibilty Policy](https://wagtail.org/accessibility/)  |
+| Accessibility Features Documentation | [Wagtail Accessibilty Considerations Documentation](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html)  |
+| Accessibility Features Documentation | [Google for Developers](https://developers.google.com/style/accessibility)  |
+| Accessibility Features Documentation | [Accessibility Features in PDFs](https://helpx.adobe.com/acrobat/using/accessibility-features-pdfs.html)  |
+| Accessibility Features Documentation | [Create Accessible Documents](https://it.wisc.edu/learn/make-it-accessible/create-accessible-documents/)  |
 
+## Blog Posts
 
+1. [Discipline as a Habit](https://medium.com/@temiwaji/discipline-as-a-habit-b392d91efa18)
 
-
-
-## Research
-- [Wagtail user guide](https://guide.wagtail.org/en-latest/)
-- [Official Wagtail website](https://wagtail.org/)
-
-## Recent learning.
-
-Short blog post on what i learnt recently https://0xwind.hashnode.dev/my-tech-trinity
-
-### Accessibility features documentation
-Short blog post on accessibility: https://0xwind.hashnode.dev/enhancing-user-experience
-
-
-## technical writing.
-Short blog post on technical writing : https://0xwind.hashnode.dev/my-javascript-journey
+ This is a short blog post on nuturing the habit of discipline, which is something I have been learning for a while now. The word count for the write up was less than 500 and it  scored a Grade of 4 on the Hemingway App. 
