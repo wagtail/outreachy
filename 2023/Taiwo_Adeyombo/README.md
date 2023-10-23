@@ -1,18 +1,21 @@
-Hi everyone, I’m Ahmed (pronounced Ah-med). I am UX researcher and designer based in Lagos, Nigeria. I gather experience through freelance and community work. My tech community is called RoadTrip.
-We’re about 400 members and mostly online (Discord, currently transitioning to WhatsApp). What we are is a close-knit community sharing resources on growth career, mental health, job opportunities and the likes. In the community, I’m a newsletter writer, a social media team member and a buddy group rep (that’s like a mini community manager👀).
-When it comes to accessibility in my work, I’d admit it isn’t something I consciously focus on but I’ve worked on a few projects where some parts of it were necessary (like content coordination and colour schemes). So, Wagtail’s project is something I’d like to really learn from.
-When I'm not doing anything brain tasking, I'm asleep or consuming fiction like mangas, comics, animes 😅.
-Also, I’ve contributed in other project rounds (not Wagtail) in the Outreachy cycle and hope that experience will be useful to everyone.
-Happy to be here 😄.
+Hello everyone.
+
+I'm Taiwo Adeyombo, a Nigerian-based Data Scientist and writer. My fascination with open source stems from its collaborative nature, which aligns with my belief in the power of collective efforts to drive innovation and positive change.
+
+Music fuels most of my days – it's my constant companion. My selection of music depends entirely on my mood, so you can catch me listening to Emeli Sande one minute and Nas the next. When I'm not chasing deadlines or buried in work, you'll find me trying out new recipes, buried in a book or seeing a movie/ TV series.
+
+I decided to contribute to Wagtail because of my genuine interest in all three projects. Before I focused particularly on data science, I took some general Python programming classes, so I'm pretty familiar with the Django framework. Plus, I've got some skills in technical documentation and technical writing. for accessibility. I'm eager to contribute my skills and learn from this vibrant community.
+
+Thank you.
 
 
-## My links are :
+## Links :
 
 |Media    | Links|
 | ------------- | ------------- |
-| GitHub Profile Link | [MyGitHubLink](https://github.com/waju-ire)  |
-|Blog | [Substack](https://substack.com/@waju26)  |
-|Social media link | [LinkedIn](https://www.linkedin.com/in/ahmed-olaitan-7519161b2/) |
+| GitHub Profile | [GitHub](https://github.com/stormztee)  |
+|Blog | [Blog](https://taiwoadeyombo.hashnode.dev/)  |
+|Social Profile  | None |
 
 
 ## Tasks
@@ -56,12 +59,13 @@ To stand out as an applicant,
 - [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
+
 ### Checklist: interest in learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 
 ### Checklist: Accessibility features documentation
@@ -78,17 +82,18 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 
+### Checklist: Adopt generic class based views across the Wagtail admin
+
+
+🚧 This checklist is for candidates interested in working on the Adopt generic class based views across the Wagtail admin project.
+
+ - [x]   Write a short blog post which demonstrates your understanding of Django, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x]   Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
+ - [x]   Go through Wagtail’s guide: Your first contribution.
+    Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
+- [ ]    Contribute a solution to the issue you selected based on guidance in section "6. Contributing a solution".
+- [ ]    TBC – Additional tasks specific to the Outreachy application process.
+
+
 ## Research
-
-
-#### Accessibilty Blog Update
-
-My blogpost on a form of accessibility I've observed in my community
-[Observing accessibilty of information in an online community](https://open.substack.com/pub/olanrewajuolaitan/p/whats-up-discord?r=74wej&utm_campaign=post&utm_medium=web)
-
-#### Short Blog Post- Recent Learnings
-[Accessibility and usability like a five year old](https://open.substack.com/pub/olanrewajuolaitan/p/accessibility-and-usability-like?r=74wej&utm_campaign=post&utm_medium=web)
-
-
-
 
