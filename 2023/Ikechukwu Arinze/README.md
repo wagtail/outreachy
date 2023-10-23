@@ -1,18 +1,21 @@
-Hi everyone, I’m Ahmed (pronounced Ah-med). I am UX researcher and designer based in Lagos, Nigeria. I gather experience through freelance and community work. My tech community is called RoadTrip.
-We’re about 400 members and mostly online (Discord, currently transitioning to WhatsApp). What we are is a close-knit community sharing resources on growth career, mental health, job opportunities and the likes. In the community, I’m a newsletter writer, a social media team member and a buddy group rep (that’s like a mini community manager👀).
-When it comes to accessibility in my work, I’d admit it isn’t something I consciously focus on but I’ve worked on a few projects where some parts of it were necessary (like content coordination and colour schemes). So, Wagtail’s project is something I’d like to really learn from.
-When I'm not doing anything brain tasking, I'm asleep or consuming fiction like mangas, comics, animes 😅.
-Also, I’ve contributed in other project rounds (not Wagtail) in the Outreachy cycle and hope that experience will be useful to everyone.
-Happy to be here 😄.
+Greetings, all!
+I am Ikechukwu Arinze, a business development professional/analyst from Nigeria. I have been eagerly anticipating the opportunity to contribute and collaborate with you all. My project of interest is the Accessibility Features Project Wagtail #1.
 
+This is my inaugural interaction with the open-source program, and I must express that it's proven to be rather captivating. I genuinely believe that Accessibility is at the very heart of building a more inclusive world. It's like the glue that binds us all together, creating a place where every single person can fully participate and thrive. Just think about this amazing vision: a world where every individual has access to everything they need to live their best lives. It's like a dream come true, where we break down all the barriers, obstacles and inequalities that stand in our way. When we embrace this idea, we're not just making the world more accessible; we're building a better future for everyone, full of opportunities and shared happiness.
+
+Engaging in the Outreachy Program has truly been a delightful experience, and it has instilled in me a newfound sense of confidence, showcasing the potential for even greater achievements. I had not anticipated my selection for the participation, let alone making it this far, and I do not regard this accomplishment lightly.
+
+Asides from business development, during my spare time I play Scrabble and Chess. I am also an artiste with a high love for music and my technical skills in music include music production, sound engineering and songwriting. Who knows, maybe one day, I will write a song about this.
+
+Once again, it is really an honour to be in your midst.
 
 ## My links are :
 
 |Media    | Links|
 | ------------- | ------------- |
-| GitHub Profile Link | [MyGitHubLink](https://github.com/waju-ire)  |
-|Blog | [Substack](https://substack.com/@waju26)  |
-|Social media link | [LinkedIn](https://www.linkedin.com/in/ahmed-olaitan-7519161b2/) |
+| GitHub Profile Link | [MyGitHubLink](https://github.com/MrKeals)  |
+|Blog | [Dev.to](https://dev.to/mrkeals)  |
+|Social media link | [LinkedIn](https://www.linkedin.com/in/ikechukwu-michael-arinze-929078213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdf2ZdpaZSvCcFNfOtP1ILw%3D%3D) |
 
 
 ## Tasks
@@ -60,8 +63,8 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 
 ### Checklist: Accessibility features documentation
@@ -79,48 +82,3 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 
 ## Research
-
-#### Understanding GitHub
-
-[GitHub for beginners](https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=599s)
-
-[Writing and Formatting in GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-
-[Creating tables in Gitbhub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-#### Understanding Accessibility
-
-[The A11y Project](https://www.a11yproject.com/)
-
-[Intro/ Refresher to A11y playlist](https://www.youtube.com/playlist?list=PLWSYD-KxdDxvxYQ2UHixf6vvlbhvUzXNB)
-
-[Accessibility vs Usability](https://dev.to/yuridevat/usability-accessibility-commonalities-and-differences-108d#:~:text=Usability%20issues%20generally%20affect%20all,accessing%20a%20website%20without%20problems.)
-
-[A11y tool guidelines](https://www.w3.org/TR/ATAG20/)
-
-[Steve Krug's _Don't Make Me Think_](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
-
-[_Don't Make Me Think_ Book Summary](https://www.youtube.com/watch?v=QLzA3CfXI0M&t=7s)
-
-#### Getting familiar with Wagtail
-
-[Wagtail features](https://wagtail.org/features/)
-
-[Wagtail for Beginners](https://www.youtube.com/watch?v=06n3dxEofnc&t=44s)
-
-[Learn Wagtail](https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub)
-
-
-
-
-#### Accessibilty Blog Update
-
-My blogpost on a form of accessibility I've observed in my community
-[Observing accessibilty of information in an online community](https://open.substack.com/pub/olanrewajuolaitan/p/whats-up-discord?r=74wej&utm_campaign=post&utm_medium=web)
-
-#### Short Blog Post- Recent Learnings
-[Accessibility and usability like a five year old](https://open.substack.com/pub/olanrewajuolaitan/p/accessibility-and-usability-like?r=74wej&utm_campaign=post&utm_medium=web)
-
-
-
-

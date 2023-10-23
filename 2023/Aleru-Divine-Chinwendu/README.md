@@ -1,24 +1,27 @@
-👋Hello, World! I'm Fortune Obadiah, hailing from Delta State, Nigeria, and currently residing in Eket, Akwa Ibom. My journey into the world of tech began just three months ago when I embarked on the exciting path of a "Data Enthusiast," fueled by my deep love for all things data.
+## Introduction
 
-Before diving into data science, my tech journey started last year as a digital marketer and content writer. I've been honing my skills at Africinnovate, a fantastic tech hub right here in Akwa Ibom, which has been a tremendous source of support for my burgeoning tech career.
+Hello everyone, I’m Aleru Divine Chinwendu and I’m from Nigeria. I am a software developer, technical writer, and love to read. I am mostly passionate about new technology and simplifying life and I love staying up-to-date with the latest trends and advancements in the tech industry.
 
-My motivation to contribute to the Outreachy project with Wagtail stems from a heartfelt belief that accessibility on the internet should be an inclusive experience for everyone, including those with disabilities. It's my firm conviction that no one should face unnecessary obstacles when navigating websites and the online world.
+I've always been intrigued by the power of effective content management systems, and Wagtail, with its polished administration interface built upon the Django web framework, stands out in this domain.
+The idea of introducing documentation directly within the CMS, like an "onboarding tour guide" or "More info" pop-ups, is something I find innovative and user-centric. I'm also keen on exploring the potential of video content for documentation, as I believe multimedia can significantly enhance user understanding and engagement.
 
-This marks my maiden voyage into the world of open source, and I couldn't be more thrilled. Securing an internship with Outreachy would be a dream come true, aligning perfectly with my birthday wishes this year - to give back to the community. 🎂✨
+My interest in joining Outreachy with Wagtail stems from a blend of my passion for open-source contributions, my alignment with Wagtail's goals, and the opportunity to make a tangible impact in the realm of CMS accessibility and documentation.
 
-Outside of my tech pursuits, I have a creative side where I indulge in writing poetry, crafting spoken words, and penning song lyrics. I'm also an avid history buff who relishes diving into documentaries and curling up with a good book 📖🎵. In my free time, I enjoy reading, singing, and experimenting with new recipes. 🍳🎤
+I look forward to connecting with everyone here, from the mentors to fellow contributors, and embarking on this transformative journey together.
 
-I am enthusiastic and fully prepared to roll up my sleeves and immerse myself in the Outreachy community, ready to work hard and learn from the best. Let's make this journey a memorable one! 🚀🌟
+### Let's connect:
 
-| Description          | Link                                      |
-|----------------------|-------------------------------------------|
-| GitHub Profile       | [triuphant-fortune](https://github.com/triumphant-fortune) |
-| Personal Website/Blog| [Medium](https://medium.com/@fortuneweb3info)          |
-| LinkedIn             | [Smartfortune-obadiah](https://www.linkedin.com/in/smartfortune-obadiah-895932264/) |
-| Twitter              | [Omgitsfortune1](https://twitter.com/OMGitsfortune1)   |
-
+| Profile | Links | 
+| ------ | ------ |
+| Github profile  | [AleruDivine](https://github.com/AleruDivine) | 
+| Personal blog  | [Coding with Div](https://medium.com/@alerudivine) | 
+| LinkedIn  | [Aleru Divine](https://www.linkedin.com/in/aleru-divine-a86993139/) | 
+| Twitter  | [La_Profesora01](https://twitter.com/La_Profesora01) | 
 
 ## Tasks
+### Contributor tasks
+
+We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure you’re on the right track.
 
 #### Checklist: Getting started with Outreachy
 
@@ -71,40 +74,24 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [x] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
+- [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 - [ ] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
-##  Research 
+## Research
+- [Wagtail Documentation](https://docs.wagtail.org/en/stable/getting_started/index.html)
+- [Wagtail Projects](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation)
+- [Wagtail Website](https://wagtail.org/)
+- [Wagtail user guide](https://guide.wagtail.org/en-latest/)
 
-### Understanding CMS
+## First Blog Post
+- [Blog post describing things I have learned recently](https://medium.com/@alerudivine/navigating-the-microbial-universe-my-journey-with-outreachy-and-bugsigdb-a40e84e5a688)
 
-[What is Content Management System](https://blog.golayer.io/business/content-management-system-cms)
+## Second Blog Post
+- [Blog post demonstrating my understanding of accessibility](https://medium.com/@alerudivine/understanding-accessibility-a-digital-journey-052e44542474)
 
-[Knowing More about CMS](https://sitechecker.pro/cms-functions-and-definition/)
+## Third Blog Post
+- [Blog post demonstrating my expertise in technical writing](https://medium.com/@alerudivine/the-art-of-technical-writing-a-glimpse-into-my-experience-f0b88940a237)
 
-### Wagtail As A Project
-
-[Wagtail Website](https://wagtail.org/about-wagtail/)
-
-[Made With Wagtail](https://madewithwagtail.org/)
-
-[Authorising Tool Accessibility Guideline](https://www.w3.org/TR/ATAG20/)
-
-[Wagtail User Guide](https://guide.wagtail.org/en-latest/)
-
-
-### Accessibility Features Documentation
-
-- [Accessibility features documentation](#accessibility-features-documentation)
-
-## First Blog Post(Research)
-[My First Journey In Open Source And Git: Overcoming Fear And Embracing Growth](https://medium.com/@fortuneweb3info/navigating-my-first-journey-in-open-source-and-git-overcoming-fear-and-embracing-growth-7f1167f5a6d8)
-
-## Second  Blog Post(Acessibility Features Docuentation)
-[Unlocking Digital Inclusion: The Quest for Accessibility](https://fortuneweb3info.medium.com/unlocking-digital-inclusion-the-quest-for-accessibility-a0a36e99e4b6)
-
-## Third Blog Post(My Experience As A Technical Writer)
-[Cultivating Understanding: How Technical Writing Enhances Clarity](https://fortuneweb3info.medium.com/cultivating-understanding-how-technical-writing-enhances-clarity-cfd3e77696eb)
