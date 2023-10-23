@@ -1,48 +1,27 @@
 # Introduction
 
-Hello, I'm Brian Mugo from Kenya, a dedicated programmer with a strong passion for Inclusive Education and Web Accessibility. I'm eager to participate in Outreachy with Wagtail because I believe in equal opportunities for all, especially within the tech community. Wagtail's project [#3](https://github.com/wagtail/outreachy/discussions/3) on wagtail.org accessibility particularly interests me, as it offers a chance to apply and expand my Web Accessibility skills to ensure the website is accessible to everyone, regardless of disabilities, ensuring we all win at the end of the day.
+👋 Hello, everyone! I'm Spyke Lionel, a Python/Django Developer based in Cameroon. I'm thrilled to be part of the Outreachy program with Wagtail and excited to introduce myself to this amazing community.
 
-My journey into Outreachy and open source contributions began during my time as a volunteer at Ushahidi Inc. There, I gained exposure to Web Accessibility, Code Architecture, Maintenance, and Technical Documentation. This experience taught me that contributing to a community is about giving and sharing knowledge, and celebrating each other's successes, no matter how small.
+As a passionate advocate of open-source development, I've always been drawn to projects like Wagtail that empower creators with user-friendly tools. Joining this project not only aligns with my interests but also provides an opportunity to connect with fellow developers and contribute to the growth of the open-source community.
 
-Beyond my keyboard, I enjoy weightlifting, learning Arabic, and reading and listening to the Quran.listening to podcasts on topics like EdTech and Psychology,
+While this is my first time participating in Outreachy, I have been an avid supporter of open source for years and have contributed to various projects in the past. In addition to my Python coding skills, I have a keen interest in Machine Learning, particularly deep learning, and I'm constantly exploring new ways to merge the worlds of code and intelligent systems.
 
-I understand that Outreachy and open source communities thrive on collaboration and shared contributions, and I'm excited to be a part of that journey.
-
-Cheers!
+When I'm not immersed in code, you'll likely find me immersed in a good book or enjoying the rhythms of some soulful music. I believe in the power of continuous learning and personal growth, and I'm excited to embark on this journey with the Outreachy and Wagtail communities. Let's create something amazing together! Once again, it's nice meeting y'all.
 
 ## Let's Connect 
 
 | Username      | Platform |
 | ----------- | ----------- |
-| MugoBrian     | [GitHub](https://github.com/MugoBrian)       |
-| Coby   | [Blog](https://medium.com/@mikanmuchiri)        |
-| Brian Mugo   | [LinkedIn](https://www.linkedin.com/in/brianmuchirimugo)        |
+| spykelionel     | [GitHub](https://github.com/spykelionel)       |
+| Spyke's Blog   | [Blog](https://onecode.hashnode.dev)        |
+| Professional Profile   | [LinkedIn](https://www.linkedin.com/in/ndilionel)        |
 
 ## Research
+ - [What's Wagtail](https://wagtail.org/)
+ - [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+ - [Creating a personal blog with Wagtail](https://www.youtube.com/watch?v=SEPBP0DuoWg)
 
-Due to my intereset in Wagtail's project [#3](https://github.com/wagtail/outreachy/discussions/3) on wagtail.org accessibility. I was tried to understand more about it by researching on topics such as OSS contribution, Understanding Wagtail CMS and Web Accessibility (a11y).
-
-[Wagtail Tutorial Series By Wagtail Space](https://www.youtube.com/@wagtailspace222/videos)
-[Complete Guide to Open Source - How to Contribute By freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)
-[Understanding Wagtail CMS](https://www.tekkiwebsolutions.com/blog/what-is-wagtail-cms/)
-[Explore ARIA - Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA).
-[Understand Assistive Technologies](https://www.w3.org/WAI/people-use-web/tools-techniques/)
-
-My Research Blog
-
-[Supercharge Your Open Source Skills and Feel Awesome Doing It!](https://medium.com/@mikanmuchiri/supercharge-your-open-source-skills-and-feel-awesome-doing-it-381044b3787b)
-
-
-## Wagtail.org Accessibility Blog Posts
-
-My Web Accessibility (a11y) Experience
-
-[Everyone Needs To See: Color Contrast Matters](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
-
-What I learnt about Django - DRY Principle
-[Make Django Easy with Generic Views: Say No to Repeating!](https://medium.com/@mikanmuchiri/make-django-easy-with-generic-views-say-no-to-repeating-2ba778c2d941)
-
-## Tasks
+ ## Tasks
 
 ### Getting started with Outreachy
 
@@ -71,7 +50,7 @@ What I learnt about Django - DRY Principle
 
 To stand out as an applicant,
 
-- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Interest in learning
@@ -79,15 +58,21 @@ To stand out as an applicant,
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Wagtail.org website accessibility
 
 - [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
-- [x] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
-- [x] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
-- [X] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
-- [x] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
-- [ ] TBC – Additional tasks specific to the Outreachy application process.
+- [X] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
+- [ ] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
+- [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
+- [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
+- [ ] TBC – Additional tasks specific to the Outreachy application process.
+ - [How to use Wagtail cms for Django](https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-for-django-an-overview/)
+
+## My recent learnings
+- [Contributing to open source](https://onecode.hashnode.dev/my-first-experience-with-open-source)
+- [A guide on accessibility aka. A11y](https://onecode.hashnode.dev/making-things-easier-to-use-for-everyone)
+- [Why Learn Django](https://onecode.hashnode.dev/why-django-is-a-great-tool-for-building-websites)
