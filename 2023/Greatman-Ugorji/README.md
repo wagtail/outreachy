@@ -72,3 +72,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 ## Research
+
+[Wagtail User Guide](https://guide.wagtail.org/en-latest/)
+[Wagtail Documentation](https://docs.wagtail.org/en/stable/)
+[Caktus Group](https://www.caktusgroup.com/blog/2019/03/07/why-we-love-wagtail/)
