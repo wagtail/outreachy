@@ -70,3 +70,5 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
