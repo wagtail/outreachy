@@ -11,3 +11,12 @@ I look forward to contributing to projects `Accessibility features documentation
 When I am not working, I love travelling, visiting new cities in my country (hopefully someday out of the country) and eating good food!
 
 I am exited about what lies ahead and I look forward to journeying with you all!
+
+## Where You Can Find Me
+
+| Username      | Platform |
+| ----------- | ----------- |
+| meli-imelda     | [GitHub](https://github.com/meli-imelda)       |
+| Meli   | [Blog](https://meli.traleor.com/)        |
+| Meli Tchouala Imelda   | [LinkedIn](https://www.linkedin.com/in/meli-tchouala-imelda)        |
+| Meli_Tchouala | [Twitter](https://twitter.com/Meli_Tchouala) |
