@@ -8,9 +8,9 @@ I look forward to working with you all. :)
 
 ## Contact Links
 |---------| :--:|
-| GitHub  |https://github.com/maureenblack   |
-| Blog -Medium   |https://medium.com/@maureenwepngong/  |
-|Faxebook|https://www.facebook.com/maureen.wepnyu?mibextid=ZbWKwL|
+| GitHub  |https://github.com/maureenblack|
+| Blog -Medium |https://medium.com/@maureenwepngong/|
+|Facebook|https://www.facebook.com/maureen.wepnyu?mibextid=ZbWKwL|
 
 ## Tasks
 ### Checklist: Adopt generic class based views across the Wagtail admin
@@ -44,4 +44,17 @@ Specific project ideas I'm interested in:
 The Wagtail accessibility project aims to make Wagtail CMS more accessible to people with disabilities. This includes improving the accessibility of the Wagtail user interface, as well as providing guidance and tools for developers to create accessible websites with Wagtail.
 
 I am particularly interested in the accessibility project because I believe that it is important to make websites accessible to everyone, regardless of their ability. I am also interested in learning more about web accessibility and how to best implement it in Wagtail.
+
+## Interest in Learning | Links to blog posts on Medium
+ Things I've learned recently
+ -https://medium.com/@maureenwepngong/things-ive-learned-recently-f6b95a957c6e
+
+ ## Accessibility Features documentation
+ -Understanding of Accessibility 
+ https://medium.com/@maureenwepngong/accessibility-making-the-web-a-better-place-for-everyone-a70a77d2c3de
+ - Technical Writing
+ https://medium.com/@maureenwepngong/technical-writing-tips-from-a-software-engineer-41aa0247d172
+ -Understanding of Django
+ https://medium.com/@maureenwepngong/django-the-high-level-python-framework-for-building-web-applications-3fc0ccb7b018
+
 
