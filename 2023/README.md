@@ -19,6 +19,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Geoffrey Logovi
 - Greatman Ugorji
 - Ihedioha Chinedu Innocent
+- Jamillah Bello
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
