@@ -1,23 +1,18 @@
 ## Introduction
 
-Hello everyone, I am Chinedu Ihedioha from Nigeria. I recently obtained my bachelor's degree with a strong foundation in computer science & engineering and a keen interest in software development. This academic rigor equipped me with a solid understanding of the core principles that underpin modern computing.
+Hi everyone. My name is Ryker—a front-end developer and technical based in Nigeria. I work with HTML, CSS, JavaScript, Bootstrap, Tailwind, etc. I wish to contribute to the _Wagtail Accessibility documentation_ due to my love and passion for writing and breaking down complex concepts into a simple and easy-to-follow format. I use Hasnode to blog about what I've learned and also help other people get up to speed with complex web development concepts and projects.
 
-I am also a Backend Developer, working with Java, Kotlin, and Spring frameworks including Springboot, Hibernate, Spring Data JPA, and Spring Security. I have hands-on experience with infrastructure and database tools like AWS Amplify Studio, MySQL, PostgreSQL, and Docker, enabling me to build robust and scalable applications.
+This is my first Open Source contribution. Participating in Outreachy will further widen my scope and understanding of key elements and standard practices needed to succeed in Open Source contribution including what it takes to succeed when working for a tech company. Also, this internship will help me harness my knowledge of Git and GitHub in making Open Source contributions and collaboration. I also wish to learn and help others where necessary.
 
-As this is my first time in Open Source contributions, I have a keen interest in Wagtail and contributing to the Accessibility Feature Documentation, because I am also delving into the field of Frontend development and Technical writing, and I want to explore the opportunities that come with documenting features that are designed to make the application more usable for individuals. I am simply curious to explore the opportunities and learning that come with contributing meaningfully to Wagtail open-source project.
+When I'm not working, I love to take a walk to increase my daily step count 😊😊, I also do anaerobic exercise most times to brush off the stress of a sedentary lifestyle. I hope for a thrilling experience that will positively transform my tech career.
 
-When I am not coding or doing anything that relates to tech, you can always find me on the football pitch. I am a big fan of football and I am a passionate supporter of Liverpool FC. I also have interests in other sports, such as Formula 1, Basketball, Tennis, and Boxing.
-
-Looking forward to explore potential collaborations and to discuss exciting opportunities with you all.
-
-|Socials| Links |
-|:--|:---|
-|Github | [Chinex-Boroja](https://github.com/Chinex-Boroja)|
-|Blog| [Hashnode](https://chinexboroja24.hashnode.dev/)
-|Linkedin| [Chinedu Ihedioha](https://www.linkedin.com/in/chinedu-inno-ihedioha24/)|
+| 🤙Socials    | 🖇️Link                          |
+| ------------ | ------------------------------- |
+| My [GitHub]  | (https://github.com/0x-Ryker)   |
+| My [Blog]    | (https://0xryker.hashnode.dev/) |
+| My [Twitter] | (https://twitter.com/0x_Ryker)  |
 
 ## Tasks
-
 
 #### Checklist: Getting started with Outreachy
 
@@ -54,7 +49,7 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 To stand out as an applicant,
 
-- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Checklist: interest in learning
@@ -74,34 +69,22 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
-- [ ] TBC – Additional tasks specific to the Outreachy application process.
+- [ ] TBC – Additional tasks specific to the Outreachy application process.
 
 ## Research
 
-🚧 This is the list of links to the  resources I used in trying to understand Wagtail as a project and project ideas:
+[Wagtail User Guide](https://guide.wagtail.org/en-latest/)
+[Wagtail Documentation](https://docs.wagtail.org/en/stable/)
+[Caktus Group](https://www.caktusgroup.com/blog/2019/03/07/why-we-love-wagtail/)
 
-- [What is Wagtail CMS and How does it Work?](https://www.tekkiwebsolutions.com/blog/what-is-wagtail-cms/)
-- [How to Use the Wagtail CMS for Django: An Overview](https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-for-django-an-overview/)
-- [Wagtail vs Wordpress](https://wagtail.org/wagtail-vs-wordpress/)
-- [wagtail.org](https://wagtail.org/)
-- [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation)
+### Short Blog Post - Recent Learning
 
-🚧 These are the list of recent articles I have read and liked:
+[My Recent Learning](https://0xryker.hashnode.dev/beginners-guide-to-cryptocurrency?source=more_articles_bottom_blogs)
 
-- [Beginner's guide to open-source contribution](https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj#:~:text=What%20do%20you%20mean%20by,improvement%20of%20open-source%20software.)
-- [How to Contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
-- [Spring Boot Project Folder Structure](https://dev.to/jazzybruno/spring-boot-project-folder-structure-12oe)
-- [Entity Relationship (ER) Diagram Model with DBMS Example](https://www.guru99.com/er-diagram-tutorial-dbms.html)
-- [SOLID Principles In Java](https://medium.com/@ersin.yilmaz.aslan/solid-principles-in-java-f27b744905f7)
+### Accessibility Post
 
-## My blog post on Open-Source Contribution
+[Accessibility Post](https://0xryker.hashnode.dev/a-basic-introduction-to-web-accessibility)
 
-🚧 I recently published a blog post on my recent learnings in the field of open-source contribution. Check it out on [Hashnode](https://chinexboroja24.hashnode.dev/embarking-on-a-new-journey-in-open-source-contribution)
+### Technical Writing Post
 
-## My blog post on Accessibility
-
-🚧 I published a blog post on understanding web accessibility. This blog talks about ensuring an inclusive online experience for all users, regardless of any health problems. You can read the blog post on [Hashnode](https://chinexboroja24.hashnode.dev/understanding-web-accessibility)
-
-## My blog post on Organizing a Springboot project in Java
-
-🚧 This is a technical article that explains how a Springboot Java project is organized and structured. The article explains further, what each sub-folder does and also advised for the need to properly organize your Java codebase for ease of maintenance. You can check the article out on [Hashnode](https://chinexboroja24.hashnode.dev/exploring-the-best-practices-for-organizing-a-spring-boot-project)
+[My Technical Writing Post](https://0xryker.hashnode.dev/introduction-to-technical-writing-a-beginners-guide)

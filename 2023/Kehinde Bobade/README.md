@@ -1,33 +1,26 @@
-## **Introduction**
+## Introduction
+
+Hi Everyone. My name is Kehinde Bobade. I'm a backend developer and I am based in South-West Nigeria. This is my first time applying to Outreachy, and I'm so excited to be here.
+
+I have a background in Computer Science as I have a CS degree and I have some experience working as a Backend Engineer. In my day-to-day activities, I work mainly with Django, but also with other Python frameworks like Tornado and FastAPI. I see Outreachy as a fantastic opportunity to learn, collaborate, and contribute to open source projects. It's a bit of a leap for me, but I'm ready for the challenge and the chance to grow.
+
+During my spare time, I enjoy playing chess, listening to podcasts, and reading fiction. These hobbies provide a nice break from my screens and keep me grounded. I'm looking forward to this Outreachy journey, hoping to learn and connect along the way.
+
+## Connect with me
+
+| Media      | Link |
+| ----------- | ----------- |
+| GitHub      | [BobadeKenny](https://github.com/BobadeKenny)       |
+| Hashnode   | [KennyB](https://hashnode.com/@KennyB)        |
+| LinkedIn   | [Kehinde Bobade](https://www.linkedin.com/in/kehinde-bobade-6a6623178)        |
 
 
-| ![Kudakwashe Chris Chipangura](https://i.ibb.co/hHC5wbz/20230606-134855-removebg-preview.png) |
-|:--:|
-| *Kudakwashe Chris Chipangura* |
-
-Hello everyone! My name is Kudakwashe Chris Chipangura and I'm based in Chivhu, Zimbabwe. I'm very excited for the opportunity to participate in Outreachy with Wagtail.
-
-As a coding enthusiast, I'm always working on side projects and learning new skills. I have experience with Angular, Django, Flutter and FastAPI. I enjoy building things from scratch and bringing ideas to life through coding.
-
-Contributing to open source is the next step in my journey. The welcoming and collaborative nature of open source communities is what draws me in. I'm eager to learn from experienced developers, improve my skills, and give back by contributing quality code.
-
-Django is particularly my first choice when working on most full-stack web applications or as a backend solution. Wagtail, in particular, excites me because I see huge potential for it to grow. Its intuitive editor and flexibility for building CMS-driven websites is fantastic.
-
-I look forward to connecting with all of you.
-
-
-## Social Media
-
-| Social Media| Link                                                              |
-|--------------|:-----:|
-| GitHub      | [kudah99](https://github.com/kudah99)                               |
-| LinkedIn    | [Kudakwashe Chris Chipangura](https://www.linkedin.com/in/kudakwashe-chris-chipangura-1063bb1bb/)                    |
-| Personal website| [Kudakwashe](kudah.hashnode.dev)                    |
-| Twitter / X | [KudaChipangura](x.com/KudaChipangura)
-
+## Research
+[Wagtail developer documentation](https://docs.wagtail.org/en/stable/getting_started/index.html)
+[Django docs on class-based views](https://docs.djangoproject.com/en/4.2/topics/class-based-views/generic-display/)
+[TemplateView](https://docs.djangoproject.com/en/4.2/ref/class-based-views/base/#django.views.generic.base.TemplateView)
 
 ## Tasks
-
 
 #### Checklist: Getting started with Outreachy
 
@@ -65,13 +58,13 @@ And now, we will want you to start using GitHub so we can review your progress o
 To stand out as an applicant,
 
 - [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
-- [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+- [ ] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Checklist: interest in learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Adopt generic class based views across the Wagtail admin
