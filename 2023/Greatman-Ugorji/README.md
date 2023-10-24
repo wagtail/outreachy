@@ -79,7 +79,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Short Blog Post - Recent Learning
 
-[My Recent Learning](https://0xryker.hashnode.dev/beginners-guide-to-cryptocurrency?source=more_articles_bottom_blogs)
+[My Recent Learning](https://0xryker.hashnode.dev/my-new-found-hobby)
 
 ### Accessibility Post
 
