@@ -6,7 +6,7 @@ Feel free to connect with on these platforms.
 
 | Platform                         | Dive In                                                     |
 |----------------------------------|-------------------------------------------------------------|
-| GitHub Profile&nbsp;&nbsp;&nbsp; | [Github ](https://github.com/https://github.com/Bonheur773)  🚀  |
+| GitHub Profile&nbsp;&nbsp;&nbsp; | [Github ](https://github.com/Bonheur773)  🚀  |
 | Personal Blog&nbsp;&nbsp;&nbsp;  | [MyBlog  ](https://bonheur.hashnode.dev/) 📝   |
 | Social Profile&nbsp;&nbsp;&nbsp; | [Linkedin ](https://www.linkedin.com/in/ngezayo-bonheur-b35411183/)  |
 
