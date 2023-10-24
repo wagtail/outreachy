@@ -1,8 +1,10 @@
 # New Contributor Introduction
 
-Hello, I am Arafat Abdussalam, a software engineer with interest in building web applications using Frontend technologies and NodeJs. I enjoy participating in open-source projects and I am excited to be contributing to the Wagtail Accessibility project as an Outreachy applicant.
+Hello! I am Arafat Abdussalam, a Software Engineer with interest in building web applications using Frontend technologies and NodeJs. I am also a technical writer. I enjoy explaining technical concepts to audience who might find my articles helpful. I also love to documents projects I have worked on, someday I might be the one who need to understand my projects and having the thought process taken to achieve the completion of my projects will be helpful to me also. I am only a human, not a computer.
 
-When I am not working on tech related activities, I spend my time watching movies and reading books. Although, these days I priotize doing less as I also need to spend my time doing nothing on some occassion to avoid experiencing burnouts.
+Community engagements drive my tech commitments and participation. I enjoy contributing to free and open software. Open-source contribution has enabled me become more confident in my career while I prepare myself for a full-time role.
+
+When I am not working on tech related activities, I spend my time watching movies and reading books. Although, these days I prioritize doing less as I also need to spend my time doing nothing on some occassion, to avoid experiencing burnouts.
 
 
 # New Contributor Information
