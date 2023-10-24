@@ -72,10 +72,6 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 
 
-
-
-
-
 ## Research
 - [Wagtail user guide](https://guide.wagtail.org/en-latest/)
 - [Official Wagtail website](https://wagtail.org/)
