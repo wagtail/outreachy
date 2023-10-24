@@ -7,6 +7,6 @@ Excited to connect with this vibrant community and learn alongside fellow tech e
 # Connect with me
 | Username | Links to Profile | 
 | -------- | -------- | 
-| shubham oulkar| [Github]([https://github.com/oly-baby](https://github.com/ShubhamOulkar)  | 
+| shubham oulkar| [Github](https://github.com/ShubhamOulkar)  | 
 | Heavy Blog | [personal Blogs website](https://heavy-blog.onrender.com/) | 
 | shubham oulkar | [Linkedln](https://www.linkedin.com/in/shubham-oulkar-372797217/) | 
