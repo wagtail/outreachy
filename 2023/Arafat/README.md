@@ -99,9 +99,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 At the start of the year, I had to learn how to keep up the pace with multiple activities as a Software Engineer, in this article I wrote specifically how time management helps to ease multitasking effects. [Multitasking as a Software Engineer](https://medium.com/@ArafatAbdussalam/multitasking-as-a-software-engineer-1365f95dc76d)
 
 
-Participating in the Wagtail project on Accessibility, I have taken into my schedule to learn what Accessibility is all about and it excites me more to have not only learnt about Authoring Tools but to have been able to explain parts of my findings in this article. [Enabling Accessibility in Authoring Tools for Content Authors](https://medium.com/@ArafatAbdussalam/enabling-accessibility-in-authoring-tools-970d971d8d1a)
+Participating in the Wagtail project on Accessibility, I have taken into my schedule to learn what Accessibility is all about and it excites me more to have not only learnt about Accessibility Practices in Authoring Tools but to have been able to explain parts of my findings in this article. [Enabling Accessibility in Authoring Tools for Content Authors](https://medium.com/@ArafatAbdussalam/enabling-accessibility-in-authoring-tools-970d971d8d1a)
 
-A good software Engineer is not only good at writing software, but also has the skills needed to test the software written. This helps to determine if the code works as expected.
-[Unit Testing with ReactJs and Jest Framework](https://medium.com/@ArafatAbdussalam/unit-testing-with-reactjs-and-jest-framework-8d8a0348267d)
-
-- 
+A good software Engineer is not only good at writing software, but also has the skills needed to test the software written. This helps to determine if the code works as expected. Here, I explained the steps taken to write unit test in ReactJs component using Jest library
+[Unit Testing with ReactJs and Jest Library](https://medium.com/@ArafatAbdussalam/unit-testing-with-reactjs-and-jest-framework-8d8a0348267d)
