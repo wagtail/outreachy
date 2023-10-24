@@ -70,7 +70,8 @@ Contribute a solution to the issue you selected based on guidance in section "6.
 1. [wagtail documentation](https://docs.wagtail.org/en/latest/getting_started/tutorial.html)
 2. [Learn wagtail tutorial on youtube](https://www.youtube.com/watch?v=1_yA25ZmNkA&)list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub
 3. [Django wagtail CMS tutorial on youtube](https://www.youtube.com/watch?v=mbUFWkZAm8w&t=308s&pp=ygUHd2FndGFpbA%3D%3D)
-
+4. [wagtail search promotions documentation](https://docs.wagtail.org/en/stable/reference/contrib/searchpromotions.html)
+5. [Django class based views](https://docs.djangoproject.com/en/4.2/topics/class-based-views/intro/)
 ## Blog
 
 - What I have learned.
