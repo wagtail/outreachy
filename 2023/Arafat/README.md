@@ -1,14 +1,16 @@
 # New Contributor Introduction
 
-Hello, I am Arafat Abdussalam, a software engineer with interest in building web applications using Frontend technologies. I am excited to be contributing to the Wagtail Accessibility project as an Outreachy applicant.
+Hello, I am Arafat Abdussalam, a software engineer with interest in building web applications using Frontend technologies and NodeJs. I enjoy participating in open-source projects and I am excited to be contributing to the Wagtail Accessibility project as an Outreachy applicant.
+
+When I am not working on tech related activities, I spend my time watching movies and reading books. Although, these days I priotize doing less as I also need to spend my time doing nothing on some occassion to avoid experiencing burnouts.
 
 
 # New Contributor Information
 
-| Title | Links | Links |
-| :---        |    :----:   |          ---: |
-| Github Profile    | [ArafatAbdussalam](https://github.com/ArafatAbdussalam)      |  |
-| Personal blog  | [Hashnode](https://arafatsalam.hashnode.dev/)     | [Medium](https://medium.com/@ArafatAbdussalam)     |
+| Portfolio | Links | 
+| :---        |    :----:   |  
+| Github   | [ArafatAbdussalam](https://github.com/ArafatAbdussalam)      |  
+| Blog | [Medium](https://medium.com/@ArafatAbdussalam)     |
 
 
 ## Tasks
@@ -75,15 +77,29 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ## Research
 
-#### Understanding Wagtail CMS
+### Understanding Wagtail CMS
 
 - [Wagtail Website](https://wagtail.org/)
 - [Wikipedia Resource](https://en.wikipedia.org/wiki/Wagtail_(CMS))
 
 
-#### Understanding Accessibility
+### Understanding Accessibility
 
-- [ATAG]()
-- [WCAG]()
-- [Mozilla Accessibility Resource]()
-- [W3C Accessibility Resource]()
+- [ATAG](https://www.w3.org/TR/ATAG20/)
+- [Implementing ATAG](https://www.w3.org/TR/2015/NOTE-IMPLEMENTING-ATAG20-20150924/)
+- [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [W3C Accessibility Resource](https://www.w3.org/WAI/)
+- [Mozilla Accessibility Resource](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+
+
+### Writing Activities
+
+At the start of the year, I had to learn how to keep up the pace with multiple activities as a Software Engineer, in this article I wrote specifically how time management helps to ease multitasking effects. [Multitasking as a Software Engineer](https://medium.com/@ArafatAbdussalam/multitasking-as-a-software-engineer-1365f95dc76d)
+
+
+Participating in the Wagtail project on Accessibility, I have taken into my schedule to learn what Accessibility is all about and it excites me more to have not only learnt about Authoring Tools but to have been able to explain parts of my findings in this article. [Enabling Accessibility in Authoring Tools for Content Authors](https://medium.com/@ArafatAbdussalam/enabling-accessibility-in-authoring-tools-970d971d8d1a)
+
+A good software Engineer is not only good at writing software, but also has the skills needed to test the software written. This helps to determine if the code works as expected.
+[Unit Testing with ReactJs and Jest Framework](https://medium.com/@ArafatAbdussalam/unit-testing-with-reactjs-and-jest-framework-8d8a0348267d)
+
+- 
