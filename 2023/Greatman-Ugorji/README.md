@@ -87,4 +87,4 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Technical Writing Post
 
-[My Technical Writing Post](https://0xryker.hashnode.dev/introduction-to-technical-writing-a-beginners-guide)
+[My Technical Writing Post](https://0xryker.hashnode.dev/my-technical-writing-journey)
