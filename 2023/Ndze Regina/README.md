@@ -22,8 +22,10 @@ I look forward to make valuable contributions to this project while learning and
 - [A showcase of sites and apps made with Wagtail CMS](https://madewithwagtail.org/)
 
 ## Blog Posts
-## Blog Post describing something Ive’ve learned recently:[Nurturing Your Inner Strength: The Power of Non-Contingent Self-Esteem] (https://medium.com/@ndzeregina/nurturing-your-inner-strength-the-power-of-non-contingent-self-esteem-bdbf69b5469d)
-## Blog Post on Accessibility: [Navigating Towards Inclusive Design: A Dive into Accessibility](https://medium.com/@ndzeregina/navigating-towards-inclusive-design-a-dive-into-accessibility-6b6a0f641835)
+- Blog Post describing something Ive’ve learned recently: [Your Inner Strength: The Superpower of Believing in Yourself](https://medium.com/@ndzeregina/nurturing-your-inner-strength-the-power-of-non-contingent-self-esteem-bdbf69b5469d)
+- Blog Post on Accessibility: [Making the Internet More Inclusive: A Closer Look at Accessibility](https://medium.com/@ndzeregina/navigating-towards-inclusive-design-a-dive-into-accessibility-6b6a0f641835)
+- Blog post on my Technical Writing Experience: [Simplifying the Complex: My Journey in Technical Writing.](https://medium.com/@ndzeregina/illuminating-complexity-my-experience-in-technical-writing-b9bdda040a3c)
+
 
 
 
