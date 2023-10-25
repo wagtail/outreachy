@@ -6,6 +6,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
+- Brian Mugo
 - Arafat Abdussalam
 - Aleru Divine Chinwendu
 - Amadi oluchi faith
@@ -21,7 +22,6 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Fortune Obadiah
 - Folashade Ode
 - Fortune Obadiah
-- Geoffrey Logovi
 - Greatman Ugorji
 - Ihedioha Chinedu Innocent
 - Jude Okoye
