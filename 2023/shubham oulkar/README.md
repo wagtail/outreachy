@@ -48,11 +48,13 @@ I made compost from my kitchen waste. I build proper containers to make compost.
 
 As a tech enthusiast, I spent 72 days learning WEBRTC. I got familiar with this technology and built an open-source project. Please fill in to give feedback on this project.  I learned about WebSocket, Django channels, and Redis. ASGI in production was quite a challenging task. Establishing a signaling server with Redis, WebSocket and channels was a challenging task.
 
-List of links for webrt:
+List of links for webrtc:
 1. [WebRTC For The Curious](https://webrtcforthecurious.com/)
 2. [MDN webrtc docs](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 3. [Traversy Media youtube channel](https://www.youtube.com/watch?v=QsH8FL0952k&t=3601s)
 and many more.... [Visit my project source for other information](https://github.com/ShubhamOulkar/Video-Conferencing-Web-App) 
+
+
 
 ## Tasks
 
