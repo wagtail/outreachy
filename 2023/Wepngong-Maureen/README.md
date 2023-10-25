@@ -46,12 +46,11 @@ I am particularly interested in the accessibility project because I believe that
 
 ## Interest in Learning | Links to blog posts on Medium
  Things I've learned recently
- -https://medium.com/@maureenwepngong/things-ive-learned-recently-f6b95a957c6e
-
+ [Things I've learned recently](-https://medium.com/@maureenwepngong/things-ive-learned-recently-f6b95a957c6e)
 ## Accessibility Features documentation
  -Understanding of Accessibility 
- https://medium.com/@maureenwepngong/accessibility-making-the-web-a-better-place-for-everyone-a70a77d2c3de
- - Technical Writing
- https://medium.com/@maureenwepngong/technical-writing-tips-from-a-software-engineer-41aa0247d172
+ [Accessibility:Making the web a better place for everyone](https://medium.com/@maureenwepngong/accessibility-making-the-web-a-better-place-for-everyone-a70a77d2c3de)
+ -Technical Writing
+[Technical Writing tips from a software engineer](https://medium.com/@maureenwepngong/technical-writing-tips-from-a-software-engineer-41aa0247d172)
  -Understanding of Django
- https://medium.com/@maureenwepngong/django-the-high-level-python-framework-for-building-web-applications-3fc0ccb7b018
+[Django, the high level python framework for building web-applications](https://medium.com/@maureenwepngong/django-the-high-level-python-framework-for-building-web-applications-3fc0ccb7b018)
