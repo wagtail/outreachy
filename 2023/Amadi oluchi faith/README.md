@@ -153,7 +153,7 @@ For participants already experienced with GitHub and Markdown, feel free to go t
    [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
 
 ### link to a blog post that demostrates my understanding of Django
-   [Building Dynamic Web Applications with Django](https://medium.com/@aoluchi61/building-dynamic-web-applications-with-django-24d37685eb64)
+   [Building Dynamic Web Applications with Django](https://medium.com/@aoluchi61/building-a-bug-app-with-django-6660a964fd5d)
 
 
 
