@@ -5,11 +5,17 @@ Currently, I'm learning  web development. And this Outreachy internship is the p
 Excited to connect with this vibrant community and learn alongside fellow tech enthusiasts.
 
 Tech Stack -
+
 Languages: Python, Javascript, SQL. 
+
 Backend Frameworks: Django, Flask, NextJs.
+
 Frameworks: ReactJs. 
+
 Databases: Postgres, MySQL & MongoDB.
+
 Other: HTML, CSS.
+
 open source projects: [Connect with RTC (webrtc)](https://connect-rtc.onrender.com/)
 
 
@@ -22,13 +28,13 @@ open source projects: [Connect with RTC (webrtc)](https://connect-rtc.onrender.c
 
 
 ## Research links
-[Getting started - Wagtail Guide](https://guide.wagtail.org/en-latest/getting-started/)
-[Wagtail's developer documentation](https://docs.wagtail.org/en/stable/)
-[Built Your first Wagtail site tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
-[Bakery demo](https://github.com/wagtail/bakerydemo)
-[Wagtail blogs](https://wagtail.org/blog/)
-[Wagtail Headless CMS](https://wagtail.org/headless-cms/)
-[Wagtail Youtube channel](https://www.youtube.com/channel/UCXsuEmvisPzuJPaIdpVM0yg)
+1. [Getting started - Wagtail Guide](https://guide.wagtail.org/en-latest/getting-started/)
+2. [Wagtail's developer documentation](https://docs.wagtail.org/en/stable/)
+3. [Built Your first Wagtail site tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+4. [Bakery demo](https://github.com/wagtail/bakerydemo)
+5. [Wagtail blogs](https://wagtail.org/blog/)
+6. [Wagtail Headless CMS](https://wagtail.org/headless-cms/)
+7. [Wagtail Youtube channel](https://www.youtube.com/channel/UCXsuEmvisPzuJPaIdpVM0yg)
 
 
 ## Recent Learning Interests
