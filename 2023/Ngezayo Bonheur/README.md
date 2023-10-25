@@ -36,7 +36,11 @@ Here's a list of my favorite resources, in no particular order:
 
 - **[YouTube Tutorials or Videos](https://www.youtube.com/@wagtail4333/videos) on how to contribute**: YouTube has been a great way for me to learn about Wagtail visually. There are many informative videos on YouTube that cover a wide range of topics, from getting started with Wagtail to building specific features.
 
+## Blog posts
 
+Here are some blog posts I've written about my experiences and what I have learned about to Wagtail
+
+- My [Blog](https://bonheur.hashnode.dev/things-ive-learned-recently-about-wagtail-cms) blog post on Wagtail: Lessons I have learned.
 
 ## Tasks
 > [!NOTE]
@@ -82,7 +86,7 @@ To stand out as an applicant,
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
 
 - [x] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax ([link text](link url)), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on https://hemingwayapp.com/. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on https://hemingwayapp.com/. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### **Checklist: Accessibility features documentation**
 🚧 This checklist is for candidates interested in working on the Accessibility features documentation project.
