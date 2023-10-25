@@ -35,6 +35,7 @@ These are a couple of resources I've really found useful with regards this proje
 Here are some of the blog posts I've written with regards my experiences with contributing to Wagtail:
 
 - My [first](https://dev.to/chiemezuo/setting-sail-with-a-cms-called-wagtail-34lb) blog post on Wagtail: Lessons I have learned.
+- My [second](https://dev.to/chiemezuo/unchaining-django-in-wagtail-22fb) blog post where I showed **Django** who's the boss.
 
 ## Tasks
 
@@ -88,7 +89,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the [Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#adopt-generic-class-based-views-across-the-wagtail-admin) project.
 
-- [ ] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
 - [x] Go through Wagtail’s guide: [Your first contribution](https://docs.wagtail.org/en/stable/contributing/first_contribution_guide.html).
 - [x] Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
