@@ -41,7 +41,9 @@ open source projects: [Connect with RTC (webrtc)](https://connect-rtc.onrender.c
 [Blog link](https://heavy-blog.onrender.com/post/3)
 
 I strongly believe that personal development is not related only to technology. And learning new tech skills. But learning new life skills is also important to develop as a human. So I always spend time on both skills development. Past few months I have spent time learning organic farming practices. I learned how to grow tomatoes, and turmeric in my garden. 
+
 <img src="https://github.com/ShubhamOulkar/buy-new-home/blob/main/img/20230927_080433.jpg" alt="drawing" width="400"/>
+
 I made compost from my kitchen waste. I build proper containers to make compost. I used cow dunk cakes as an organic fertilizer. Then the question is why do I grow tomatoes and turmeric together in the same pot? Because turmeric is a great source of nitrogen and other nutrients. It has some antifungal properties. So my tomato plant grows easily in the same pot. Also, tomato roots will remain healthy during rainy months. This project was quite successful, I say!
 
 As a tech enthusiast, I spent 72 days learning WEBRTC. I got familiar with this technology and built an open-source project. Please fill in to give feedback on this project.  I learned about WebSocket, Django channels, and Redis. ASGI in production was quite a challenging task. Establishing a signaling server with Redis, WebSocket and channels was a challenging task.
