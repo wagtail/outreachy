@@ -1,28 +1,16 @@
-# A stroll into my miniverse 😊🚀
+# An Odyssey Through My Mind's Realm 😊🚀
 Hello everyone.<br>
-
-My name I'm **Fatima-Bint Ibrahim**. I'm from **Ghana**. Professionally, I worked as a network engineer. However, my passion for software development got me back to pursue web development. My experience with Django has been particularly rewarding, anchoring my interest in **web frameworks**. After getting back to web development, my passion for **accessibility** was ignited by a critical eye I developed after encountering websites with **suboptimal designs and poor color contrast**. Recognizing these challenges, I committed to advocating for better accessibility standards among my peers in the web development community. I've since dedicated myself to learning and implementing best practices in accessibility to ensure users of my products have a seamless and inclusive online experience.
-
-Beyond development, I've channeled my passion for writing as the co-lead for **technical writing and blogging** team within the PyLadies Ghana community. There, we break down Python concepts into digestible tutorials, making programming more accessible to learners. With these experiences, I am very much interested in contributing to the **accessibility features documentation project**.
-
-I mostly use Python especially in the areas of **data science and machine learning**, and I've always been interested in many parts of tech. Being a beneficiary of many open source initiatives and products, I think it's now time to start giving back. I hope that with Outreachy and Wagtail, I can start my journey into open source contribution.
-
-I am obsessed with productivity tools and systems and I'm deeply committed to the principles of the *Second Brain* methodology. In my idle times I mostly like to read and listen to audiobooks alongside and yah I like to sleep as well. 😂
-I'm also looking forward to making new connections 🥳
+Good morning Everybody, I hope I am not late to the party. **I am Bonheur from Kigali, Rwanda.** I am university graduate in Computer Science, I have 4 years of Experience in **Python and Django Framework**, I am happy and more than ready to contribute to Wagtail Community, it's a pleasure to be here.
 
 Feel free to connect with on these platforms.
 
 | Platform                         | Dive In                                                     |
 |----------------------------------|-------------------------------------------------------------|
-| GitHub Profile | [Fatima-Bint ](https://github.com/Fatima-Bint)  🚀  |
-| Personal Blog | [Blog ](https://fatimabint.hashnode.dev/) 📝   |
-| Social Profile ✖| [TeeⓂat ](https://twitter.com/FateemahZahrah4) 💙   |
+| GitHub Profile&nbsp;&nbsp;&nbsp; | [Github ](https://github.com/Bonheur773)  🚀  |
+| Personal Blog&nbsp;&nbsp;&nbsp;  | [MyBlog  ](https://bonheur.hashnode.dev/) 📝   |
+| Social Profile&nbsp;&nbsp;&nbsp; | [Linkedin ](https://www.linkedin.com/in/ngezayo-bonheur-b35411183/)  |
 
 
-## Table of Contents
-
-1. [Tasks](#tasks)
-2. [Research](#research)
 
 ## Tasks
 > [!NOTE]
@@ -81,24 +69,4 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Ask @thibaudcolas via email or on Slack to give you editor access to guide.wagtail.org. Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
-
-
-## Research
-Here are research resources I have found useful to understanding open source contribution, contributing to Wagtail and accessibility.
-
-### Wagtail
-- [Wagtail Interfaces](https://guide.wagtail.org/en-latest/concepts/wagtail-interfaces/)
-  - **Summary**:This is a page within the wagtail's user guide which specifies the different interfaces within the Wagtail CMS. It provides an overview of the key interfaces you'll encounter, such as the admin interface for content management and the developer interface for customization.
- -[Official Documentation](docs.wagtail.io)
-  - **Summary**: This is omprehensive guide to Wagtail's features, best for understanding the CMS from a developer's perspective.
--[Wagtail User Guide](guide.wagtail.org)
- - **Summary**: The Wagtail User Guide is more user-centric and seems to be aimed at end-users who are managing content within Wagtail.
- - 
-> [!INFO]
-> Initially, I was confused about what the difference between the Official Documentation and the User Guide but I finally got a simplified understanding.
-> The official documentation is more developer-centric providing in-depth technical details, the Wagtail User Guide is aimed at end-users with a focus on managing content and understanding Wagtail's user interfaces and best practices.
-> I hope this will help anyone who's also confused as I was.
-
-   
-
-  
+      

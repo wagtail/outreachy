@@ -64,14 +64,12 @@ And now, we will want you to start using GitHub so we can review your progress o
 - [x] Update your pull request to add a new `## Tasks` section to your README file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
 To stand out as an applicant,
-
 - [X] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Checklist: interest in learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
-
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
