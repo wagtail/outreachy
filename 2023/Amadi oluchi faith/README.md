@@ -150,7 +150,7 @@ For participants already experienced with GitHub and Markdown, feel free to go t
 [What i have learnt](https://medium.com/@aoluchi61/what-i-have-learnt-recently-as-an-outreach-internship-applicant-contributing-to-wagtail-project-68b906ab2dbe)
 
 ### link to a blog post that demonstrates my understanding of accessibility
-   [My Understanding of   Accessibility](https://medium.com/@aoluchi61/my-understanding-of-accessibility-61f7ab1b20bb)
+   [Enhancing Accessibility in a Python-Based User System](https://medium.com/@aoluchi61/enhancing-accessibility-in-a-python-based-user-system-10ae885b7b80)
 
 ### link to a blog post that demostrates my understanding of Django
    [Building Dynamic Web Applications with Django](https://medium.com/@aoluchi61/building-dynamic-web-applications-with-django-24d37685eb64)
