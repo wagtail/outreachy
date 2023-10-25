@@ -79,12 +79,12 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Short Blog Post - Recent Learning
 
-[My Recent Learning](https://0xryker.hashnode.dev/beginners-guide-to-cryptocurrency?source=more_articles_bottom_blogs)
+[My Recent Learning](https://0xryker.hashnode.dev/my-new-found-hobby)
 
 ### Accessibility Post
 
-[Accessibility Post](https://0xryker.hashnode.dev/a-basic-introduction-to-web-accessibility)
+[Accessibility Post](https://0xryker.hashnode.dev/my-web-accessibility-experience)
 
 ### Technical Writing Post
 
-[My Technical Writing Post](https://0xryker.hashnode.dev/introduction-to-technical-writing-a-beginners-guide)
+[My Technical Writing Post](https://0xryker.hashnode.dev/my-technical-writing-journey)
