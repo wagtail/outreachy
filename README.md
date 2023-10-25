@@ -15,3 +15,5 @@ Keen to take part in Outreachy with Wagtail? We use [GitHub Discussions](https:/
 ## 2022
 
 For our Outreachy 2022 participation, see [Outreachy 2022](https://github.com/wagtail/wagtail/wiki/Outreachy-2022).
+
+
