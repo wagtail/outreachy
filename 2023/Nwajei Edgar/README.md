@@ -72,10 +72,6 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 
 
-
-
-
-
 ## Research
 - [Wagtail user guide](https://guide.wagtail.org/en-latest/)
 - [Official Wagtail website](https://wagtail.org/)
@@ -85,8 +81,10 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 Short blog post on what i learnt recently https://0xwind.hashnode.dev/my-tech-trinity
 
 ### Accessibility features documentation
-Short blog post on accessibility: https://0xwind.hashnode.dev/enhancing-user-experience
+Short blog post on accessibility: https://0xwind.hashnode.dev/enhancing-weather-app-accessibility
+
 
 
 ## technical writing.
-Short blog post on technical writing : https://0xwind.hashnode.dev/my-javascript-journey
+Short blog post on technical writing : https://0xwind.hashnode.dev/unlocking-the-art-of-technical-writing
+
