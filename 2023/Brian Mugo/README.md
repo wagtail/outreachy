@@ -18,6 +18,30 @@ Cheers!
 | Coby   | [Blog](https://medium.com/@mikanmuchiri)        |
 | Brian Mugo   | [LinkedIn](https://www.linkedin.com/in/brianmuchirimugo)        |
 
+## Research
+
+Due to my intereset in Wagtail's project [#3](https://github.com/wagtail/outreachy/discussions/3) on wagtail.org accessibility. I was tried to understand more about it by researching on topics such as OSS contribution, Understanding Wagtail CMS and Web Accessibility (a11y).
+
+[Wagtail Tutorial Series By Wagtail Space](https://www.youtube.com/@wagtailspace222/videos)
+[Complete Guide to Open Source - How to Contribute By freeCodeCamp](https://www.youtube.com/watch?v=yzeVMecydCE)
+[Understanding Wagtail CMS](https://www.tekkiwebsolutions.com/blog/what-is-wagtail-cms/)
+[Explore ARIA - Accessible Rich Internet Applications](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA).
+[Understand Assistive Technologies](https://www.w3.org/WAI/people-use-web/tools-techniques/)
+
+My Research Blog
+
+[Supercharge Your Open Source Skills and Feel Awesome Doing It!](https://medium.com/@mikanmuchiri/supercharge-your-open-source-skills-and-feel-awesome-doing-it-381044b3787b)
+
+
+## Wagtail.org Accessibility Blog Posts
+
+My Web Accessibility (a11y) Experience
+
+[Everyone Needs To See: Color Contrast Matters](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
+
+What I learnt about Django - DRY Principle
+[Make Django Easy with Generic Views: Say No to Repeating!](https://medium.com/@mikanmuchiri/make-django-easy-with-generic-views-say-no-to-repeating-2ba778c2d941)
+
 ## Tasks
 
 ### Getting started with Outreachy
@@ -47,23 +71,23 @@ Cheers!
 
 To stand out as an applicant,
 
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
-- [ ] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Interest in learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Wagtail.org website accessibility
 
-- [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
-- [X] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
-- [ ] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
-- [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
-- [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
+- [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
+- [x] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
+- [x] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
+- [X] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
+- [x] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
