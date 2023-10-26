@@ -14,11 +14,15 @@ Feel free to connect with on these platforms.
 
 | Platform                         | Dive In                                                     |
 |----------------------------------|-------------------------------------------------------------|
-| GitHub Profile&nbsp;&nbsp;&nbsp; | [Profile ](https://github.com/Fatima-Bint)  🚀  |
-| Personal Blog&nbsp;&nbsp;&nbsp;  | [Blog  ](https://fatimabint.hashnode.dev/) 📝   |
-| Social Profile&nbsp;&nbsp;&nbsp; | [✖ ](https://twitter.com/FateemahZahrah4) 💙   |
+| GitHub Profile | [Fatima-Bint ](https://github.com/Fatima-Bint)  🚀  |
+| Personal Blog | [Blog ](https://fatimabint.hashnode.dev/) 📝   |
+| Social Profile ✖| [TeeⓂat ](https://twitter.com/FateemahZahrah4) 💙   |
 
 
+## Table of Contents
+
+1. [Tasks](#tasks)
+2. [Research](#research)
 
 ## Tasks
 > [!NOTE]
@@ -77,4 +81,24 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Ask @thibaudcolas via email or on Slack to give you editor access to guide.wagtail.org. Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
-      
+
+
+## Research
+Here are research resources I have found useful to understanding open source contribution, contributing to Wagtail and accessibility.
+
+### Wagtail
+- [Wagtail Interfaces](https://guide.wagtail.org/en-latest/concepts/wagtail-interfaces/)
+  - **Summary**:This is a page within the wagtail's user guide which specifies the different interfaces within the Wagtail CMS. It provides an overview of the key interfaces you'll encounter, such as the admin interface for content management and the developer interface for customization.
+ -[Official Documentation](docs.wagtail.io)
+  - **Summary**: This is omprehensive guide to Wagtail's features, best for understanding the CMS from a developer's perspective.
+-[Wagtail User Guide](guide.wagtail.org)
+ - **Summary**: The Wagtail User Guide is more user-centric and seems to be aimed at end-users who are managing content within Wagtail.
+ - 
+> [!INFO]
+> Initially, I was confused about what the difference between the Official Documentation and the User Guide but I finally got a simplified understanding.
+> The official documentation is more developer-centric providing in-depth technical details, the Wagtail User Guide is aimed at end-users with a focus on managing content and understanding Wagtail's user interfaces and best practices.
+> I hope this will help anyone who's also confused as I was.
+
+   
+
+  
