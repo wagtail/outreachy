@@ -61,7 +61,7 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 To stand out as an applicant,
 
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
 
 ### Checklist: interest in learning
@@ -107,3 +107,6 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Blog post demonstrating my understanding of accessibility
 - [Web for all-The Importance of Web Accessibility in My Projects](https://medium.com/@estheradamuchris/web-for-all-the-importance-of-web-accessibility-in-my-projects-d98efdd04d53)
+
+### Blog post demonstrating my expertise in technical writing
+- [My Technical Writing Journey](https://medium.com/@estheradamuchris/my-technical-writing-journey-c588c53a7c4d)
