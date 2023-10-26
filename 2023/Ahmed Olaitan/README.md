@@ -80,6 +80,38 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ## Research
 
+#### Understanding GitHub
+
+[GitHub for beginners](https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=599s)
+
+[Writing and Formatting in GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+
+[Creating tables in Gitbhub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+#### Understanding Accessibility
+
+[The A11y Project](https://www.a11yproject.com/)
+
+[Intro/ Refresher to A11y playlist](https://www.youtube.com/playlist?list=PLWSYD-KxdDxvxYQ2UHixf6vvlbhvUzXNB)
+
+[Accessibility vs Usability](https://dev.to/yuridevat/usability-accessibility-commonalities-and-differences-108d#:~:text=Usability%20issues%20generally%20affect%20all,accessing%20a%20website%20without%20problems.)
+
+[A11y tool guidelines](https://www.w3.org/TR/ATAG20/)
+
+[Steve Krug's _Don't Make Me Think_](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
+[_Don't Make Me Think_ Book Summary](https://www.youtube.com/watch?v=QLzA3CfXI0M&t=7s)
+
+#### Getting familiar with Wagtail
+
+[Wagtail features](https://wagtail.org/features/)
+
+[Wagtail for Beginners](https://www.youtube.com/watch?v=06n3dxEofnc&t=44s)
+
+[Learn Wagtail](https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub)
+
+
+
 
 #### Accessibilty Blog Update
 
