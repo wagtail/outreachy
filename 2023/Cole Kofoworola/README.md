@@ -120,6 +120,7 @@ This is a list of links to the resources I’ve found most useful in my quest to
 - [Why Web Accessibility Is Important and How You Can Accomplish It](https://medium.com/fbdevclagos/why-web-accessibility-is-important-and-how-you-can-accomplish-it-4f59fda7859c)
 - [How To Do Website Accessibility The Right Way](https://medium.com/@adasitecompliance/how-to-do-website-accessibility-the-right-way-9ee8b395e9a)
 - [Checking a website for accessibility](https://www.washington.edu/accesstech/websites/)
+- [Quick Accessibility Fixes You Can Make on Your Site Right Now!](https://webdevterri.hashnode.dev/quick-accessibility-fixes-you-can-make-right-now)
 
 ## Blog post describing things I’ve learned recently
 
