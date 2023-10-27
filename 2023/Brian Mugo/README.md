@@ -37,7 +37,7 @@ My Research Blog
 
 My Web Accessibility (a11y) Experience
 
-[Everyone Needs To See: Color Contrast Matters](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
+[Color Contrast Accessibility: An Ushahidi Experience](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
 
 What I learnt about Django - DRY Principle
 [Make Django Easy with Generic Views: Say No to Repeating!](https://medium.com/@mikanmuchiri/make-django-easy-with-generic-views-say-no-to-repeating-2ba778c2d941)
