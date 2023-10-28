@@ -82,3 +82,10 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 
 ## Research
+[Getting Started Tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+
+[Different Wagtail Topics](https://docs.wagtail.org/en/stable/topics/index.html)
+
+[Learn Wagtail Blog](https://learnwagtail.com/)
+
+[Django Project Docs](https://www.djangoproject.com/start/)
