@@ -11,7 +11,7 @@ I look forward to learning and collaborating with you all!
 ## Where You Can Find Me
 
 | Username      | Platform |
-| ----------- | ----------- |
+| :----------- | :----------- |
 | praiztech     | [GitHub](https://github.com/praiztech)       |
 | praiztech   | [Blog](https://dev.to/praiztech)        |
 | Praise Agbabiaka   | [LinkedIn](https://www.linkedin.com/in/praise-agbabiaka)        |
