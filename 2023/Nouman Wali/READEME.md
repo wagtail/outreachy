@@ -1,50 +1,20 @@
-# Outreachy contributor guide
+Hello Everyone,
+I am Nouman Wali. I have been connected with the software industry for the last 5 years. The key skills are HTML, CSS, Bootstrap, Javascript, UI Testing, and content writing. I have experience in handling web and mobile-based application projects as a project manager in a small software house. While working in the software industry, I realized that writing documentation and interactive content is something that I want to pursue in my life.
 
-👋 This guide is our main resource for contributors interested in working on Wagtail as part of Outreachy internships. Please read through it all, top to bottom.
+I decided to dig more into technical writing. I have been contributing to open-source projects for the last 6 to 7 months. The open-source contribution is really fun and provides professional and interpersonal skills.
 
-## Communication channels
+This is my first time participating in the Outreachy contribution program. The reason for joining the program is to learn new technologies, collaborate with new people, and get an understanding of the professional environment.
 
-Where possible, we prefer you use Wagtail’s community channels rather than reaching out to mentors or coordinators directly. We use:
+I love to go hiking in the beautiful mountains of Islamabad, Pakistan. The daily jogging and gym workout is one of the important tasks that I do. On weekends, I love to spend some time with my family for outdoor activities.
+Thank you
 
-- The [Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack), in particular [#outreachy](https://github.com/wagtail/wagtail/wiki/Slack#outreachy)
-- [GitHub Discussions](https://github.com/wagtail/outreachy/discussions)
 
-## About Wagtail
+## Professional and Social Media Links
+[GitHub Profile](https://github.com/nouman17610)
+[Blogs Website](http://myblogzweb.com/)
+[Facebook Profile](https://www.facebook.com/nouman.wali.5)
 
-<!-- Note for maintainers: matches the "Description" field on https://www.outreachy.org/communities/cfp/wagtail/edit/. -->
-
-We build Wagtail, a popular content management system. It's built on Python, by an active and engaged open source community, which has grown rapidly since Wagtail's release in 2014. Wagtail is available in over 40 languages, and used by some of the world's best-known organizations, including NASA, Google, Mozilla, MIT, and the UK's National Health Service, as well as museums, universities, non-profits, governments, banks, studios, restaurants, startups and bloggers around the world.
-
-## Eligibility criteria
-
-We use the same [eligibility criteria](https://www.outreachy.org/docs/applicant/#eligibility) as every other participating organization. In particular,
-
-- Contributors / applicants must have been pre-approved by Outreachy in order to be eligible to take part in the contribution period during our project.
-- You can only be accepted as an Outreachy intern once.
-- You must not have a full-time job or contracting position during the Outreachy internship.
-- University students must have 42 consecutive days free from school and exams during the internship period.
-
-## Contributor expectations
-
-We expect participants to go through a set of initial tasks as they start to get involved with Wagtail’s community, ahead of their application. This is for you to get to know Wagtail as a project and community, and get a sense of how we can work together. It also helps mentors assess the skills of candidates, so we can decide which projects we can take on with you.
-
-No matter which specific project idea you’re interested in, we expect all participants to demonstrate:
-
-- **A good understanding of Outreachy**.
-- Awareness of **how open source contributors collaborate**: clear and effective communication, use of english, online etiquette, code of conduct.
-- An **interest in learning and collaboration**: improving in response to feedback, asking questions when appropriate, and helping other contributors.
-- Awareness of **how the Wagtail project works**: communication channels, contribution guidelines.
-- Knowledge of **git and GitHub**: coders or not, those are fundamental tools for how we work as a community.
-
-### Improve your chances of being accepted
-
-The best thing you can do to improve your chances of being accepted as an Outreachy intern with Wagtail is to start being involved now. Make yourself known to the community. Go through our recommended tasks below, recommended learning resources, and help fellow contributors who are going through the same process. Try to contribute to an area related to the project you will be applying for. When the time comes to evaluate applications, you will be a known individual.
-
-We're here to help, but we can't watch you every step of the way. We need to see motivation from you. Your activities before the application process are the best way to demonstrate this. Any application submitted late, from people we haven’t heard from before, will still be considered but might be met with skepticism.
-
-### Contributor tasks
-
-We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure you’re on the right track.
+## Tasks
 
 #### Checklist: Getting started with Outreachy
 
@@ -88,7 +58,7 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project tasks you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Accessibility features documentation
@@ -97,7 +67,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [ ] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page to try out some of Wagtail’s accessibility features.
+- [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 - [ ] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
@@ -126,3 +96,20 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
 - [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+- [YouTube video for Wagtail tutorial](https://www.youtube.com/watch?v=SEPBP0DuoWg)
+- [Wagtail 2.9 documentation](https://docs.wagtail.io/en/v2.9/editor_manual/intro.html)
+- [A blog on wagtail CMS](https://blog.nonstopio.com/wagtail-an-open-source-cms-cec6b93706da)
+
+## First Blog
+[Lessons learned from Microsoft Style Guide](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
+
+## Second Blog on Accessibility
+[Empowering Inclusivity: Enhancing Accessibility on a WordPress Website](https://medium.com/@accanouman/empowering-inclusivity-enhancing-accessibility-on-a-wordpress-website-5c3c07e8b96f)
+
+## Third Blog on Technical Writing
+[Mistakes to Avoid in Technical Procedure Documentation](https://myblogzweb.com/2023/10/21/mistakes-to-avoid-in-technical-procedure-documentation/)
+
+[Lessons learned from Microsoft Style Guide](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
+
