@@ -80,3 +80,13 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [Wagtail User Guide](https://guide.wagtail.org/en-latest/)
 - [Wagtail Developer Docs](https://docs.wagtail.org/en/stable/index.html)
 - [Wagtail Bakerydemo Repository](https://github.com/wagtail/bakerydemo)
+
+## Blog Posts
+
+### Blog Post on Recent Learnings
+
+[Growing My Skill in Web Accessibility](https://dev.to/praiztech/growing-my-skill-in-web-accessibility-2bij)
+
+### Blog Post Demonstrating My Understanding of Accessibility
+
+[My First Open Source Contribution](https://dev.to/praiztech/my-first-open-source-contribution-5b1k)
