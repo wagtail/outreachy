@@ -65,3 +65,18 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
 - [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+
+### Understanding wagtail.org Website Accessibility Project
+
+- [Wagtail.org website accessibility project on Outreachy](https://www.outreachy.org/outreachy-december-2023-internship-round/communities/wagtail/#wagtailorg-accessibility)
+- [Wagtail Accessibility Statement](https://wagtail.org/accessibility/)
+- [Wagtail Accessibility Considerations](https://docs.wagtail.org/en/stable/advanced_topics/accessibility_considerations.html)
+
+### Understanding Wagtail CMS
+
+- [Django documentation](https://docs.djangoproject.com/en/4.2/)
+- [Wagtail User Guide](https://guide.wagtail.org/en-latest/)
+- [Wagtail Developer Docs](https://docs.wagtail.org/en/stable/index.html)
+- [Wagtail Bakerydemo Repository](https://github.com/wagtail/bakerydemo)
