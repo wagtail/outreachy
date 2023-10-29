@@ -1,18 +1,19 @@
 # New Contributor Introduction
 
-Hello! I am Arafat Abdussalam, a Software Engineer with interest in building web applications using Frontend technologies and NodeJs. I am also a technical writer. I enjoy explaining technical concepts to audience who might find my articles helpful. I also love to documents projects I have worked on, someday I might be the one who need to understand my projects and having the thought process taken to achieve the completion of my projects will be helpful to me also. I am only a human, not a computer.
+Hello! I am Arafat Abdussalam, a Software Engineer with interest in building web applications using Frontend technologies and NodeJs. I am also a technical writer. I enjoy explaining technical concepts to audience who might find my articles helpful. I also love to documents projects I have worked on, someday I might be the one who needs to understand my projects and having the thought process taken to achieve the completion of my projects will be helpful to me also. I am only a human, not a computer.
 
 Community engagements drive my tech commitments and participation. I enjoy contributing to free and open software. Open-source contribution has enabled me become more confident in my career while I prepare myself for a full-time role.
 
-When I am not working on tech related activities, I spend my time watching movies and reading books. Although, these days I prioritize doing less as I also need to spend my time doing nothing on some occassion, to avoid experiencing burnouts.
+When I am not working on tech related activities, I spend my time watching movies and reading books. Although, these days I prioritize doing less as I also need to spend my time doing nothing on some occassion, to avoid experiencing burnouts. It has been a whole lot in the past months.
 
 
 # New Contributor Information
 
 | Portfolio | Links | 
 | :---        |    :----:   |  
-| Github   | [ArafatAbdussalam](https://github.com/ArafatAbdussalam)      |  
-| Blog | [Medium](https://medium.com/@ArafatAbdussalam)     |
+| Github   | [Arafat Abdussalam](https://github.com/ArafatAbdussalam)      |  
+| Medium | [ArafatAbdussalam](https://medium.com/@ArafatAbdussalam)     |
+| Hashnode | [ArafatSalam]()  |
 
 
 ## Tasks
@@ -70,9 +71,9 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
-- [ ] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
-- [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
+- [x] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
+- [x] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
+- [x] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
 
@@ -83,6 +84,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [Wagtail Website](https://wagtail.org/)
 - [Wikipedia Resource](https://en.wikipedia.org/wiki/Wagtail_(CMS))
+- [Wagtail User guide](guide.wagtail.org)
 
 
 ### Understanding Accessibility
@@ -94,12 +96,20 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [Mozilla Accessibility Resource](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 
 
-### Writing Activities
+### Blog Posts
 
-At the start of the year, I had to learn how to keep up the pace with multiple activities as a Software Engineer, in this article I wrote specifically how time management helps to ease multitasking effects. [Multitasking as a Software Engineer](https://medium.com/@ArafatAbdussalam/multitasking-as-a-software-engineer-1365f95dc76d)
+1. **Accessibility**
+Participating in the Wagtail project on Accessibility, I have taken into my schedule to learn what Accessibility is all about and it excites me more to have not only learnt about Accessibility Practices in Authoring Tools but to have been able to explain parts of my findings in this article. 
+[Enabling Accessibility in Authoring Tools for Content Authors](https://medium.com/@ArafatAbdussalam/enabling-accessibility-in-authoring-tools-970d971d8d1a)
 
 
-Participating in the Wagtail project on Accessibility, I have taken into my schedule to learn what Accessibility is all about and it excites me more to have not only learnt about Accessibility Practices in Authoring Tools but to have been able to explain parts of my findings in this article. [Enabling Accessibility in Authoring Tools for Content Authors](https://medium.com/@ArafatAbdussalam/enabling-accessibility-in-authoring-tools-970d971d8d1a)
+2. **Technical Writing**
+In this blog post, I explained what documentation writing entails, the reasons for documentation writing and how to write good documentation.
+[The Nitty-Gritty Details of Documentation Writing](https://medium.com/@ArafatAbdussalam/the-nitty-gritty-details-of-technical-writing-9f75bd44b513)
 
-A good software Engineer is not only good at writing software, but also has the skills needed to test the software written. This helps to determine if the code works as expected. Here, I explained the steps taken to write unit test in ReactJs component using Jest library
-[Unit Testing with ReactJs and Jest Library](https://medium.com/@ArafatAbdussalam/unit-testing-with-reactjs-and-jest-framework-8d8a0348267d)
+3. **Personal learning Experience on Multitasking**
+At the start of the year, I had to learn how to keep up the pace with multiple activities as a Software Engineer, in this article I wrote specifically how time management helps to ease multitasking effects. 
+[Multitasking as a Software Engineer](https://medium.com/@ArafatAbdussalam/multitasking-as-a-software-engineer-1365f95dc76d)
+
+
+
