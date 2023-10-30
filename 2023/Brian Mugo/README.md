@@ -32,12 +32,12 @@ My Research Blog
 
 [No One Said It Would Be Easy: Open Source Learning Journey](https://medium.com/@mikanmuchiri/no-one-said-it-would-be-easy-open-source-learning-journey-df44aa3f0491)
 
-
 ## Wagtail.org Accessibility Blog Posts
 
 My Web Accessibility (a11y) Experience
 
 [Color Contrast Accessibility: An Ushahidi Experience](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
+
 
 What I learnt about Django - DRY Principle
 [Make Django Easy with Generic Views: Say No to Repeating!](https://medium.com/@mikanmuchiri/make-django-easy-with-generic-views-say-no-to-repeating-2ba778c2d941)
