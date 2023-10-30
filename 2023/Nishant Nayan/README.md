@@ -38,6 +38,8 @@ Open to your ideas and suggestions on how to improve my writing skills.
 
 [Importance of accessibility features](https://medium.com/@nishantn31/the-importance-of-accessibility-features-uncovering-a-common-website-issue-b7aa5f019ca3) - In this blog, I have shared my understanding of accessibility of how it is connected from daily life instances to digital world.
 
+[Unveiling the Magic of Django: A Beginner’s Journey](https://medium.com/@nishantn31/unveiling-the-magic-of-django-a-beginners-journey-4500fd3c20f8) - In this blog I have shared my learnings of Django framework and mentioned code snippets which I am proud of. 
+
 
 ## Tasks
 
