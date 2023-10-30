@@ -6,13 +6,15 @@ This is my first Participation for Outreachy and I'm Super excited. Attending th
 Outside of my Techsis life, I prefer to call myself an introverted extrovert. I love fun activities, I enjoy playing games that require me to brainstorm such as puzzles and that is why "4 pics 1 word" game is still my favorite game, I love Adventures and exploring new places and learning new things. Music has a way of triggering me plus I am always full of energy and fun fact, my Energy is at it's Peak this month cause it's my Birthday month and being part of Outreachy to contribute is part of the best things to happen on my birth month.
 I look forward to creating long lasting connections on here, learning from my mentors while being a value added teammate to my fellow contributors
 
+
 ## Profiles
 
 | Profiles      | Links |
 | ----------- | ----------- |
-| GitHub  | <https://github.com/uju-juelle>     |
-|   Blog  | <https://hashnode.com/@juelle>      |
-| Instagram | <https://www.instagram.com/uju_juelle/> |
+| GitHub  | https://github.com/uju-juelle     |
+|   Blog  | https://hashnode.com/@juelle      |
+| Instagram | https://www.instagram.com/uju_juelle/ |
+
 
 ## Tasks
 
@@ -20,10 +22,12 @@ I look forward to creating long lasting connections on here, learning from my me
 
 - [ ] Go through Wagtail’s tutorial: Your first Wagtail site. With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
 
+
 - [ ] Go through Wagtail’s guide: Your first contribution.
 
 - [ ] Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
 
 - [ ] Contribute a solution to the issue you selected based on guidance in section "6. Contributing a solution".
+
 
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
