@@ -57,8 +57,16 @@ List of links for webrtc:
 and many more.... [Visit my project source for other information](https://github.com/ShubhamOulkar/Video-Conferencing-Web-App) 
 
 
+## Accessibility Blog post link
+[Modern developers prioritize accessibility on mobile devices](https://github.com/wagtail/wagtail.org/issues/440)
+
+
 ## Django Blog Post link
 [Django's Asynchronous Server Gateway Interface (asgi)](https://heavy-blog.onrender.com/post/4)
+
+## Issue reported on main repository
+[#440](https://github.com/wagtail/wagtail.org/issues/440)
+
 
 ## Tasks
 
