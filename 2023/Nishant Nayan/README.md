@@ -36,6 +36,8 @@ Open to your ideas and suggestions on how to improve my writing skills.
 
 [Never Stop Learning](https://medium.com/@nishantn31/never-stop-learning-994e94825b91) - This is my first ever blog! It tells about my recent new learnings and how I'm finding it resourceful. Please leave your valuable feedback.
 
+[Importance of accessibility features](https://medium.com/@nishantn31/the-importance-of-accessibility-features-uncovering-a-common-website-issue-b7aa5f019ca3) - In this blog, I have shared my understanding of accessibility of how it is connected from daily life instances to digital world.
+
 
 ## Tasks
 
