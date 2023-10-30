@@ -30,6 +30,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
 - Mercy Birungi
+- Mutiat Bashua
 - Naomi Ibe
 - Nsingwire Victor
 - Lanyero Deborah
