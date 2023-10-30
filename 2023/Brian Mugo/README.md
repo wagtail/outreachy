@@ -30,7 +30,7 @@ Due to my intereset in Wagtail's project [#3](https://github.com/wagtail/outreac
 
 My Research Blog
 
-[Supercharge Your Open Source Skills and Feel Awesome Doing It!](https://medium.com/@mikanmuchiri/supercharge-your-open-source-skills-and-feel-awesome-doing-it-381044b3787b)
+[No One Said It Would Be Easy: Open Source Learning Journey](https://medium.com/@mikanmuchiri/no-one-said-it-would-be-easy-open-source-learning-journey-df44aa3f0491)
 
 
 ## Wagtail.org Accessibility Blog Posts
