@@ -36,6 +36,10 @@ Open to your ideas and suggestions on how to improve my writing skills.
 
 [Never Stop Learning](https://medium.com/@nishantn31/never-stop-learning-994e94825b91) - This is my first ever blog! It tells about my recent new learnings and how I'm finding it resourceful. Please leave your valuable feedback.
 
+[Importance of accessibility features](https://medium.com/@nishantn31/the-importance-of-accessibility-features-uncovering-a-common-website-issue-b7aa5f019ca3) - In this blog, I have shared my understanding of accessibility of how it is connected from daily life instances to digital world.
+
+[Unveiling the Magic of Django: A Beginner’s Journey](https://medium.com/@nishantn31/unveiling-the-magic-of-django-a-beginners-journey-4500fd3c20f8) - In this blog I have shared my learnings of Django framework and mentioned code snippets which I am proud of. 
+
 
 ## Tasks
 
@@ -92,22 +96,22 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the [Adopt generic class based views across the Wagtail admin](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#adopt-generic-class-based-views-across-the-wagtail-admin) project.
 
-- [ ] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). With the level of Django expertise needed for this project, we expect you to be able to complete it autonomously in less than 2 hours. If you get stuck, ask for help on Slack or GitHub Discussions.
 - [x] Go through Wagtail’s guide: [Your first contribution](https://docs.wagtail.org/en/stable/contributing/first_contribution_guide.html).
 - [x] Find a first issue to work on within Wagtail, based on the guidance in section "5. Finding an issue". In particular, report back whether you can reproduce the problem/scenario described in the issue, and any notes / thoughts about how to solve it.
 - [x] Contribute a solution to the issue you selected based on guidance in section "6. Contributing a solution".
-- [ ] TBC – Additional tasks specific to the Outreachy application process.
+- [x] TBC – Additional tasks specific to the Outreachy application process.
 
 ### Checklist: Wagtail.org website accessibility
 
 🚧 This checklist is for candidates interested in working on the [Wagtail.org website accessibility](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#wagtailorg-website-accessibility) project.
 
-- [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
 - [x] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
 - [ ] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
 - [x] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
 - [x] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
-- [ ] TBC – Additional tasks specific to the Outreachy application process.
+- [x] TBC – Additional tasks specific to the Outreachy application process.
