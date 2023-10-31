@@ -83,7 +83,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
-- [ ] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 
@@ -120,7 +120,18 @@ This is a list of links to the resources I’ve found most useful in my quest to
 - [Why Web Accessibility Is Important and How You Can Accomplish It](https://medium.com/fbdevclagos/why-web-accessibility-is-important-and-how-you-can-accomplish-it-4f59fda7859c)
 - [How To Do Website Accessibility The Right Way](https://medium.com/@adasitecompliance/how-to-do-website-accessibility-the-right-way-9ee8b395e9a)
 - [Checking a website for accessibility](https://www.washington.edu/accesstech/websites/)
+- [Quick Accessibility Fixes You Can Make on Your Site Right Now!](https://webdevterri.hashnode.dev/quick-accessibility-fixes-you-can-make-right-now)
 
 ## Blog post describing things I’ve learned recently
 
 - [What I have learned recently](https://kofocole.hashnode.dev/things-i-have-leaned-recently-about-contributing-to-opensource)
+
+## checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
+
+### A blog post which demonstrates my understanding of **accessibility**.
+
+[Understanding Web Accessibility for All](https://kofocole.hashnode.dev/understanding-web-accessibility-for-all)
+
+### A blog post which demonstrates my expertise in **technical writing**.
+
+[Navigating Heritage House Montessori Centre (HHMC) Learning Management System (LMS) as a student](https://kofocole.hashnode.dev/navigating-hhmc-learning-management-system-as-a-student)
