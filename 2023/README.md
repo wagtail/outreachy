@@ -16,7 +16,6 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Cole Kofoworola
 - Cynthia Osarumwense Udoh
 - Edgar Nwajei
-- Esther Christopher
 - Eniola Oyebadejo
 - Esther Christopher
 - Fortune Obadiah
@@ -43,6 +42,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Olumide Micheal
 - Oghenekevbe Egume
 - Praise Agbabiaka
+- Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
 - Regina Ndze
 - Stephanie Wanja Njung'e
