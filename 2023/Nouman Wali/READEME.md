@@ -8,13 +8,13 @@
 # 📗 Table of Contents
 
 - [📖 About Nouman Wali](#about-nouman)
-- [ Professional and Social media Links](#social-media-links)
-- [ Tasks](#tasks)
-  - [:ballot_box_with_check: Checklist: Getting started with Outreachy](#getting-started-checklist)
-  - [:ballot_box_with_check: Checklist: open source contributions](#checklist-open-source-contributions)
-  - [:ballot_box_with_check: Checklist: your contribution period with Wagtail](#contribution-period-checklist)
-  - [:ballot_box_with_check: Checklist: interest in learning](#learning-interest-checklist)
-  - [:ballot_box_with_check: Checklist: Accessibility features documentation](#accessibility-features-documentation-checklist)
+- [👷 Professional and Social media Links](#social-media-links)
+- [🚀 Tasks](#tasks)
+  - [✅ Checklist: Getting started with Outreachy](#getting-started-checklist)
+  - [✅ Checklist: open source contributions](#checklist-open-source-contributions)
+  - [✅ Checklist: your contribution period with Wagtail](#contribution-period-checklist)
+  - [✅ Checklist: interest in learning](#learning-interest-checklist)
+  - [✅ Checklist: Accessibility features documentation](#accessibility-features-documentation-checklist)
 - [💻 Research links to learn about Wagtail](#research-links)
 - [📝 First blog on recent learning](#learning-blog)
 - [📝 Second Blog on Accessibility](#accessibility-blog)
@@ -23,7 +23,7 @@
 - [🔭 Future Features](#future-features)
 - [🙏 Acknowledgments](#acknowledgments)
 
-## About Nouman Wali <a name="about-nouman"></a>
+## 📖 About Nouman Wali <a name="about-nouman"></a>
 
 I am Nouman Wali. I have been connected with the software industry for the last 5 years. The key skills are HTML, CSS, Bootstrap, Javascript, UI testing, and content writing. I have experience handling web and mobile-based application projects as a project manager in a small software house. While working in the software industry, I realized that writing documentation and interactive content is something that I want to pursue in my life.
 
@@ -33,16 +33,17 @@ This is my first time participating in the Outreachy contribution program. The r
 
 I love to go hiking in the beautiful mountains of Islamabad, Pakistan. The daily jogging and gym workouts are two of the most important tasks that I do. On weekends, I love to spend some time with my family doing outdoor activities.
 Thank you.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Professional and Social Media Links <a name="social-media-links"></a>
+## 👷 Professional and Social Media Links <a name="social-media-links"></a>
 - [GitHub Profile](https://github.com/nouman17610)
 - [Blogs Website](http://myblogzweb.com/)
 - [Facebook Profile](https://www.facebook.com/nouman.wali.5)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tasks <a name="tasks"></a>
+## 🚀 Tasks <a name="tasks"></a>
 
-#### Checklist: Getting started with Outreachy <a name="getting-started-checklist"></a>
+#### ✅ Checklist: Getting started with Outreachy <a name="getting-started-checklist"></a>
 
 This is the first checklist for candidates to go through.
 
@@ -52,8 +53,9 @@ This is the first checklist for candidates to go through.
 - [ ] Introduce yourself on our [Welcome to Wagtail! Introductions](https://github.com/wagtail/outreachy/discussions/1) discussion thread.
 - [ ] And-or introduce yourself [on the Wagtail Slack](https://github.com/wagtail/wagtail/wiki/Slack) in [#new-contributors](https://github.com/wagtail/wagtail/wiki/Slack#new-contributors).
 - [ ] Set up your own personal blog. Blogging is a fundamental part of Outreachy, and is generally a good way to solidify learnings. You can use a personal website if you want to, or keep it simple and use a platform like Dev.to, Hashnode, or Medium.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Checklist: open source contributions <a name="checklist-open-source-contributions"></a>
+### ✅ Checklist: open source contributions <a name="checklist-open-source-contributions"></a>
 
 > For participants already experienced with GitHub and Markdown, feel free to go through all the suggested tasks in a single pull request.
 
@@ -62,8 +64,9 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 - [ ] Read through [How to contribute to open source](https://opensource.guide/how-to-contribute/)
 - [ ] Read [Open source etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 - [ ] Make your first [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with us! Add your name to the list of participants in [2023/README.md](2023/README.md).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Checklist: your contribution period with Wagtail <a name="contribution-period-checklist"></a>
+### ✅ Checklist: your contribution period with Wagtail <a name="contribution-period-checklist"></a>
 
 And now, we will want you to start using GitHub so we can review your progress over time, and your research ahead of the application, and provide feedback.
 
@@ -79,15 +82,17 @@ To stand out as an applicant,
 
 - [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [ ] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Checklist: interest in learning <a name="learning-interest-checklist"></a>
+### ✅ Checklist: interest in learning <a name="learning-interest-checklist"></a>
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
 - [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or lower on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (for example Dev.to, Hashnode, Medium, your own website, anywhere public), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Checklist: Accessibility features documentation <a name="accessibility-features-documentation-checklist"></a>
+### ✅ Checklist: Accessibility features documentation <a name="accessibility-features-documentation-checklist"></a>
 
 🚧 This checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
 
@@ -98,20 +103,25 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Research links to learn about Wagtail <a name="research-links"></a>
+## 💻 Research links to learn about Wagtail <a name="research-links"></a>
 - [YouTube video for Wagtail tutorial](https://www.youtube.com/watch?v=SEPBP0DuoWg)
 - [Wagtail 2.9 documentation](https://docs.wagtail.io/en/v2.9/editor_manual/intro.html)
 - [A blog on wagtail CMS](https://blog.nonstopio.com/wagtail-an-open-source-cms-cec6b93706da)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## First blog on recent learning <a name="learning-blog"></a>
+## 📝 First blog on recent learning <a name="learning-blog"></a>
 [Lessons learned from Microsoft Style Guide](https://myblogzweb.com/2023/10/14/lessons-learned-from-microsoft-style-guide/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Second Blog on Accessibility <a name="accessibility-blog"></a>
+## 📝 Second Blog on Accessibility <a name="accessibility-blog"></a>
 [Empowering Inclusivity: Enhancing Accessibility on a WordPress Website](https://medium.com/@accanouman/empowering-inclusivity-enhancing-accessibility-on-a-wordpress-website-5c3c07e8b96f)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Third Blog on Technical Writing skills <a name="technical-writing-skills-blog"></a>
+## 📝 Third Blog on Technical Writing skills <a name="technical-writing-skills-blog"></a>
 [Mistakes to Avoid in Technical Procedure Documentation](https://myblogzweb.com/2023/10/21/mistakes-to-avoid-in-technical-procedure-documentation/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
