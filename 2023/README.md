@@ -30,6 +30,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Meli Imelda
 - Mercy Birungi
 - Mutiat Bashua
 - Naomi Ibe
