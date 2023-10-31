@@ -12,7 +12,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Amadi oluchi faith
 - Akinyefa Iyanujesu
 - Brian Mugo
-- Chider Stella Onumajuru
+- Chidera Stella Onumajuru
 - Cole Kofoworola
 - Cynthia Osarumwense Udoh
 - Edgar Nwajei
