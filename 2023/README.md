@@ -6,30 +6,32 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aditya Kapse
 - Ahmed Olaitan
 - Akujobi Chiemezuo
-- Brian Mugo
 - Arafat Abdussalam
 - Aleru Divine Chinwendu
 - Amadi oluchi faith
 - Akinyefa Iyanujesu
 - Brian Mugo
-- Chider Stella Onumajuru
+- Chidera Stella Onumajuru
 - Cole Kofoworola
 - Cynthia Osarumwense Udoh
 - Edgar Nwajei
-- Esther Christopher
 - Eniola Oyebadejo
 - Esther Christopher
 - Fortune Obadiah
 - Folashade Ode
 - Fortune Obadiah
+- Geoffrey Logovi
 - Greatman Ugorji
+- Igbo ujunwa mary
 - Ihedioha Chinedu Innocent
 - Jude Okoye
 - Jamillah Bello
 - Kehinde Bobade
 - Khushi Gautam
 - Kudakwashe Chris Chipangura
+- Meli Imelda
 - Mercy Birungi
+- Mutiat Bashua
 - Naomi Ibe
 - Nsingwire Victor
 - Lanyero Deborah
@@ -40,7 +42,9 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Olumide Micheal
 - Oghenekevbe Egume
 - Praise Agbabiaka
+- Stella Ozioma Ugoo-Okonkwo
 - Raneh Egbe
+- Regina Ndze
 - Stephanie Wanja Njung'e
 - Terkuma Fanyam
 - Taiwo Adeyombo
@@ -49,6 +53,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Shakhrizoda Yusupova
 - Thibaud Colas
 - Tunde Babatunde
+- Shubham Oulkar
 - Siziwe Lupondo
 - Spyke Lionel
 - Thibaud Colas
