@@ -44,6 +44,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Oghenekevbe Egume
 - Praise Agbabiaka
 - Raneh Egbe
+- Regina Ndze
 - Stephanie Wanja Njung'e
 - Terkuma Fanyam
 - Taiwo Adeyombo
