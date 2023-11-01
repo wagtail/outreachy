@@ -44,10 +44,10 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 
 ## Research
-[Gettingstarted](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
-[CMS](https://www.javatpoint.com/cms-full-form) -  I read a bit about CMS on which terminology the project is based on.
-[ATAG 2.0](https://www.w3.org/TR/ATAG20/) - As the accessibility features documentation follows ATAG goals and standard.
-[Wagtail Guide](https://github.com/wagtail/guide)
+- [Gettingstarted](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+- [CMS](https://www.javatpoint.com/cms-full-form) -  I read a bit about CMS on which terminology the project is based on.
+- [ATAG 2.0](https://www.w3.org/TR/ATAG20/) - As the accessibility features documentation follows ATAG goals and standard.
+- [Wagtail Guide](https://github.com/wagtail/guide)
 
 ### Checklist: interest in learning
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the outreachy repository in the 2023/ folder, and making pull requests.
