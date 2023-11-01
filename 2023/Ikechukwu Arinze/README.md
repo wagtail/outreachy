@@ -90,8 +90,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 [Django Project Docs](https://www.djangoproject.com/start/)
 
-## Blog Post On A New Learning Section
-[New Learning: Tendering](https://dev.to/mrkeals/what-is-tendering-3lf4)
+## Blog Post On A New Lesson Learnt
+[New Lesson Learnt: Tendering](https://dev.to/mrkeals/what-is-tendering-3lf4)
 
 ## My Blog Post About Accessibilty
 [Accessibility In Relatable Terms](https://dev.to/mrkeals/accessibility-in-relatable-terms-117i)
