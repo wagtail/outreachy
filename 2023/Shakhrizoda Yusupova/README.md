@@ -37,6 +37,7 @@ Here are the resources I used to better understand Wagtail and the project that 
 ## Blog Posts
 
 1. My blog post about something I've learned recently: [Learning Adobe Illustrator as a Software Developer](https://medium.com/@shyusupova4/learning-adobe-illustrator-as-a-software-developer-268fbbb6ed1b). It scored grade 6 on <https://hemingwayapp.com/>.
+2. My blog post demonstrating my understanding of accessibility: [My Experience with Web Accessibility](https://medium.com/@shyusupova4/my-experience-with-web-accessibility-3a32f3342294)
 
 ## Tasks
 
@@ -89,11 +90,11 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the [Wagtail.org website accessibility](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#wagtailorg-website-accessibility) project.
 
-- [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [ ] Write a short blog post which demonstrates your understanding of **Django**, in less than 500 words. This can be an intro to an existing project of yours, or perhaps explanation of a specific code snippet you’re particularly proud of, or explanation of a specific problem you worked on. The more specific to your own experience the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
-- [ ] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
-- [ ] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
-- [ ] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
-- [ ] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
-- [ ] TBC – Additional tasks specific to the Outreachy application process.
+- [x] Go through Wagtail’s tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html). If you get stuck, ask for help on Slack or GitHub Discussions.
+- [x] Set up [wagtail.org in Gitpod](https://github.com/wagtail/wagtail.org), via the "Open in Gitpod" link in the README.
+- [x] Find an accessibility issue on the live [wagtail.org](https://wagtail.org/) website, and report it on the project’s issue tracker, with appropriate details (title, description, screenshot if applicable, why you think this is an accessibility issue).
+- [x] Fork the [wagtail.org repository](https://github.com/wagtail/wagtail.org) and set up your own copy for development, either in Gitpod or on your own computer.
+- [x] Contribute a solution to the issue you selected, by reproducing it on your copy of the project, and submitting a pull request to the main project.
+- [x] TBC – Additional tasks specific to the Outreachy application process.

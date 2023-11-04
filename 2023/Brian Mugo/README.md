@@ -30,14 +30,14 @@ Due to my intereset in Wagtail's project [#3](https://github.com/wagtail/outreac
 
 My Research Blog
 
-[Supercharge Your Open Source Skills and Feel Awesome Doing It!](https://medium.com/@mikanmuchiri/supercharge-your-open-source-skills-and-feel-awesome-doing-it-381044b3787b)
-
+[No One Said It Would Be Easy: Open Source Learning Journey](https://medium.com/@mikanmuchiri/no-one-said-it-would-be-easy-open-source-learning-journey-df44aa3f0491)
 
 ## Wagtail.org Accessibility Blog Posts
 
 My Web Accessibility (a11y) Experience
 
-[Everyone Needs To See: Color Contrast Matters](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
+[Color Contrast Accessibility: An Ushahidi Experience](https://medium.com/@mikanmuchiri/everyone-needs-to-see-color-contrast-matters-161e497c1a20)
+
 
 What I learnt about Django - DRY Principle
 [Make Django Easy with Generic Views: Say No to Repeating!](https://medium.com/@mikanmuchiri/make-django-easy-with-generic-views-say-no-to-repeating-2ba778c2d941)
