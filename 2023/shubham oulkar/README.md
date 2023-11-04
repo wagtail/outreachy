@@ -67,6 +67,8 @@ and many more.... [Visit my project source for other information](https://github
 ## Issue reported on main repository
 [#440](https://github.com/wagtail/wagtail.org/issues/440)
 
+## PR for code fixes
+[#441](https://github.com/wagtail/wagtail.org/pull/441)
 
 ## Tasks
 
