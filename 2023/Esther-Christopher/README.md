@@ -61,24 +61,57 @@ And now, we will want you to start using GitHub so we can review your progress o
 
 To stand out as an applicant,
 
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
-- [ ] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description, even if very concise).
+
 
 ### Checklist: interest in learning
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within your fork of the `outreachy` repository in the `2023/` folder, and making pull requests.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific project idea(s) you’re interested in. Make sure to use full Markdown link syntax (`[link text](link url)`), so we can understand your choice of resources.
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 7 or better on <https://hemingwayapp.com/>. You can describe any recent learnings – share a list of the last few articles you read and liked, or focus on one specific thing you’ve been learning. It can be a broad area or a very narrow subject. It doesn’t have to be about tech. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+
 
 ### Checklist: Accessibility features documentation
 
 🚧 This checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
 
-- [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
-- [ ] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
-- [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
+
+- [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
+- [x] With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues). Make sure to explain what the feature is, why and how you think it should be documented.
+- [x] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
 - [ ] Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to [guide.wagtail.org](https://guide.wagtail.org/). Once you’ve received access, we ask you to make the necessary changes in the CMS to add the feature documentation.
 - [ ] TBC – Additional tasks specific to the Outreachy application process.
+
+## Research
+### Understanding Wagtail as a project
+- [Getting started with Wagtail](https://wagtail.org/)
+- [Wagtail features](https://wagtail.org/features/)
+- [Wagtail documentation](https://docs.wagtail.org/en/stable/)
+- [Headless CMS](https://wagtail.org/headless-cms/)
+- [Headless Wagtail guide](https://areweheadlessyet.wagtail.org/headless-wagtail-guide)
+- [Improving headless Wagtail](https://areweheadlessyet.wagtail.org/)
+- [Wagtail roadmap](https://wagtail.org/roadmap/)
+
+### Understanding Accessibility
+- [Introduction to web accessibility](https://webaim.org/intro/)
+- [Web Accessibility Initiative](https://www.w3.org/WAI/people-use-web/tools-techniques/)
+- [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [Usability and Accessibility](https://dev.to/yuridevat/usability-accessibility-commonalities-and-differences-108d#:~:text=Usability%20issues%20generally%20affect%20all,accessing%20a%20website%20without%20problems)
+- [W3C](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [A Smashing Guide to Accessibility](https://www.smashingmagazine.com/guides/accessibility/)
+
+### Blog post describing my recent learnings
+- [Learning about Wagtail-Wagtail needs](https://medium.com/@estheradamuchris/learning-about-wagtail-wagtail-needs-10e7e4035f61)
+
+### Blog post demonstrating my understanding of accessibility
+- [Web for all-The Importance of Web Accessibility in My Projects](https://medium.com/@estheradamuchris/web-for-all-the-importance-of-web-accessibility-in-my-projects-d98efdd04d53)
+
+### Blog post demonstrating my expertise in technical writing
+- [My Technical Writing Journey](https://medium.com/@estheradamuchris/my-technical-writing-journey-c588c53a7c4d)
+
+

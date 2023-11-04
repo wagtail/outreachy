@@ -60,8 +60,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the Accessibility features documentation project.
 
-- [ ] Write a short blog post which demonstrates your understanding of accessibility. In English, with at least one image, less than 500 words. Demonstrate your understanding based on past experiences. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform ([Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/), your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ] Write a short blog post which demonstrates your expertise in technical writing. In English, with at least one image, less than 500 words. Demonstrate your expertise based on past experiences. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform ([Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/), your own website),
+- [X] Write a short blog post which demonstrates your understanding of accessibility. In English, with at least one image, less than 500 words. Demonstrate your understanding based on past experiences. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform ([Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/), your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your expertise in technical writing. In English, with at least one image, less than 500 words. Demonstrate your expertise based on past experiences. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform ([Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), [Medium](https://medium.com/), your own website),
 - [ ] Ask @thibaudcolas via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 - [ ] With your access to the demo site and by reviewing our user guide, identify a feature of Wagtail which isn’t documented, and report it back on the guide project issue tracker. Make sure to explain what the feature is, why and how you think it should be documented.
 - [ ] Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
@@ -89,5 +89,10 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 - [5 steps to create technical documentation that's (actually) helpful](https://plan.io/blog/technical-documentation/)
 
 ## Blog post showing my interest in learning
-Click [Here](https://medium.com/@ranehobasi/preserving-heritage-embracing-esan-a-nigerian-language-in-the-digital-era-d5b8a4ce5217)
+[Preserving Heritage:Embracing Esan, a Nigerian Language in the Digital Era](https://medium.com/@ranehobasi/preserving-heritage-embracing-esan-a-nigerian-language-in-the-digital-era-d5b8a4ce5217)
 
+## Blog post showing my understanding of accessibility
+[The Web Should Be P.O.U.R](https://medium.com/@ranehobasi/the-web-should-be-p-o-u-r-dcc259e880a3)
+
+## Blog post showing my expertise in technical writing
+[My Journey Into Technical Writing](https://medium.com/@ranehobasi/my-journey-into-technical-writing-b96e45586709)
