@@ -69,8 +69,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 🚧 This checklist is for candidates interested in working on the [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation) project.
 
-- [ ] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-- [ ]  Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post which demonstrates your understanding of **accessibility**. In English, with at least one image, less than 500 words. Demonstrate your understanding _based on past experiences_. For example, any specific accessibility improvements you’ve done in the past, or specific issues you identified. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x]  Write a short blog post which demonstrates your expertise in **technical writing**. In English, with at least one image, less than 500 words. Demonstrate your expertise _based on past experiences_. For example, any specific documentation writing you’ve done in the past, or other technical writing you’ve made. The more specific the better. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [ ]  Ask [@thibaudcolas](https://github.com/thibaudcolas) via email or on Slack to give you editor access to a Wagtail website. Once you’ve received access, we ask you to create a new page demonstrating some of Wagtail’s accessibility features.
 - [ ]  With your access to the demo site and by reviewing our [user guide](https://guide.wagtail.org/), identify a feature of Wagtail which isn’t documented, and report it back on the [guide project issue tracker](https://github.com/wagtail/guide/issues).Make sure to explain what the feature is, why and how you think it should be documented.
 - [ ]  Draft the new content to document the feature of Wagtail which you’ve reported isn’t documented. Add it to the issue you created as a new comment, so we can provide feedback.
@@ -80,10 +80,53 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ## Research
 
+#### Understanding GitHub
+
+[GitHub for beginners](https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=599s)
+
+[Writing and Formatting in GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+
+[Creating tables in Gitbhub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+#### Understanding Accessibility
+
+[The A11y Project](https://www.a11yproject.com/)
+
+[Intro/ Refresher to A11y playlist](https://www.youtube.com/playlist?list=PLWSYD-KxdDxvxYQ2UHixf6vvlbhvUzXNB)
+
+[Accessibility vs Usability](https://dev.to/yuridevat/usability-accessibility-commonalities-and-differences-108d#:~:text=Usability%20issues%20generally%20affect%20all,accessing%20a%20website%20without%20problems.)
+
+[A11y tool guidelines](https://www.w3.org/TR/ATAG20/)
+
+[Steve Krug's _Don't Make Me Think_](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
+[_Don't Make Me Think_ Book Summary](https://www.youtube.com/watch?v=QLzA3CfXI0M&t=7s)
+
+#### Getting familiar with Wagtail
+
+[Wagtail features](https://wagtail.org/features/)
+
+[Wagtail for Beginners](https://www.youtube.com/watch?v=06n3dxEofnc&t=44s)
+
+[Learn Wagtail](https://www.youtube.com/playlist?list=PLMQHMcNi6ocsS8Bfnuy_IDgJ4bHRRrvub)
+
+
 
 #### Short Blog Post- Recent Learnings
 [Accessibility and usability like a five year old](https://open.substack.com/pub/olanrewajuolaitan/p/accessibility-and-usability-like?r=74wej&utm_campaign=post&utm_medium=web)
 
 
+#### Accessibilty Blog Update
+
+My blogpost on a form of accessibility I've observed in my community
+
+[Observing accessibilty of information in an online community](https://open.substack.com/pub/olanrewajuolaitan/p/whats-up-discord?r=74wej&utm_campaign=post&utm_medium=web)
+
+
+
+My blogpost on technical writing experience
+My experience here is in form of understanding UX research and some methods I used in a personal project. My blogpost is somewhat like a how-to manual mixed with my experience.
+
+[A Review of UX Research Methods](https://open.substack.com/pub/olanrewajuolaitan/p/a-review-of-ux-research-methods?r=74wej&utm_campaign=post&utm_medium=web)
 
 
