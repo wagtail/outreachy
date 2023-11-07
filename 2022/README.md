@@ -115,7 +115,7 @@ See our initial announcement: [Outreachy: welcoming new contributors to open sou
 
 ### Develop tools to help Wagtail editors create accessible content
 
-- Contributor: Albina Starikova [@albinazs](https://github.com/albinazs), Twitter: [@albinastarykova](https://twitter.com/albinastarykova)
+- Contributor: Albina Starykova [@albinazs](https://github.com/albinazs), Twitter: [@albinastarykova](https://twitter.com/albinastarykova)
 - Mentors: Sage Abdullah, Joshua Munn, Thibaud Colas
 - [outreachy.org link](https://www.outreachy.org/outreachy-december-2022-internship-round/communities/wagtail/#create-an-accessibility-checker-for-wagtail)
 - Project updates: [Built-in accessibility checker for Wagtail #9262](https://github.com/wagtail/wagtail/discussions/9262)
