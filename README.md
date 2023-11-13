@@ -1,5 +1,9 @@
 # Wagtail’s Outreachy participation
 
+## 2024
+
+👋 we’ve not decided whether we’ll take part in 2024. We will confirm our participation at the end of September 2024. If you want to participate with us, please submit [our expression of interest form](https://docs.google.com/forms/d/e/1FAIpQLScKaKgb8lYkzD2IwEjpPwQ4kxBCcSmUdLJDH3Zfl3IwpCTHTA/viewform?usp=sf_link).
+
 ## 2023
 
 Welcome! This repository contains all resources for Wagtail’s participation to Outreachy in December 2023: for contributors, mentors, and coordinators.
