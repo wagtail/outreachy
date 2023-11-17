@@ -127,7 +127,7 @@ This project requires an intermediate level of understanding in Django, in parti
 We will have multiple mentors on this project – please use our [preferred communication channels](contributor-guide.md#communication-channels) where possible.
 
 - Lead mentor: Sage Abdullah, [@laymonage](https://github.com/laymonage)
-- Support mentor: TBC
+- Support mentor: Aman Pandey, [@salty-ivy](https://github.com/salty-ivy)
 - Support mentor: TBC
 - Backup mentor: TBC
 
